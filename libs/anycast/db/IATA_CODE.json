@@ -1,0 +1,9314 @@
+{
+    "AAL":{
+        "City":"Aalborg",
+        "Country":"Denmark"
+    },
+    "AES":{
+        "City":"Alesund",
+        "Country":"Norway"
+    },
+    "AAR":{
+        "City":"Aarhus",
+        "Country":"Denmark"
+    },
+    "ABD":{
+        "City":"Abadan",
+        "Country":"Iran"
+    },
+    "YXX":{
+        "City":"Abbotsford",
+        "Country":"Canada (BC)"
+    },
+    "AEH":{
+        "City":"Abeche",
+        "Country":"Chad"
+    },
+    "ABZ":{
+        "City":"Aberdeen",
+        "Country":"Scotland, UK"
+    },
+    "ABR":{
+        "City":"Aberdeen (SD)",
+        "Country":"USA"
+    },
+    "ABJ":{
+        "City":"Abidjan (capital city)",
+        "Country":"Cote d'Ivoire"
+    },
+    "ABI":{
+        "City":"Abilene (TX)",
+        "Country":"USA"
+    },
+    "AUH":{
+        "City":"Abu Dhabi (capital city)",
+        "Country":"United Arab Emirates"
+    },
+    "ABV":{
+        "City":"Abuja (capital city)",
+        "Country":"Nigeria"
+    },
+    "AUE":{
+        "City":"Abu Rudeis",
+        "Country":"Egypt"
+    },
+    "ABS":{
+        "City":"Abu Simbel",
+        "Country":"Egypt"
+    },
+    "ACA":{
+        "City":"Acapulco",
+        "Country":"Mexico"
+    },
+    "ACC":{
+        "City":"Accra (capital city)",
+        "Country":"Ghana"
+    },
+    "LCG":{
+        "City":"A Coruna (Corunna)",
+        "Country":"Spain"
+    },
+    "ADA":{
+        "City":"Adana",
+        "Country":"Turkey"
+    },
+    "ADD":{
+        "City":"Addis Ababa (capital city)",
+        "Country":"Ethiopia"
+    },
+    "ADL":{
+        "City":"Adelaide",
+        "Country":"Australia"
+    },
+    "ADE":{
+        "City":"Aden",
+        "Country":"Yemen"
+    },
+    "ADF":{
+        "City":"Adiyaman",
+        "Country":"Turkey"
+    },
+    "AER":{
+        "City":"Adler/Sochi",
+        "Country":"Russia"
+    },
+    "AJY":{
+        "City":"Agadez",
+        "Country":"Niger"
+    },
+    "AGA":{
+        "City":"Agadir (Amazigh)",
+        "Country":"Morocco"
+    },
+    "GUM":{
+        "City":"Hag\u00e5t\u00f1a (capital)",
+        "Country":"Guam"
+    },
+    "AGZ":{
+        "City":"Aggeneys",
+        "Country":"South Africa"
+    },
+    "AJI":{
+        "City":"Agri (A\u011fr\u0131)",
+        "Country":"Turkey"
+    },
+    "BQN":{
+        "City":"Aguadilla",
+        "Country":"Puerto Rico"
+    },
+    "AGU":{
+        "City":"Aguascalientes",
+        "Country":"Mexico"
+    },
+    "AMD":{
+        "City":"Ahmedabad",
+        "Country":"Gujarat, India"
+    },
+    "AYU":{
+        "City":"Aiyura",
+        "Country":"Papua New Guinea"
+    },
+    "AJA":{
+        "City":"Ajaccio",
+        "Country":"Corsica, France"
+    },
+    "AXT":{
+        "City":"Akita",
+        "Country":"Japan"
+    },
+    "CAK":{
+        "City":"Akron (OH)",
+        "Country":"USA"
+    },
+    "AKT":{
+        "City":"Akrotiri (British Overseas Territory)",
+        "Country":"Cyprus"
+    },
+    "AAN":{
+        "City":"Al Ain",
+        "Country":"United Arab Emirates"
+    },
+    "AAC":{
+        "City":"Al Arish",
+        "Country":"Egypt"
+    },
+    "AHU":{
+        "City":"Al Hoceima",
+        "Country":"Morocco"
+    },
+    "ALH":{
+        "City":"Albany",
+        "Country":"Australia"
+    },
+    "ABY":{
+        "City":"Albany (GA)",
+        "Country":"USA"
+    },
+    "ALB":{
+        "City":"Albany (NY)",
+        "Country":"USA"
+    },
+    "LBI":{
+        "City":"Albi",
+        "Country":"France"
+    },
+    "ABQ":{
+        "City":"Albuquerque (NM)",
+        "Country":"USA"
+    },
+    "ABX":{
+        "City":"Albury",
+        "Country":"Australia"
+    },
+    "ACI":{
+        "City":"Alderney",
+        "Country":"Channel Islands (UK)"
+    },
+    "ALP":{
+        "City":"Aleppo",
+        "Country":"Syria"
+    },
+    "ALJ":{
+        "City":"Alexander Bay",
+        "Country":"South Africa"
+    },
+    "HBE":{
+        "City":"Alexandria",
+        "Country":"Egypt"
+    },
+    "ALY":{
+        "City":"Alexandria",
+        "Country":"Egypt"
+    },
+    "AEX":{
+        "City":"Alexandria (LA)",
+        "Country":"USA"
+    },
+    "ESF":{
+        "City":"Alexandria (LA)",
+        "Country":"USA"
+    },
+    "FJR":{
+        "City":"Fujairah",
+        "Country":"United Arab Emirates"
+    },
+    "AHO":{
+        "City":"Alghero Sassari",
+        "Country":"Sardinia, Italy"
+    },
+    "ALG":{
+        "City":"Algiers (capital city)",
+        "Country":"Algeria"
+    },
+    "ALC":{
+        "City":"Alicante",
+        "Country":"Spain"
+    },
+    "ASP":{
+        "City":"Alice Springs",
+        "Country":"Australia"
+    },
+    "ADY":{
+        "City":"Alldays",
+        "Country":"Limpopo, South Africa"
+    },
+    "ABE":{
+        "City":"Allentown (PA)",
+        "Country":"USA"
+    },
+    "ALA":{
+        "City":"Almaty (capital city)",
+        "Country":"Kazakhstan"
+    },
+    "LEI":{
+        "City":"Almeria",
+        "Country":"Spain"
+    },
+    "ALF":{
+        "City":"Alta",
+        "Country":"Norway"
+    },
+    "AAT":{
+        "City":"Altay",
+        "Country":"Xinjiang, China"
+    },
+    "ACH":{
+        "City":"Altenrhein, St. Gallen",
+        "Country":"Switzerland"
+    },
+    "AOO":{
+        "City":"Altoona (PA)",
+        "Country":"USA"
+    },
+    "AXS":{
+        "City":"Altus (OK)",
+        "Country":"USA"
+    },
+    "ASJ":{
+        "City":"Amami",
+        "Country":"Amami Island, Japan"
+    },
+    "AMA":{
+        "City":"Amarillo (TX)",
+        "Country":"USA"
+    },
+    "AZB":{
+        "City":"Amazon Bay/Deba",
+        "Country":"Deba, Papua New Guinea"
+    },
+    "AMM":{
+        "City":"Amman (capital city)",
+        "Country":"Jordan"
+    },
+    "ADJ":{
+        "City":"Amman",
+        "Country":"Jordan"
+    },
+    "ATQ":{
+        "City":"Amritsar",
+        "Country":"Punjab, India"
+    },
+    "AMS":{
+        "City":"Amsterdam",
+        "Country":"Netherlands"
+    },
+    "ANC":{
+        "City":"Anchorage (AK)",
+        "Country":"USA"
+    },
+    "AOI":{
+        "City":"Ancona",
+        "Country":"Italy"
+    },
+    "ALV":{
+        "City":"Andorra La Vella",
+        "Country":"Andorra"
+    },
+    "AXA":{
+        "City":"Anguilla/The Valley",
+        "Country":"Anguilla"
+    },
+    "AJN":{
+        "City":"Anjouan",
+        "Country":"Comoros (Comores)"
+    },
+    "ANK":{
+        "City":"Ankara (capital city)",
+        "Country":"Turkey"
+    },
+    "ESB":{
+        "City":"Ankara",
+        "Country":"Turkey"
+    },
+    "AAE":{
+        "City":"Annaba",
+        "Country":"Algeria"
+    },
+    "ARB":{
+        "City":"Ann Arbor",
+        "Country":"MI, USA"
+    },
+    "NCY":{
+        "City":"Annecy",
+        "Country":"France"
+    },
+    "ANB":{
+        "City":"Anniston (AL)",
+        "Country":"USA"
+    },
+    "AYT":{
+        "City":"Antalya",
+        "Country":"Turkey"
+    },
+    "TNR":{
+        "City":"Antananarivo (capital city)",
+        "Country":"Madagascar"
+    },
+    "ANU":{
+        "City":"St. John's (capital city)",
+        "Country":"Antigua and Barbuda"
+    },
+    "ANF":{
+        "City":"Antofagasta",
+        "Country":"Chile"
+    },
+    "ANR":{
+        "City":"Antwerp",
+        "Country":"Belgium"
+    },
+    "AOJ":{
+        "City":"Aomori",
+        "Country":"Japan"
+    },
+    "APW":{
+        "City":"Apia (capital city)",
+        "Country":"Samoa"
+    },
+    "ATW":{
+        "City":"Appelton/Neenah/Menasha",
+        "Country":"WI, USA"
+    },
+    "AQJ":{
+        "City":"Aqaba",
+        "Country":"Jordan"
+    },
+    "AJU":{
+        "City":"Aracaju",
+        "Country":"Brazil"
+    },
+    "AQP":{
+        "City":"Arequipa",
+        "Country":"Peru"
+    },
+    "ARH":{
+        "City":"Arkhangelsk",
+        "Country":"Russia"
+    },
+    "ARK":{
+        "City":"Arusha",
+        "Country":"Tanzania"
+    },
+    "GPA":{
+        "City":"Araxos/Patras",
+        "Country":"Greece"
+    },
+    "RLT":{
+        "City":"Arlit",
+        "Country":"Niger"
+    },
+    "ACE":{
+        "City":"Arrecife/Lanzarote",
+        "Country":"Spain"
+    },
+    "AUA":{
+        "City":"Oranjestad",
+        "Country":"Aruba"
+    },
+    "AVL":{
+        "City":"Asheville",
+        "Country":"NC, USA"
+    },
+    "ASB":{
+        "City":"Ashgabat (capital city)",
+        "Country":"Turkmenistan"
+    },
+    "ASM":{
+        "City":"Asmara (capital city)",
+        "Country":"Eritrea"
+    },
+    "ASE":{
+        "City":"Aspen (CO)",
+        "Country":"USA"
+    },
+    "ATZ":{
+        "City":"Assiut",
+        "Country":"Egypt"
+    },
+    "TSE":{
+        "City":"Astana (capital city)",
+        "Country":"Kazakhstan"
+    },
+    "ASU":{
+        "City":"Asuncion",
+        "Country":"Paraguay"
+    },
+    "ASW":{
+        "City":"Aswan",
+        "Country":"Egypt"
+    },
+    "ATH":{
+        "City":"Athens",
+        "Country":"Greece"
+    },
+    "HEW":{
+        "City":"Athens",
+        "Country":"Greece"
+    },
+    "AHN":{
+        "City":"Athens (GA)",
+        "Country":"USA"
+    },
+    "ATO":{
+        "City":"Athens (OH)",
+        "Country":"USA"
+    },
+    "ATL":{
+        "City":"Atlanta (GA)",
+        "Country":"USA"
+    },
+    "ACY":{
+        "City":"Atlantic City (NJ)",
+        "Country":"USA"
+    },
+    "YAT":{
+        "City":"Attawapiskat",
+        "Country":"NT, Canada"
+    },
+    "AKL":{
+        "City":"Auckland",
+        "Country":"New Zealand"
+    },
+    "AGB":{
+        "City":"Augsburg",
+        "Country":"Germany"
+    },
+    "AGS":{
+        "City":"Augusta (GA)",
+        "Country":"USA"
+    },
+    "AUG":{
+        "City":"Augusta (ME)",
+        "Country":"USA"
+    },
+    "AUR":{
+        "City":"Aurillac",
+        "Country":"France"
+    },
+    "AUS":{
+        "City":"Austin",
+        "Country":"(TX) USA"
+    },
+    "AYW":{
+        "City":"Ayawasi",
+        "Country":"Indonesia"
+    },
+    "AYQ":{
+        "City":"Ayers Rock",
+        "Country":"Australia"
+    },
+    "AYR":{
+        "City":"Ayr",
+        "Country":"Australia"
+    },
+    "BCD":{
+        "City":"Bacolod",
+        "Country":"Philippines"
+    },
+    "BCM":{
+        "City":"Bac\u0103u",
+        "Country":"Romania"
+    },
+    "BJZ":{
+        "City":"Badajoz",
+        "Country":"Spain"
+    },
+    "BGW":{
+        "City":"Bagdad (capital city)",
+        "Country":"Iraq"
+    },
+    "IXB":{
+        "City":"Bagdogra",
+        "Country":"India"
+    },
+    "NAS":{
+        "City":"Nassau (capital city)",
+        "Country":"Bahamas"
+    },
+    "BHV":{
+        "City":"Bahawalpur",
+        "Country":"Pakistan"
+    },
+    "BAH":{
+        "City":"Manama (capital city)",
+        "Country":"Bahrain"
+    },
+    "BFL":{
+        "City":"Bakersfield (CA)",
+        "Country":"USA"
+    },
+    "BAK":{
+        "City":"Baku (capital city)",
+        "Country":"Azerbaijan"
+    },
+    "BPN":{
+        "City":"Balikpapan",
+        "Country":"Kalimantan, Indonesia"
+    },
+    "BNK":{
+        "City":"Ballina",
+        "Country":"Australia"
+    },
+    "BWI":{
+        "City":"Washington D.C.",
+        "Country":"USA"
+    },
+    "ABM":{
+        "City":"Bamaga",
+        "Country":"Australia"
+    },
+    "BKO":{
+        "City":"Bamako (capital city)",
+        "Country":"Mali"
+    },
+    "BBY":{
+        "City":"Bambari",
+        "Country":"Central African Republic"
+    },
+    "BTJ":{
+        "City":"Banda Aceh",
+        "Country":"Indonesia"
+    },
+    "BND":{
+        "City":"Bandar Abbas",
+        "Country":"Iran"
+    },
+    "BWN":{
+        "City":"Bandar Seri Begawan (capital city)",
+        "Country":"Brunei"
+    },
+    "BDO":{
+        "City":"Bandung",
+        "Country":"Indonesia"
+    },
+    "BLR":{
+        "City":"Bangalore",
+        "Country":"India"
+    },
+    "BGU":{
+        "City":"Bangassou",
+        "Country":"Central African Republic"
+    },
+    "BKK":{
+        "City":"Bangkok",
+        "Country":"Thailand"
+    },
+    "DMK":{
+        "City":"Bangkok",
+        "Country":"Thailand"
+    },
+    "BGR":{
+        "City":"Bangor (ME)",
+        "Country":"USA"
+    },
+    "BGF":{
+        "City":"Bangui (capital city)",
+        "Country":"Central African Republic"
+    },
+    "BNX":{
+        "City":"Banja Luka",
+        "Country":"Bosnia and Herzegovina"
+    },
+    "BDJ":{
+        "City":"Banjarmasin",
+        "Country":"Kalimantan, Indonesia"
+    },
+    "BJL":{
+        "City":"Banjul (capital city)",
+        "Country":"The Gambia"
+    },
+    "BNP":{
+        "City":"Bannu",
+        "Country":"Pakistan"
+    },
+    "BAV":{
+        "City":"Baotou",
+        "Country":"Inner Mongolia, China"
+    },
+    "BCN":{
+        "City":"Barcelona",
+        "Country":"Spain"
+    },
+    "BLA":{
+        "City":"Barcelona",
+        "Country":"Venezuela"
+    },
+    "BDU":{
+        "City":"Bardufoss",
+        "Country":"Norway"
+    },
+    "BRI":{
+        "City":"Bari",
+        "Country":"Italy"
+    },
+    "BZL":{
+        "City":"Barisal",
+        "Country":"Bangladesh"
+    },
+    "BDQ":{
+        "City":"Baroda (Vadodara)",
+        "Country":"India"
+    },
+    "BRR":{
+        "City":"Barra",
+        "Country":"Scotland, United Kingdom"
+    },
+    "BAQ":{
+        "City":"Barranquilla",
+        "Country":"Colombia"
+    },
+    "BSL":{
+        "City":"Basel",
+        "Country":"Switzerland"
+    },
+    "EAP":{
+        "City":"Basel",
+        "Country":"Switzerland"
+    },
+    "BSR":{
+        "City":"Basra - (Basrah)",
+        "Country":"Iraq"
+    },
+    "PTP":{
+        "City":"Pointe a Pitre",
+        "Country":"Guadeloupe"
+    },
+    "SKB":{
+        "City":"St. Kitts",
+        "Country":"St. Kitts and Nevis"
+    },
+    "BIA":{
+        "City":"Bastia",
+        "Country":"France"
+    },
+    "BTH":{
+        "City":"Batam",
+        "Country":"Riau Islands, Indonesia"
+    },
+    "BTR":{
+        "City":"Baton Rouge (LA)",
+        "Country":"USA"
+    },
+    "BBM":{
+        "City":"Battambang",
+        "Country":"Cambodia"
+    },
+    "BCU":{
+        "City":"Bauchi",
+        "Country":"Nigeria"
+    },
+    "BYU":{
+        "City":"Bayreuth",
+        "Country":"Germany"
+    },
+    "BPT":{
+        "City":"Beaumont/Pt. Arthur (TX)",
+        "Country":"USA"
+    },
+    "BVA":{
+        "City":"Paris/Beauvais",
+        "Country":"France"
+    },
+    "BKW":{
+        "City":"Beckley (WV)",
+        "Country":"USA"
+    },
+    "EIS":{
+        "City":"Beef Island",
+        "Country":"Virgin Islands (British)"
+    },
+    "BHY":{
+        "City":"Beihai",
+        "Country":"Guangxi, China"
+    },
+    "PEK":{
+        "City":"Beijing (capital city)",
+        "Country":"PR China"
+    },
+    "BJS":{
+        "City":"Beijing",
+        "Country":"China"
+    },
+    "---":{
+        "City":"Mirpur",
+        "Country":"Pakistan"
+    },
+    "NAY":{
+        "City":"Beijing",
+        "Country":"China"
+    },
+    "BEW":{
+        "City":"Beira",
+        "Country":"Mozambique"
+    },
+    "BEY":{
+        "City":"Beirut (capital city)",
+        "Country":"Lebanon"
+    },
+    "BEL":{
+        "City":"Bel\u00e9m",
+        "Country":"Brazil"
+    },
+    "BFS":{
+        "City":"Belfast",
+        "Country":"Northern Ireland, UK"
+    },
+    "BHD":{
+        "City":"Belfast",
+        "Country":"United Kingdom"
+    },
+    "IXG":{
+        "City":"Belgaum",
+        "Country":"India"
+    },
+    "BEG":{
+        "City":"Belgrad (Beograd; capital city)",
+        "Country":"Serbia"
+    },
+    "BZE":{
+        "City":"Belize City",
+        "Country":"Belize"
+    },
+    "BLI":{
+        "City":"Bellingham (WA)",
+        "Country":"USA"
+    },
+    "BCV":{
+        "City":"Belmopan (capital city)",
+        "Country":"Belize"
+    },
+    "CNF":{
+        "City":"Belo Horizonte",
+        "Country":"Brazil"
+    },
+    "PLU":{
+        "City":"Belo Horizonte",
+        "Country":"Brazil"
+    },
+    "BJI":{
+        "City":"Bemidji (MN)",
+        "Country":"USA"
+    },
+    "BEB":{
+        "City":"Benbecula",
+        "Country":"United Kingdom"
+    },
+    "BEN":{
+        "City":"Benghazi (Bengasi)",
+        "Country":"Libya"
+    },
+    "BUG":{
+        "City":"Benguela",
+        "Country":"Angola"
+    },
+    "BNI":{
+        "City":"Benin City",
+        "Country":"Nigeria"
+    },
+    "BEH":{
+        "City":"Benton Harbour (MI)",
+        "Country":"USA"
+    },
+    "BBT":{
+        "City":"Berberati",
+        "Country":"Central African Republic"
+    },
+    "BGY":{
+        "City":"Milan",
+        "Country":"Italy"
+    },
+    "BGO":{
+        "City":"Bergen",
+        "Country":"Norway"
+    },
+    "EGC":{
+        "City":"Bergerac",
+        "Country":"France"
+    },
+    "BER":{
+        "City":"Berlin",
+        "Country":"Germany"
+    },
+    "SXF":{
+        "City":"Berlin",
+        "Country":"Germany"
+    },
+    "TXL":{
+        "City":"Berlin",
+        "Country":"Germany"
+    },
+    "THF":{
+        "City":"Berlin",
+        "Country":"Germany"
+    },
+    "BDA":{
+        "City":"Bermuda",
+        "Country":"Bermuda"
+    },
+    "BRN":{
+        "City":"Berne (capital city)",
+        "Country":"Switzerland"
+    },
+    "BET":{
+        "City":"Bethel (AK)",
+        "Country":"USA"
+    },
+    "BMO":{
+        "City":"Bhamo",
+        "Country":"Myanmar"
+    },
+    "BHR":{
+        "City":"Bharatpur",
+        "Country":"Nepal"
+    },
+    "BHO":{
+        "City":"Bhopal",
+        "Country":"India"
+    },
+    "BBI":{
+        "City":"Bhubaneswar",
+        "Country":"India"
+    },
+    "BIQ":{
+        "City":"Biarritz",
+        "Country":"France"
+    },
+    "BIO":{
+        "City":"Bilbao",
+        "Country":"Spain"
+    },
+    "BIL":{
+        "City":"Billings (MT)",
+        "Country":"USA"
+    },
+    "BLL":{
+        "City":"Billund",
+        "Country":"Denmark"
+    },
+    "BTU":{
+        "City":"Bintulu",
+        "Country":"Malaysia"
+    },
+    "IRO":{
+        "City":"Biraro",
+        "Country":"Central African Republic"
+    },
+    "BHX":{
+        "City":"Birmingham",
+        "Country":"United Kingdom"
+    },
+    "BHM":{
+        "City":"Birmingham (AL)",
+        "Country":"USA"
+    },
+    "FRU":{
+        "City":"Bishkek (capital city)",
+        "Country":"Kyrgyzstan"
+    },
+    "BIS":{
+        "City":"Bismarck (ND)",
+        "Country":"USA"
+    },
+    "BXO":{
+        "City":"Bissau (capital city)",
+        "Country":"Guinea-Bissau"
+    },
+    "BCB":{
+        "City":"Blacksburg (VA)",
+        "Country":"USA"
+    },
+    "BLK":{
+        "City":"Blackpool",
+        "Country":"United Kingdom"
+    },
+    "BLT":{
+        "City":"Blackwater",
+        "Country":"Australia"
+    },
+    "BLZ":{
+        "City":"Blantyre",
+        "Country":"Malawi"
+    },
+    "BHE":{
+        "City":"Blenheim",
+        "Country":"New Zealand"
+    },
+    "BFN":{
+        "City":"Bloemfontein (judicial capital)",
+        "Country":"South Africa"
+    },
+    "BMI":{
+        "City":"Bloomington (IL)",
+        "Country":"USA"
+    },
+    "BMG":{
+        "City":"Bloomington (IN)",
+        "Country":"USA"
+    },
+    "BLF":{
+        "City":"Bluefield (WV)",
+        "Country":"USA"
+    },
+    "BYH":{
+        "City":"Blytheville (AR)",
+        "Country":"USA"
+    },
+    "BVB":{
+        "City":"Boa Vista",
+        "Country":"Brazil"
+    },
+    "BVC":{
+        "City":"Boa Vista",
+        "Country":"Boa Vista, Cape Verde"
+    },
+    "BOY":{
+        "City":"Bobo Dioulasso",
+        "Country":"Burkina Faso"
+    },
+    "BOO":{
+        "City":"Bod\u00f8",
+        "Country":"Norway"
+    },
+    "BJV":{
+        "City":"Bodrum",
+        "Country":"Turkey"
+    },
+    "BOG":{
+        "City":"Bogota (capital city)",
+        "Country":"Colombia"
+    },
+    "BOI":{
+        "City":"Boise (ID)",
+        "Country":"USA"
+    },
+    "BKJ":{
+        "City":"Bok\u00e9",
+        "Country":"Guinea"
+    },
+    "BLQ":{
+        "City":"Bologna",
+        "Country":"Italy"
+    },
+    "BZO":{
+        "City":"Bolzano",
+        "Country":"Italy"
+    },
+    "BOM":{
+        "City":"Mumbai (Bombay)",
+        "Country":"India"
+    },
+    "BON":{
+        "City":"Bonaire",
+        "Country":"Netherlands Antilles"
+    },
+    "YVB":{
+        "City":"Bonaventure",
+        "Country":"Canada"
+    },
+    "BTE":{
+        "City":"Bonthe",
+        "Country":"Sierra Leone"
+    },
+    "BOB":{
+        "City":"Bora Bora",
+        "Country":"French Polynesia"
+    },
+    "BOD":{
+        "City":"Bordeaux",
+        "Country":"France"
+    },
+    "BXS":{
+        "City":"Borrego Springs (CA)",
+        "Country":"USA"
+    },
+    "BSA":{
+        "City":"Bosaso",
+        "Country":"Somalia"
+    },
+    "BOS":{
+        "City":"Boston (MA)",
+        "Country":"USA"
+    },
+    "BYK":{
+        "City":"Bouake",
+        "Country":"Cote d'Ivoire"
+    },
+    "BLD":{
+        "City":"Boulder City (NV)",
+        "Country":"USA"
+    },
+    "BOJ":{
+        "City":"Bourgas/Burgas",
+        "Country":"Bulgaria"
+    },
+    "BOH":{
+        "City":"Bournemouth",
+        "Country":"United Kingdom"
+    },
+    "ZBO":{
+        "City":"Bowen",
+        "Country":"Australia"
+    },
+    "BZN":{
+        "City":"Bozeman (MT)",
+        "Country":"USA"
+    },
+    "BFD":{
+        "City":"Bradford/Warren (NY)",
+        "Country":"USA"
+    },
+    "BGZ":{
+        "City":"Braga",
+        "Country":"Portugal"
+    },
+    "BRD":{
+        "City":"Brainerd (MN)",
+        "Country":"USA"
+    },
+    "BMP":{
+        "City":"Brampton Island",
+        "Country":"Australia"
+    },
+    "BSB":{
+        "City":"Brasilia (capital city)",
+        "Country":"Brazil"
+    },
+    "BTS":{
+        "City":"Bratislava (capital city)",
+        "Country":"Slovakia"
+    },
+    "BZV":{
+        "City":"Brazzaville (capital city)",
+        "Country":"Congo (ROC)"
+    },
+    "BRE":{
+        "City":"Bremen",
+        "Country":"Germany"
+    },
+    "VBS":{
+        "City":"Verona - Brescia - Montichiari",
+        "Country":"Italy"
+    },
+    "BES":{
+        "City":"Brest",
+        "Country":"France"
+    },
+    "BIV":{
+        "City":"Bria",
+        "Country":"Central African Republic"
+    },
+    "BDR":{
+        "City":"Bridgeport (CT)",
+        "Country":"USA"
+    },
+    "BGI":{
+        "City":"Bridgetown (capital city)",
+        "Country":"Barbados"
+    },
+    "BDS":{
+        "City":"Brindisi",
+        "Country":"Italy"
+    },
+    "BNE":{
+        "City":"Brisbane",
+        "Country":"Australia"
+    },
+    "BRS":{
+        "City":"Bristol",
+        "Country":"United Kingdom"
+    },
+    "BRQ":{
+        "City":"Brno",
+        "Country":"Czech Republic"
+    },
+    "BNN":{
+        "City":"Broennoeysund",
+        "Country":"Norway"
+    },
+    "BHQ":{
+        "City":"Broken Hill",
+        "Country":"Australia"
+    },
+    "BKX":{
+        "City":"Brookings (SD)",
+        "Country":"USA"
+    },
+    "BME":{
+        "City":"Broome",
+        "Country":"Australia"
+    },
+    "BQK":{
+        "City":"Brunswick (GA)",
+        "Country":"USA"
+    },
+    "BRU":{
+        "City":"Brussels (capital city)",
+        "Country":"Belgium"
+    },
+    "BGA":{
+        "City":"Bucaramanga",
+        "Country":"Colombia"
+    },
+    "BUH":{
+        "City":"Bucharest (capital city)",
+        "Country":"Romania"
+    },
+    "OTP":{
+        "City":"Bucharest",
+        "Country":"Romania"
+    },
+    "BUD":{
+        "City":"Budapest (capital city)",
+        "Country":"Hungary"
+    },
+    "BUE":{
+        "City":"Buenos Aires (capital city)",
+        "Country":"Argentina"
+    },
+    "EZE":{
+        "City":"Ezeiza (Buenos Aires)",
+        "Country":"Argentina"
+    },
+    "AEP":{
+        "City":"Buenos Aires",
+        "Country":"Argentina"
+    },
+    "BFO":{
+        "City":"Buffalo Range",
+        "Country":"Zimbabwe"
+    },
+    "BUF":{
+        "City":"Buffalo/Niagara Falls (NY)",
+        "Country":"USA"
+    },
+    "BJM":{
+        "City":"Bujumbura (capital city)",
+        "Country":"Burundi"
+    },
+    "BUQ":{
+        "City":"Bulawayo",
+        "Country":"Zimbabwe"
+    },
+    "BDB":{
+        "City":"Bundaberg",
+        "Country":"Australia"
+    },
+    "BUR":{
+        "City":"Burbank (CA)",
+        "Country":"USA"
+    },
+    "BRL":{
+        "City":"Burlington (IA)",
+        "Country":"USA"
+    },
+    "BTV":{
+        "City":"Burlington (VT)",
+        "Country":"USA"
+    },
+    "BWT":{
+        "City":"Burnie (Wynyard)",
+        "Country":"Australia"
+    },
+    "BUZ":{
+        "City":"Bushehr",
+        "Country":"Iran"
+    },
+    "BTM":{
+        "City":"Butte (MT)",
+        "Country":"USA"
+    },
+    "CAB":{
+        "City":"Cabinda",
+        "Country":"Angola"
+    },
+    "CAG":{
+        "City":"Cagliari",
+        "Country":"Sardinia, Italy"
+    },
+    "CNS":{
+        "City":"Cairns",
+        "Country":"Australia"
+    },
+    "CAI":{
+        "City":"Cairo (capital city)",
+        "Country":"Egypt"
+    },
+    "CJC":{
+        "City":"Calama",
+        "Country":"Chile"
+    },
+    "CCU":{
+        "City":"Kolkata (Calcutta)",
+        "Country":"West Bengal, India"
+    },
+    "YYC":{
+        "City":"Calgary",
+        "Country":"Canada"
+    },
+    "CLO":{
+        "City":"Cali",
+        "Country":"Colombia"
+    },
+    "CCJ":{
+        "City":"Kozhikode (Calicut)",
+        "Country":"Kerala, India"
+    },
+    "CLY":{
+        "City":"Calvi",
+        "Country":"Corsica, France"
+    },
+    "YCB":{
+        "City":"Cambridge Bay",
+        "Country":"Nunavut, Canada"
+    },
+    "CBG":{
+        "City":"Cambrigde",
+        "Country":"United Kingdom"
+    },
+    "CAL":{
+        "City":"Campbeltown",
+        "Country":"United Kingdom"
+    },
+    "CGR":{
+        "City":"Campo Grande",
+        "Country":"Brazil"
+    },
+    "CBR":{
+        "City":"Canberra (capital city)",
+        "Country":"Australia"
+    },
+    "CUN":{
+        "City":"Cancun",
+        "Country":"Mexico"
+    },
+    "CIW":{
+        "City":"Canouan (island)",
+        "Country":"Saint Vincent & the Grenadines"
+    },
+    "CPT":{
+        "City":"Cape Town",
+        "Country":"South Africa"
+    },
+    "CCS":{
+        "City":"Caracas (capital city)",
+        "Country":"Venezuela"
+    },
+    "CWL":{
+        "City":"Cardiff",
+        "Country":"United Kingdom"
+    },
+    "CLD":{
+        "City":"Carlsbad (CA)",
+        "Country":"USA"
+    },
+    "CVQ":{
+        "City":"Carnarvon",
+        "Country":"Australia"
+    },
+    "CRF":{
+        "City":"Carnot",
+        "Country":"Central African Republic"
+    },
+    "CSN":{
+        "City":"Carson City (NV)",
+        "Country":"United States"
+    },
+    "CTG":{
+        "City":"Cartagena",
+        "Country":"Colombia"
+    },
+    "LRM":{
+        "City":"La Romana",
+        "Country":"Dominican Republic"
+    },
+    "CAS":{
+        "City":"Casablanca",
+        "Country":"Morocco"
+    },
+    "CMN":{
+        "City":"Casablanca",
+        "Country":"Morocco"
+    },
+    "CSI":{
+        "City":"Casino",
+        "Country":"Australia"
+    },
+    "CPR":{
+        "City":"Casper (WY)",
+        "Country":"USA"
+    },
+    "SLU":{
+        "City":"St. Lucia, Castries",
+        "Country":"St. Lucia"
+    },
+    "CTA":{
+        "City":"Catania",
+        "Country":"Italy"
+    },
+    "CAY":{
+        "City":"Cayenne",
+        "Country":"French Guiana"
+    },
+    "CDC":{
+        "City":"Cedar City (UT)",
+        "Country":"USA"
+    },
+    "CID":{
+        "City":"Cedar Rapids (IA)",
+        "Country":"USA"
+    },
+    "CED":{
+        "City":"Ceduna",
+        "Country":"Australia"
+    },
+    "CES":{
+        "City":"Cessnock",
+        "Country":"Australia"
+    },
+    "CMF":{
+        "City":"Chambery",
+        "Country":"France"
+    },
+    "CMI":{
+        "City":"Champaign (IL)",
+        "Country":"USA"
+    },
+    "IXC":{
+        "City":"Chandigarh",
+        "Country":"India"
+    },
+    "CGQ":{
+        "City":"Changchun",
+        "Country":"Jilin, China"
+    },
+    "CHQ":{
+        "City":"Chania",
+        "Country":"Greece"
+    },
+    "CHG":{
+        "City":"Chaoyang",
+        "Country":"Liaoning, China"
+    },
+    "CHS":{
+        "City":"Charleston (SC)",
+        "Country":"USA"
+    },
+    "CRW":{
+        "City":"Charleston (WV)",
+        "Country":"USA"
+    },
+    "CLT":{
+        "City":"Charlotte (NC)",
+        "Country":"USA"
+    },
+    "CHO":{
+        "City":"Charlottesville (VA)",
+        "Country":"USA"
+    },
+    "CXT":{
+        "City":"Charters Towers",
+        "Country":"Australia"
+    },
+    "CHA":{
+        "City":"Chattanooga (TN)",
+        "Country":"USA"
+    },
+    "CTU":{
+        "City":"Chengdu",
+        "Country":"Sichuan, PR China"
+    },
+    "MAA":{
+        "City":"Madras (Chennai)",
+        "Country":"India"
+    },
+    "CYS":{
+        "City":"Cheyenne (WY)",
+        "Country":"USA"
+    },
+    "CNX":{
+        "City":"Chiang Mai",
+        "Country":"Thailand"
+    },
+    "CHI":{
+        "City":"Chicago (IL)",
+        "Country":"USA"
+    },
+    "ORD":{
+        "City":"Chicago (IL)",
+        "Country":"USA"
+    },
+    "MDW":{
+        "City":"Chicago (IL)",
+        "Country":"USA"
+    },
+    "CZA":{
+        "City":"Chichen Itza",
+        "Country":"Mexico"
+    },
+    "CIC":{
+        "City":"Chico (CA)",
+        "Country":"USA"
+    },
+    "CUU":{
+        "City":"Chihuahua",
+        "Country":"Mexico"
+    },
+    "JKH":{
+        "City":"Chios Island",
+        "Country":"Greece"
+    },
+    "CIP":{
+        "City":"Chipata",
+        "Country":"Zambia"
+    },
+    "KIV":{
+        "City":"Chisinau (capital city)",
+        "Country":"Moldova"
+    },
+    "HTA":{
+        "City":"Chita (Tschita)",
+        "Country":"Russia"
+    },
+    "CTS":{
+        "City":"Sapporo",
+        "Country":"Hokkaido, Japan"
+    },
+    "CJL":{
+        "City":"Chitral",
+        "Country":"Pakistan"
+    },
+    "CGP":{
+        "City":"Chittagong",
+        "Country":"Bangladesh"
+    },
+    "CKG":{
+        "City":"Chongqing",
+        "Country":"Sichuan, PR China"
+    },
+    "CHC":{
+        "City":"Christchurch",
+        "Country":"New Zealand"
+    },
+    "CCZ":{
+        "City":"Chub Cay",
+        "Country":"Bahamas"
+    },
+    "YYQ":{
+        "City":"Churchill",
+        "Country":"Manitoba, Canada"
+    },
+    "CFG":{
+        "City":"Cienfuegos",
+        "Country":"Cuba"
+    },
+    "CVG":{
+        "City":"Cincinnati (OH)",
+        "Country":"USA"
+    },
+    "CME":{
+        "City":"Ciudad Del Carmen",
+        "Country":"Mexico"
+    },
+    "CGU":{
+        "City":"Ciudad Guayana",
+        "Country":"Venezuela"
+    },
+    "CJS":{
+        "City":"Ciudad Ju\u00e1rez",
+        "Country":"Mexico"
+    },
+    "CEN":{
+        "City":"Ciudad Obregon",
+        "Country":"Mexico"
+    },
+    "CVM":{
+        "City":"Ciudad Victoria",
+        "Country":"Mexico"
+    },
+    "CKB":{
+        "City":"Clarksburg (WV)",
+        "Country":"USA"
+    },
+    "CMQ":{
+        "City":"Clermont",
+        "Country":"Australia"
+    },
+    "CFE":{
+        "City":"Clermont Ferrand",
+        "Country":"France"
+    },
+    "CLE":{
+        "City":"Cleveland (OH)",
+        "Country":"USA"
+    },
+    "BKL":{
+        "City":"Cleveland (OH)",
+        "Country":"USA"
+    },
+    "CBB":{
+        "City":"Cochabamba",
+        "Country":"Bolivia"
+    },
+    "COK":{
+        "City":"Cochin",
+        "Country":"Kerala, India"
+    },
+    "COD":{
+        "City":"Cody (WY)",
+        "Country":"USA"
+    },
+    "KCC":{
+        "City":"Coffmann Cove (AK)",
+        "Country":"USA"
+    },
+    "CFS":{
+        "City":"Coffs Harbour",
+        "Country":"Australia"
+    },
+    "CJB":{
+        "City":"Coimbatore",
+        "Country":"India"
+    },
+    "CLQ":{
+        "City":"Colima",
+        "Country":"Mexico"
+    },
+    "CLL":{
+        "City":"College Station/Bryan (TX)",
+        "Country":"USA"
+    },
+    "KCE":{
+        "City":"Collinsville",
+        "Country":"Australia"
+    },
+    "CGN":{
+        "City":"K\u00f6ln (Cologne)",
+        "Country":"Germany"
+    },
+    "CMB":{
+        "City":"Colombo (capital city)",
+        "Country":"Sri Lanka"
+    },
+    "COS":{
+        "City":"Colorado Springs (CO)",
+        "Country":"USA"
+    },
+    "CAE":{
+        "City":"Columbia (SC)",
+        "Country":"USA"
+    },
+    "CSG":{
+        "City":"Columbus (GA)",
+        "Country":"USA"
+    },
+    "CMH":{
+        "City":"Columbus (OH)",
+        "Country":"USA"
+    },
+    "CKY":{
+        "City":"Conakry (capital city)",
+        "Country":"Guinea"
+    },
+    "CEP":{
+        "City":"Concepci\u00f3n",
+        "Country":"Bolivia"
+    },
+    "CCP":{
+        "City":"Concepci\u00f3n",
+        "Country":"Chile"
+    },
+    "CCR":{
+        "City":"Concord (CA)",
+        "Country":"USA"
+    },
+    "CON":{
+        "City":"Concord (NH)",
+        "Country":"USA"
+    },
+    "CZL":{
+        "City":"Constantine",
+        "Country":"Algeria"
+    },
+    "CND":{
+        "City":"Constanta (Constan\u021ba)",
+        "Country":"Romania"
+    },
+    "CPD":{
+        "City":"Coober Pedy",
+        "Country":"Australia"
+    },
+    "CTN":{
+        "City":"Cooktown",
+        "Country":"Australia"
+    },
+    "OOM":{
+        "City":"Cooma",
+        "Country":"Australia"
+    },
+    "CPH":{
+        "City":"Copenhagen (capital city)",
+        "Country":"Denmark"
+    },
+    "COR":{
+        "City":"Cordoba",
+        "Country":"Argentina"
+    },
+    "ODB":{
+        "City":"Cordoba",
+        "Country":"Spain"
+    },
+    "CDV":{
+        "City":"Cordova (AK)",
+        "Country":"USA"
+    },
+    "CFU":{
+        "City":"Corfu (island)",
+        "Country":"Greece"
+    },
+    "ORK":{
+        "City":"Cork",
+        "Country":"Ireland"
+    },
+    "CRP":{
+        "City":"Corpus Christi (TX)",
+        "Country":"USA"
+    },
+    "COO":{
+        "City":"Porto-Novo (capital city)",
+        "Country":"Benin"
+    },
+    "CBU":{
+        "City":"Cottbus",
+        "Country":"Germany"
+    },
+    "CVT":{
+        "City":"Coventry - Baginton",
+        "Country":"United Kingdom"
+    },
+    "CZM":{
+        "City":"Cozumel (island)",
+        "Country":"Mexico"
+    },
+    "CGA":{
+        "City":"Craig (AK)",
+        "Country":"USA"
+    },
+    "CEC":{
+        "City":"Crescent City (CA)",
+        "Country":"USA"
+    },
+    "CGB":{
+        "City":"Cuiaba",
+        "Country":"Brazil"
+    },
+    "CUL":{
+        "City":"Culiacan",
+        "Country":"Mexico"
+    },
+    "CUR":{
+        "City":"Willemstad",
+        "Country":"Netherlands Antilles"
+    },
+    "CWB":{
+        "City":"Curitiba",
+        "Country":"Brazil"
+    },
+    "CYU":{
+        "City":"Cuyo",
+        "Country":"Palawan, Philippines"
+    },
+    "DKR":{
+        "City":"Dakar (capital city)",
+        "Country":"Senegal"
+    },
+    "DSS":{
+        "City":"Dakar",
+        "Country":"Senegal"
+    },
+    "DAK":{
+        "City":"Dakhla Oasis",
+        "Country":"Egypt"
+    },
+    "DLM":{
+        "City":"Dalaman",
+        "Country":"Turkey"
+    },
+    "DLI":{
+        "City":"Da Lat",
+        "Country":"Vietnam"
+    },
+    "DBY":{
+        "City":"Dalby",
+        "Country":"Australia"
+    },
+    "DLU":{
+        "City":"Dali",
+        "Country":"Yunnan, China"
+    },
+    "DLC":{
+        "City":"Dalian",
+        "Country":"Liaoning,  China"
+    },
+    "DAL":{
+        "City":"Dallas (TX)",
+        "Country":"USA"
+    },
+    "DFW":{
+        "City":"Fort Worth (TX)",
+        "Country":"USA"
+    },
+    "DJO":{
+        "City":"Daloa",
+        "Country":"Cote d'Ivoire"
+    },
+    "DAM":{
+        "City":"Damascus (capital city)",
+        "Country":"Syria"
+    },
+    "DMM":{
+        "City":"Dammam",
+        "Country":"Saudi Arabia"
+    },
+    "DAD":{
+        "City":"Da Nang",
+        "Country":"Vietnam"
+    },
+    "DAN":{
+        "City":"Danville (VA)",
+        "Country":"USA"
+    },
+    "DCY":{
+        "City":"Daocheng",
+        "Country":"Sichuan, China"
+    },
+    "DAR":{
+        "City":"Dar es Salaam (Daressalam)",
+        "Country":"Tanzania"
+    },
+    "DRW":{
+        "City":"Darwin",
+        "Country":"Australia"
+    },
+    "DVO":{
+        "City":"Davao",
+        "Country":"Philippines"
+    },
+    "DVN":{
+        "City":"Davenport (IA)",
+        "Country":"USA"
+    },
+    "DAV":{
+        "City":"David",
+        "Country":"Panama"
+    },
+    "DAY":{
+        "City":"Dayton (OH)",
+        "Country":"USA"
+    },
+    "DAB":{
+        "City":"Daytona Beach (FL)",
+        "Country":"USA"
+    },
+    "DEC":{
+        "City":"Decatur (IL)",
+        "Country":"USA"
+    },
+    "YDF":{
+        "City":"Deer Lake/Corner Brook",
+        "Country":"Canada"
+    },
+    "DED":{
+        "City":"Dehradun",
+        "Country":"Uttarakhand, India"
+    },
+    "DRT":{
+        "City":"Del Rio (TX)",
+        "Country":"USA"
+    },
+    "DEL":{
+        "City":"Delhi (capital city)",
+        "Country":"India"
+    },
+    "RTM":{
+        "City":"Rotterdam",
+        "Country":"Netherlands"
+    },
+    "DNZ":{
+        "City":"Denizli",
+        "Country":"Turkey"
+    },
+    "DPS":{
+        "City":"Denpasar",
+        "Country":"Bali, Indonesia"
+    },
+    "DEN":{
+        "City":"Denver (CO)",
+        "Country":"USA"
+    },
+    "DSK":{
+        "City":"Dera Ismail Khan",
+        "Country":"Pakistan"
+    },
+    "EMA":{
+        "City":"Nottingham",
+        "Country":"England, UK"
+    },
+    "DRB":{
+        "City":"Derby",
+        "Country":"Australia"
+    },
+    "LDY":{
+        "City":"Londonderry, Derry, Eglinton",
+        "Country":"United Kingdom"
+    },
+    "DSM":{
+        "City":"Des Moines (IA)",
+        "Country":"USA"
+    },
+    "DTT":{
+        "City":"Detroit (MI)",
+        "Country":"USA"
+    },
+    "DTW":{
+        "City":"Detroit (MI)",
+        "Country":"USA"
+    },
+    "DET":{
+        "City":"Detroit (MI)",
+        "Country":"USA"
+    },
+    "DVL":{
+        "City":"Devils Lake (ND)",
+        "Country":"USA"
+    },
+    "DPO":{
+        "City":"Devonport",
+        "Country":"Tasmania, Australia"
+    },
+    "DHA":{
+        "City":"Dhahran",
+        "Country":"Saudi Arabia"
+    },
+    "DAC":{
+        "City":"Dhaka (capital city)",
+        "Country":"Bangladesh"
+    },
+    "DIN":{
+        "City":"Dien Bien Phu",
+        "Country":"Vietnam"
+    },
+    "DIL":{
+        "City":"Dili (capital city)",
+        "Country":"Timor Leste (East Timor)"
+    },
+    "DLG":{
+        "City":"Dillingham (AK)",
+        "Country":"USA"
+    },
+    "DNR":{
+        "City":"Dinard",
+        "Country":"France"
+    },
+    "DIR":{
+        "City":"Dire Dawa",
+        "Country":"Ethiopia"
+    },
+    "DIU":{
+        "City":"Diu",
+        "Country":"Daman and Diu, India"
+    },
+    "DIY":{
+        "City":"Diyarbakir",
+        "Country":"Turkey"
+    },
+    "DJE":{
+        "City":"Djerba (island)",
+        "Country":"Tunisia"
+    },
+    "JIB":{
+        "City":"Djibouti City (capital city)",
+        "Country":"Djibouti"
+    },
+    "DOD":{
+        "City":"Dodoma (capital city)",
+        "Country":"Tanzania"
+    },
+    "DOH":{
+        "City":"Doha (capital city)",
+        "Country":"Qatar"
+    },
+    "DSA":{
+        "City":"Sheffield/Doncaster",
+        "Country":"United Kingdom"
+    },
+    "CFN":{
+        "City":"Donegal (Carrickfin)",
+        "Country":"Ireland"
+    },
+    "DOK":{
+        "City":"Donetsk",
+        "Country":"Ukraine"
+    },
+    "DGM":{
+        "City":"Dandugama (Colombo)",
+        "Country":"Sri Lanka"
+    },
+    "DTM":{
+        "City":"Dortmund",
+        "Country":"Germany"
+    },
+    "DHN":{
+        "City":"Dothan (AL)",
+        "Country":"USA"
+    },
+    "DLA":{
+        "City":"Douala",
+        "Country":"Cameroon"
+    },
+    "DRS":{
+        "City":"Dresden",
+        "Country":"Germany"
+    },
+    "DXB":{
+        "City":"Dubai",
+        "Country":"United Arab Emirates"
+    },
+    "DBO":{
+        "City":"Dubbo",
+        "Country":"Australia"
+    },
+    "DUB":{
+        "City":"Dublin (capital city)",
+        "Country":"Ireland"
+    },
+    "DUJ":{
+        "City":"Dubois (PA)",
+        "Country":"USA"
+    },
+    "DBV":{
+        "City":"Dubrovnik",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "DBQ":{
+        "City":"Dubuque (IA)",
+        "Country":"USA"
+    },
+    "DUS":{
+        "City":"Duesseldorf",
+        "Country":"Germany"
+    },
+    "DLH":{
+        "City":"Duluth (WI)",
+        "Country":"USA"
+    },
+    "DUM":{
+        "City":"Dumai City",
+        "Country":"Indonesia"
+    },
+    "DND":{
+        "City":"Dundee",
+        "Country":"United Kingdom"
+    },
+    "DUD":{
+        "City":"Dunedin",
+        "Country":"New Zealand"
+    },
+    "DKI":{
+        "City":"Dunk Island",
+        "Country":"Australia"
+    },
+    "DGO":{
+        "City":"Durango",
+        "Country":"Mexico"
+    },
+    "DRO":{
+        "City":"Durango (CO)",
+        "Country":"USA"
+    },
+    "DUR":{
+        "City":"Durban",
+        "Country":"South Africa"
+    },
+    "DYU":{
+        "City":"Dushanbe (capital city)",
+        "Country":"Tajikistan"
+    },
+    "DUT":{
+        "City":"Dutch Harbor (AK)",
+        "Country":"USA"
+    },
+    "DYA":{
+        "City":"Dysart",
+        "Country":"Australia"
+    },
+    "DZA":{
+        "City":"Dzaoudzi",
+        "Country":"Mayotte"
+    },
+    "ELS":{
+        "City":"East London",
+        "Country":"South Africa"
+    },
+    "IPC":{
+        "City":"Easter Island (Rapa Nui)",
+        "Country":"Chile"
+    },
+    "EAU":{
+        "City":"Eau Clarie (WI)",
+        "Country":"USA"
+    },
+    "EDI":{
+        "City":"Edinburgh",
+        "Country":"Scotland, UK"
+    },
+    "YEA":{
+        "City":"Edmonton",
+        "Country":"Canada"
+    },
+    "YEG":{
+        "City":"Edmonton",
+        "Country":"Canada"
+    },
+    "YXD":{
+        "City":"Edmonton",
+        "Country":"Canada"
+    },
+    "EGS":{
+        "City":"Egilsstadir (Egilssta\u00f0ir)",
+        "Country":"Iceland"
+    },
+    "EIN":{
+        "City":"Eindhoven",
+        "Country":"Netherlands"
+    },
+    "ETH":{
+        "City":"Eilat",
+        "Country":"Israel"
+    },
+    "VDA":{
+        "City":"Eilat",
+        "Country":"Israel"
+    },
+    "SVX":{
+        "City":"Yekaterinburg",
+        "Country":"Russia"
+    },
+    "EUN":{
+        "City":"El Aai\u00fan (Laayoune)",
+        "Country":"Morocco"
+    },
+    "EBA":{
+        "City":"Elba (island)",
+        "Country":"Italy"
+    },
+    "ELD":{
+        "City":"El Dorado (AR)",
+        "Country":"USA"
+    },
+    "EDL":{
+        "City":"Eldoret",
+        "Country":"Kenya"
+    },
+    "EKI":{
+        "City":"Elkhart (IN)",
+        "Country":"USA"
+    },
+    "EKO":{
+        "City":"Elko (NV)",
+        "Country":"USA"
+    },
+    "ELL":{
+        "City":"Ellisras",
+        "Country":"South Africa"
+    },
+    "EMY":{
+        "City":"El Minya",
+        "Country":"Egypt"
+    },
+    "ELM":{
+        "City":"Elmira (NY)",
+        "Country":"USA"
+    },
+    "ELP":{
+        "City":"El Paso (TX)",
+        "Country":"USA"
+    },
+    "ELY":{
+        "City":"Ely (NV)",
+        "Country":"USA"
+    },
+    "EDR":{
+        "City":"Edward River, Pormpuraaw",
+        "Country":"Australia"
+    },
+    "EMD":{
+        "City":"Emerald",
+        "Country":"Australia"
+    },
+    "ENF":{
+        "City":"Enonteki\u00f6",
+        "Country":"Finland"
+    },
+    "EBB":{
+        "City":"Kampala (capital city)",
+        "Country":"Uganda"
+    },
+    "EBL":{
+        "City":"Erbil",
+        "Country":"Iraq"
+    },
+    "ERF":{
+        "City":"Erfurt",
+        "Country":"Germany"
+    },
+    "ERI":{
+        "City":"Erie (PA)",
+        "Country":"USA"
+    },
+    "EVN":{
+        "City":"Yerevan (capital city)",
+        "Country":"Armenia"
+    },
+    "ERC":{
+        "City":"Erzincan",
+        "Country":"Turkey"
+    },
+    "ERZ":{
+        "City":"Erzurum",
+        "Country":"Turkey"
+    },
+    "EBJ":{
+        "City":"Esbjerg",
+        "Country":"Denmark"
+    },
+    "ESC":{
+        "City":"Escanaba (MI)",
+        "Country":"USA"
+    },
+    "EPR":{
+        "City":"Esperance",
+        "Country":"Australia"
+    },
+    "EUG":{
+        "City":"Eugene (OR)",
+        "Country":"USA"
+    },
+    "ACV":{
+        "City":"Eureka (CA)",
+        "Country":"USA"
+    },
+    "EVV":{
+        "City":"Evansville (IN)",
+        "Country":"USA"
+    },
+    "EVE":{
+        "City":"Evenes",
+        "Country":"Norway"
+    },
+    "EXT":{
+        "City":"Exeter",
+        "Country":"United Kingdom"
+    },
+    "FAI":{
+        "City":"Fairbanks (AK)",
+        "Country":"USA"
+    },
+    "FIE":{
+        "City":"Fair Isle (island)",
+        "Country":"Shetland, United Kingdom"
+    },
+    "LYP":{
+        "City":"Faisalabad",
+        "Country":"Pakistan"
+    },
+    "FAR":{
+        "City":"Fargo (ND)",
+        "Country":"USA"
+    },
+    "FMN":{
+        "City":"Farmington (NM)",
+        "Country":"USA"
+    },
+    "FAO":{
+        "City":"Faro",
+        "Country":"Portugal"
+    },
+    "FAE":{
+        "City":"Faroer (island)",
+        "Country":"Denmark"
+    },
+    "FYV":{
+        "City":"Fayetteville (AR)",
+        "Country":"USA"
+    },
+    "FAY":{
+        "City":"Fayetteville/Ft. Bragg (NC)",
+        "Country":"USA"
+    },
+    "FEZ":{
+        "City":"Fes",
+        "Country":"Morocco"
+    },
+    "FSC":{
+        "City":"Figari",
+        "Country":"Corsica, France"
+    },
+    "FLG":{
+        "City":"Flagstaff (AZ)",
+        "Country":"USA"
+    },
+    "YFO":{
+        "City":"Flin Flon",
+        "Country":"Canada"
+    },
+    "FNT":{
+        "City":"Flint (MI)",
+        "Country":"USA"
+    },
+    "FLR":{
+        "City":"Florence (Firenze)",
+        "Country":"Italy"
+    },
+    "FLO":{
+        "City":"Florence (SC)",
+        "Country":"USA"
+    },
+    "FLN":{
+        "City":"Florianopolis",
+        "Country":"Brazil"
+    },
+    "FRO":{
+        "City":"Floroe (Flor\u00f8)",
+        "Country":"Norway"
+    },
+    "YFA":{
+        "City":"Fort Albany",
+        "Country":"Canada"
+    },
+    "FDF":{
+        "City":"Fort de France (territorial capital)",
+        "Country":"Martinique"
+    },
+    "FOD":{
+        "City":"Fort Dodge (IA)",
+        "Country":"USA"
+    },
+    "FHU":{
+        "City":"Sierra Vista/Fort Huachuca",
+        "Country":"AZ, USA"
+    },
+    "FLL":{
+        "City":"Fort Lauderdale (FL)",
+        "Country":"USA"
+    },
+    "YMM":{
+        "City":"Fort McMurray",
+        "Country":"Canada"
+    },
+    "FMY":{
+        "City":"Fort Myers (FL)",
+        "Country":"USA"
+    },
+    "RSW":{
+        "City":"Fort Myers (FL)",
+        "Country":"USA"
+    },
+    "FRI":{
+        "City":"Fort Riley/Junction City (KS)",
+        "Country":"USA"
+    },
+    "YSM":{
+        "City":"Fort Smith",
+        "Country":"Canada"
+    },
+    "FSM":{
+        "City":"Fort Smith (AR)",
+        "Country":"USA"
+    },
+    "YXJ":{
+        "City":"Fort St. John",
+        "Country":"Canada"
+    },
+    "VPS":{
+        "City":"Fort Walton Beach (FL)",
+        "Country":"USA"
+    },
+    "FWA":{
+        "City":"Fort Wayne (IN)",
+        "Country":"USA"
+    },
+    "FOR":{
+        "City":"Fortaleza",
+        "Country":"Brazil"
+    },
+    "IGU":{
+        "City":"Foz do Iguacu",
+        "Country":"Paran\u00e1, Brazil"
+    },
+    "FRW":{
+        "City":"Francistown",
+        "Country":"Botswana"
+    },
+    "FRA":{
+        "City":"Frankfurt/Main",
+        "Country":"Germany"
+    },
+    "HHN":{
+        "City":"Frankfurt/Hahn",
+        "Country":"Germany"
+    },
+    "FKL":{
+        "City":"Franklin/Oil City (PA)",
+        "Country":"USA"
+    },
+    "YFC":{
+        "City":"Fredericton",
+        "Country":"Canada"
+    },
+    "FPO":{
+        "City":"Grand Bahama at Freeport",
+        "Country":"Bahamas"
+    },
+    "FNA":{
+        "City":"Freetown (capital city)",
+        "Country":"Sierra Leone"
+    },
+    "FRJ":{
+        "City":"Frejus",
+        "Country":"France"
+    },
+    "FAT":{
+        "City":"Fresno (CA)",
+        "Country":"USA"
+    },
+    "FDH":{
+        "City":"Friedrichshafen",
+        "Country":"Germany"
+    },
+    "FUE":{
+        "City":"Fuerteventura",
+        "Country":"Spain"
+    },
+    "FUK":{
+        "City":"Fukuoka",
+        "Country":"Japan"
+    },
+    "FKS":{
+        "City":"Fukushima",
+        "Country":"Japan"
+    },
+    "FNC":{
+        "City":"Funchal",
+        "Country":"Madeira, Portugal"
+    },
+    "FUT":{
+        "City":"Futuna",
+        "Country":"Wallis and Futuna Islands"
+    },
+    "GBE":{
+        "City":"Gaborone (capital city)",
+        "Country":"Botswana"
+    },
+    "GAD":{
+        "City":"Gadsden (AL)",
+        "Country":"USA"
+    },
+    "GNV":{
+        "City":"Gainesville (FL)",
+        "Country":"USA"
+    },
+    "GWY":{
+        "City":"Galway",
+        "Country":"Ireland"
+    },
+    "YQX":{
+        "City":"Gander",
+        "Country":"Canada"
+    },
+    "GOU":{
+        "City":"Garoua",
+        "Country":"Cameroon"
+    },
+    "ELQ":{
+        "City":"Gassim (Al-Qassim)",
+        "Country":"Saudi Arabia"
+    },
+    "GZA":{
+        "City":"Gaza City",
+        "Country":"Palestinian Territory"
+    },
+    "GZT":{
+        "City":"Gaziantep",
+        "Country":"Turkey"
+    },
+    "GDN":{
+        "City":"Gdansk",
+        "Country":"Poland"
+    },
+    "GEX":{
+        "City":"Geelong",
+        "Country":"Australia"
+    },
+    "GVA":{
+        "City":"Geneva",
+        "Country":"Switzerland"
+    },
+    "GOA":{
+        "City":"Genoa",
+        "Country":"Italy"
+    },
+    "GRJ":{
+        "City":"George",
+        "Country":"South Africa"
+    },
+    "GEO":{
+        "City":"Georgetown (capital city)",
+        "Country":"Guyana"
+    },
+    "GET":{
+        "City":"Geraldton",
+        "Country":"Australia"
+    },
+    "GRO":{
+        "City":"Gerona (Girona)",
+        "Country":"Spain"
+    },
+    "GNE":{
+        "City":"Ghent (Gent)",
+        "Country":"Belgium"
+    },
+    "GIB":{
+        "City":"Gibraltar",
+        "Country":"Gibraltar"
+    },
+    "GCC":{
+        "City":"Gilette (WY)",
+        "Country":"USA"
+    },
+    "GIL":{
+        "City":"Gilgit",
+        "Country":"Pakistan"
+    },
+    "YGX":{
+        "City":"Gillam",
+        "Country":"Canada"
+    },
+    "GLT":{
+        "City":"Gladstone",
+        "Country":"Australia"
+    },
+    "GLA":{
+        "City":"Glasgow",
+        "Country":"Scotland, UK"
+    },
+    "PIK":{
+        "City":"Prestwick (near Glasgow)",
+        "Country":"Scotland, UK"
+    },
+    "GGW":{
+        "City":"Glasgow (MT)",
+        "Country":"USA"
+    },
+    "GDV":{
+        "City":"Glendive (MT)",
+        "Country":"USA"
+    },
+    "GOI":{
+        "City":"Goa",
+        "Country":"India"
+    },
+    "GYN":{
+        "City":"Goiania",
+        "Country":"Brazil"
+    },
+    "OOL":{
+        "City":"Gold Coast, Coolangatta",
+        "Country":"Australia"
+    },
+    "GOO":{
+        "City":"Goondiwindi",
+        "Country":"Australia"
+    },
+    "YYR":{
+        "City":"Goose Bay",
+        "Country":"Canada"
+    },
+    "GOZ":{
+        "City":"Gorna",
+        "Country":"Bulgaria"
+    },
+    "GOT":{
+        "City":"Gothenburg (G\u00f6teborg)",
+        "Country":"Sweden"
+    },
+    "GOV":{
+        "City":"Gove/Nhulunbuy",
+        "Country":"Australia"
+    },
+    "GHB":{
+        "City":"Govenors Harbour",
+        "Country":"Eleuthera, Bahamas"
+    },
+    "GRX":{
+        "City":"Granada",
+        "Country":"Spain"
+    },
+    "TFS":{
+        "City":"Tenerife",
+        "Country":"Canary Islands, Spain"
+    },
+    "GCN":{
+        "City":"Grand Canyon, Tusayan (AZ)",
+        "Country":"USA"
+    },
+    "GCM":{
+        "City":"Grand Cayman",
+        "Country":"Cayman Islands"
+    },
+    "GFK":{
+        "City":"Grand Forks (ND)",
+        "Country":"USA"
+    },
+    "GJT":{
+        "City":"Grand Junction (CO)",
+        "Country":"USA"
+    },
+    "GRR":{
+        "City":"Grand Rapids (MI)",
+        "Country":"USA"
+    },
+    "GPZ":{
+        "City":"Grand Rapids (MN)",
+        "Country":"USA"
+    },
+    "GRZ":{
+        "City":"Graz",
+        "Country":"Austria"
+    },
+    "GTF":{
+        "City":"Great Falls (MT)",
+        "Country":"USA"
+    },
+    "GKL":{
+        "City":"Great Keppel Island",
+        "Country":"Australia"
+    },
+    "GRB":{
+        "City":"Green Bay (WI)",
+        "Country":"USA"
+    },
+    "GSO":{
+        "City":"Greensboro (NC)",
+        "Country":"USA"
+    },
+    "GLH":{
+        "City":"Greenville (MS)",
+        "Country":"USA"
+    },
+    "PGV":{
+        "City":"Greenville (NC)",
+        "Country":"USA"
+    },
+    "GSP":{
+        "City":"Greenville/Spartanburg (SC)",
+        "Country":"USA"
+    },
+    "GND":{
+        "City":"St. George's (capital city)",
+        "Country":"Grenada"
+    },
+    "GNB":{
+        "City":"Grenoble",
+        "Country":"France"
+    },
+    "GFF":{
+        "City":"Griffith",
+        "Country":"Australia"
+    },
+    "GRQ":{
+        "City":"Groningen",
+        "Country":"Netherlands"
+    },
+    "GTE":{
+        "City":"Groote Eylandt (island)",
+        "Country":"Australia"
+    },
+    "GON":{
+        "City":"Groton/New London (CT)",
+        "Country":"USA"
+    },
+    "GDL":{
+        "City":"Guadalajara",
+        "Country":"Mexico"
+    },
+    "CAN":{
+        "City":"Guangzhou",
+        "Country":"Guangdong, PR China"
+    },
+    "GRU":{
+        "City":"Sao Paulo",
+        "Country":"Brazil"
+    },
+    "GUA":{
+        "City":"Guatemala City (capital city)",
+        "Country":"Guatemala"
+    },
+    "GYE":{
+        "City":"Guayaquil",
+        "Country":"Ecuador"
+    },
+    "GCI":{
+        "City":"Guernsey",
+        "Country":"Channel Islands"
+    },
+    "GTI":{
+        "City":"Guettin",
+        "Country":"Germany"
+    },
+    "KWL":{
+        "City":"Guilin",
+        "Country":"Guangxi, China"
+    },
+    "GPT":{
+        "City":"Gulfport/Biloxi (MS)",
+        "Country":"USA"
+    },
+    "ULU":{
+        "City":"Gulu",
+        "Country":"Uganda"
+    },
+    "GUC":{
+        "City":"Gunnison (CO)",
+        "Country":"USA"
+    },
+    "GAU":{
+        "City":"Guwahati",
+        "Country":"Assam, India"
+    },
+    "GWD":{
+        "City":"Gwadar",
+        "Country":"Pakistan"
+    },
+    "GWE":{
+        "City":"Gweru",
+        "Country":"Zimbabwe"
+    },
+    "GYP":{
+        "City":"Gympie",
+        "Country":"Australia"
+    },
+    "HAC":{
+        "City":"Hachijo Jima",
+        "Country":"Japan"
+    },
+    "HFA":{
+        "City":"Haifa",
+        "Country":"Israel"
+    },
+    "HNS":{
+        "City":"Haines (AK)",
+        "Country":"USA"
+    },
+    "HKD":{
+        "City":"Hakodate",
+        "Country":"Hokkaido, Japan"
+    },
+    "YHZ":{
+        "City":"Halifax",
+        "Country":"Nova Scotia, Canada"
+    },
+    "YUX":{
+        "City":"Hall Beach",
+        "Country":"Nunavut, Canada"
+    },
+    "HRI":{
+        "City":"Hambantota",
+        "Country":"Sri Lanka"
+    },
+    "HAM":{
+        "City":"Hamburg",
+        "Country":"Germany"
+    },
+    "HLT":{
+        "City":"Hamilton",
+        "Country":"Victoria, Australia"
+    },
+    "YHM":{
+        "City":"Hamilton",
+        "Country":"Canada"
+    },
+    "HLZ":{
+        "City":"Hamilton",
+        "Country":"New Zealand"
+    },
+    "HTI":{
+        "City":"Hamilton Island",
+        "Country":"Australia"
+    },
+    "HFT":{
+        "City":"Hammerfest",
+        "Country":"Norway"
+    },
+    "CMX":{
+        "City":"Hancock (MI)",
+        "Country":"USA"
+    },
+    "HGH":{
+        "City":"Hangchow (Hangzhou)",
+        "Country":"Zhejiang, China"
+    },
+    "HAJ":{
+        "City":"Hannover",
+        "Country":"Germany"
+    },
+    "HAN":{
+        "City":"Hanoi (capital city)",
+        "Country":"Viet Nam"
+    },
+    "HRE":{
+        "City":"Harare (capital city)",
+        "Country":"Zimbabwe"
+    },
+    "HRB":{
+        "City":"Harbin (Haerbin)",
+        "Country":"Heilongjiang,  China"
+    },
+    "HRL":{
+        "City":"Harlingen/South Padre Island (TX)",
+        "Country":"USA"
+    },
+    "HAR":{
+        "City":"Harrisburg (PA)",
+        "Country":"USA"
+    },
+    "MDT":{
+        "City":"Harrisburg (PA)",
+        "Country":"USA"
+    },
+    "BDL":{
+        "City":"Hartford (CT)",
+        "Country":"USA"
+    },
+    "PIB":{
+        "City":"Hattiesburg/Laurel (MS)",
+        "Country":"USA"
+    },
+    "HDY":{
+        "City":"Hatyai (Hat Yai)",
+        "Country":"Thailand"
+    },
+    "HAU":{
+        "City":"Haugesund",
+        "Country":"Norway"
+    },
+    "HAV":{
+        "City":"Havana (capital city)",
+        "Country":"Cuba"
+    },
+    "HVR":{
+        "City":"Havre (MT)",
+        "Country":"USA"
+    },
+    "HIS":{
+        "City":"Hayman Island",
+        "Country":"Australia"
+    },
+    "HLN":{
+        "City":"Helena (MT)",
+        "Country":"USA"
+    },
+    "JHE":{
+        "City":"Helsingborg",
+        "Country":"Sweden"
+    },
+    "HEL":{
+        "City":"Helsinki",
+        "Country":"Finland"
+    },
+    "HEM":{
+        "City":"Helsinki",
+        "Country":"Finland"
+    },
+    "HER":{
+        "City":"Heraklion",
+        "Country":"Crete, Greece"
+    },
+    "HMO":{
+        "City":"Hermosillo",
+        "Country":"Mexico"
+    },
+    "HVB":{
+        "City":"Hervey Bay",
+        "Country":"Australia"
+    },
+    "HIB":{
+        "City":"Hibbing (MN)",
+        "Country":"USA"
+    },
+    "HKY":{
+        "City":"Hickory (NC)",
+        "Country":"USA"
+    },
+    "ITO":{
+        "City":"Hilo (HI)",
+        "Country":"USA"
+    },
+    "HHH":{
+        "City":"Hilton Head Island (SC)",
+        "Country":"USA"
+    },
+    "HNK":{
+        "City":"Hinchinbrook Island",
+        "Country":"Australia"
+    },
+    "HIJ":{
+        "City":"Hiroshima",
+        "Country":"Honshu, Japan"
+    },
+    "SGN":{
+        "City":"Saigon (Ho Chi Minh City)",
+        "Country":"Vietnam"
+    },
+    "HBA":{
+        "City":"Hobart",
+        "Country":"Tasmania, Australia"
+    },
+    "HOQ":{
+        "City":"Hof",
+        "Country":"Germany"
+    },
+    "HOG":{
+        "City":"Holguin",
+        "Country":"Cuba"
+    },
+    "HOM":{
+        "City":"Homer (AK)",
+        "Country":"USA"
+    },
+    "HKG":{
+        "City":"Hong Kong",
+        "Country":"Hong Kong"
+    },
+    "HIR":{
+        "City":"Honiara (capital city)",
+        "Country":"Guadalcanal, Solomon Islands"
+    },
+    "HNL":{
+        "City":"Honolulu (HI)",
+        "Country":"USA, Hawaii"
+    },
+    "HNH":{
+        "City":"Hoonah (AK)",
+        "Country":"USA"
+    },
+    "HOR":{
+        "City":"Horta, Azores",
+        "Country":"Portugal"
+    },
+    "IAH":{
+        "City":"Houston (TX)",
+        "Country":"USA"
+    },
+    "HOU":{
+        "City":"Houston (TX)",
+        "Country":"USA"
+    },
+    "HUH":{
+        "City":"Huahine, Society Islands",
+        "Country":"French Polynesia"
+    },
+    "HUX":{
+        "City":"Huatulco",
+        "Country":"Mexico"
+    },
+    "HUI":{
+        "City":"Hue",
+        "Country":"Vietnam"
+    },
+    "HUY":{
+        "City":"Humberside",
+        "Country":"United Kingdom"
+    },
+    "HTS":{
+        "City":"Huntington (WV)",
+        "Country":"USA"
+    },
+    "HSV":{
+        "City":"Huntsville (AL)",
+        "Country":"USA"
+    },
+    "HRG":{
+        "City":"Hurghada",
+        "Country":"Egypt"
+    },
+    "HON":{
+        "City":"Huron (SD)",
+        "Country":"USA"
+    },
+    "HWN":{
+        "City":"Hwange National Park",
+        "Country":"Zimbabwe"
+    },
+    "HYA":{
+        "City":"Hyannis (MA)",
+        "Country":"USA"
+    },
+    "HYG":{
+        "City":"Hydaburg (AK)",
+        "Country":"USA"
+    },
+    "HYD":{
+        "City":"Hyderabad",
+        "Country":"Telangana, India"
+    },
+    "HDD":{
+        "City":"Hyderabad",
+        "Country":"Sindh, Pakistan"
+    },
+    "IAS":{
+        "City":"Iasi (Ia\u0219i)",
+        "Country":"Romania"
+    },
+    "IBA":{
+        "City":"Ibadan",
+        "Country":"Nigeria"
+    },
+    "IBE":{
+        "City":"Ibagu\u00e9",
+        "Country":"Colombia"
+    },
+    "IBZ":{
+        "City":"Ibiza (island)",
+        "Country":"Ibiza, Spain"
+    },
+    "IDA":{
+        "City":"Idaho Falls (ID)",
+        "Country":"USA"
+    },
+    "IEJ":{
+        "City":"Iejima (island)",
+        "Country":"Okinawa, Japan"
+    },
+    "IGR":{
+        "City":"Iguazu",
+        "Country":"Argentina"
+    },
+    "IJU":{
+        "City":"Iju\u00ed",
+        "Country":"Brazil"
+    },
+    "IOS":{
+        "City":"Ilh\u00e9us",
+        "Country":"Bahia, Brazil"
+    },
+    "ILP":{
+        "City":"Ile des Pins (island)",
+        "Country":"New Caledonia"
+    },
+    "IOU":{
+        "City":"Ile Ouen (island)",
+        "Country":"New Caledonia"
+    },
+    "ILI":{
+        "City":"Iliamna",
+        "Country":"AK, USA"
+    },
+    "ILQ":{
+        "City":"Ilo",
+        "Country":"Peru"
+    },
+    "ILR":{
+        "City":"Ilorin",
+        "Country":"Nigeria"
+    },
+    "IMP":{
+        "City":"Imperatriz",
+        "Country":"Maranh\u00e3o, Brazil"
+    },
+    "IPL":{
+        "City":"Imperial",
+        "Country":"CA, USA"
+    },
+    "IMF":{
+        "City":"Imphal",
+        "Country":"Manipur, India"
+    },
+    "ICN":{
+        "City":"Seoul",
+        "Country":"South Korea"
+    },
+    "IDP":{
+        "City":"Independence",
+        "Country":"Kansas, USA"
+    },
+    "IND":{
+        "City":"Indianapolis",
+        "Country":"IN, USA"
+    },
+    "IGH":{
+        "City":"Ingham",
+        "Country":"Australia"
+    },
+    "IGS":{
+        "City":"Ingolstadt",
+        "Country":"Germany"
+    },
+    "INH":{
+        "City":"Inhambane",
+        "Country":"Mozambique"
+    },
+    "IFL":{
+        "City":"Innisfail",
+        "Country":"Australia"
+    },
+    "IDR":{
+        "City":"Indore",
+        "Country":"Madhya Pradesh, India"
+    },
+    "INN":{
+        "City":"Innsbruck - Kranebitten",
+        "Country":"Austria"
+    },
+    "INL":{
+        "City":"International Falls (MN)",
+        "Country":"USA"
+    },
+    "YEV":{
+        "City":"Inuvik",
+        "Country":"NWT, Canada"
+    },
+    "IVC":{
+        "City":"Invercargill",
+        "Country":"New Zealand"
+    },
+    "INV":{
+        "City":"Inverness",
+        "Country":"United Kingdom"
+    },
+    "IYK":{
+        "City":"Inyokern",
+        "Country":"CA, USA"
+    },
+    "IOA":{
+        "City":"Ioannina",
+        "Country":"Greece"
+    },
+    "IOW":{
+        "City":"Iowa City",
+        "Country":"Iowa, USA"
+    },
+    "IPN":{
+        "City":"Ipatinga",
+        "Country":"Minas Gerais, Brazil"
+    },
+    "IPI":{
+        "City":"Ipiales",
+        "Country":"Colombia"
+    },
+    "IPH":{
+        "City":"Ipoh",
+        "Country":"Perak, Malaysia"
+    },
+    "YFB":{
+        "City":"Iqaluit (Frobisher Bay)",
+        "Country":"Nunavut, Canada"
+    },
+    "IQQ":{
+        "City":"Iquique",
+        "Country":"Chile"
+    },
+    "IQT":{
+        "City":"Iquitos",
+        "Country":"Peru"
+    },
+    "IRI":{
+        "City":"Iringa",
+        "Country":"Tanzania"
+    },
+    "IKT":{
+        "City":"Irkutsk",
+        "Country":"Russia"
+    },
+    "ISH":{
+        "City":"Ischia (island)",
+        "Country":"Italy"
+    },
+    "IFN":{
+        "City":"Isfahan (Esfahan)",
+        "Country":"Iran"
+    },
+    "ISG":{
+        "City":"Ishigaki",
+        "Country":"Japan"
+    },
+    "IRP":{
+        "City":"Isiro",
+        "Country":"Democratic Rep. of the Congo"
+    },
+    "ISB":{
+        "City":"Rawalpindi",
+        "Country":"Pakistan"
+    },
+    "ILY":{
+        "City":"Islay",
+        "Country":"Scotland, United Kingdom"
+    },
+    "IOM":{
+        "City":"Isle of Man",
+        "Country":"United Kingdom"
+    },
+    "ISP":{
+        "City":"Long Island, Islip (NY)",
+        "Country":"USA"
+    },
+    "ISE":{
+        "City":"Isparta",
+        "Country":"Turkey"
+    },
+    "IST":{
+        "City":"Istanbul",
+        "Country":"Turkey"
+    },
+    "SAW":{
+        "City":"Istanbul",
+        "Country":"Turkey"
+    },
+    "ITB":{
+        "City":"Itaituba",
+        "Country":"Par\u00e1, Brazil"
+    },
+    "ITM":{
+        "City":"Osaka",
+        "Country":"Japan"
+    },
+    "ITH":{
+        "City":"Ithaca",
+        "Country":"NY, USA"
+    },
+    "ITR":{
+        "City":"Itumbiara",
+        "Country":"Goi\u00e1s, Brazil"
+    },
+    "IVL":{
+        "City":"Ivalo",
+        "Country":"Finland"
+    },
+    "IWO":{
+        "City":"Iwo Jima (Iwo To)",
+        "Country":"Bonin Islands, Japan"
+    },
+    "ZIH":{
+        "City":"Zihuatanejo",
+        "Country":"Guerrero, Mexico"
+    },
+    "IJK":{
+        "City":"Izhevsk",
+        "Country":"Udmurt Rep., Russia"
+    },
+    "ADB":{
+        "City":"Izmir",
+        "Country":"Turkey"
+    },
+    "IZO":{
+        "City":"Izumo",
+        "Country":"Shimane, Japan"
+    },
+    "JLR":{
+        "City":"Jabalpur",
+        "Country":"Madhya Pradesh, India"
+    },
+    "JAB":{
+        "City":"Jabiru",
+        "Country":"NT, Australia"
+    },
+    "KPT":{
+        "City":"Jackpot (NV)",
+        "Country":"USA"
+    },
+    "JXN":{
+        "City":"Jackson (MI)",
+        "Country":"USA"
+    },
+    "JAN":{
+        "City":"Jackson (MS)",
+        "Country":"USA"
+    },
+    "HKS":{
+        "City":"Jackson (MS)",
+        "Country":"USA"
+    },
+    "MKL":{
+        "City":"Jackson (TN)",
+        "Country":"USA"
+    },
+    "JAC":{
+        "City":"Jackson (WY)",
+        "Country":"USA"
+    },
+    "LRF":{
+        "City":"Jacksonville (AR)",
+        "Country":"USA"
+    },
+    "JAX":{
+        "City":"Jacksonville (FL)",
+        "Country":"USA"
+    },
+    "NZC":{
+        "City":"Jacksonville (FL)",
+        "Country":"USA"
+    },
+    "NIP":{
+        "City":"Jacksonville (FL)",
+        "Country":"USA"
+    },
+    "CRG":{
+        "City":"Jacksonville (FL)",
+        "Country":"USA"
+    },
+    "IJX":{
+        "City":"Jacksonville (IL)",
+        "Country":"USA"
+    },
+    "OAJ":{
+        "City":"Jacksonville (NC)",
+        "Country":"USA"
+    },
+    "JKV":{
+        "City":"Jacksonville (TX)",
+        "Country":"USA"
+    },
+    "JAK":{
+        "City":"Jacmel",
+        "Country":"Haiti"
+    },
+    "JAG":{
+        "City":"Jacobabad",
+        "Country":"Pakistan"
+    },
+    "JCM":{
+        "City":"Jacobina",
+        "Country":"Bahia, Brazil"
+    },
+    "JAQ":{
+        "City":"Jacquinot Bay",
+        "Country":"Papua New Guinea"
+    },
+    "JAF":{
+        "City":"Jaffna",
+        "Country":"Sri Lanka"
+    },
+    "JGB":{
+        "City":"Jagdalpur",
+        "Country":"India"
+    },
+    "JAI":{
+        "City":"Jaipur",
+        "Country":"Rajasthan, India"
+    },
+    "JSA":{
+        "City":"Jaisalmer",
+        "Country":"Rajasthan, India"
+    },
+    "JKT":{
+        "City":"Jakarta (capital city)",
+        "Country":"Indonesia"
+    },
+    "HLP":{
+        "City":"Jakarta",
+        "Country":"Indonesia"
+    },
+    "CGK":{
+        "City":"Jakarta",
+        "Country":"Indonesia"
+    },
+    "JAA":{
+        "City":"Jalalabad",
+        "Country":"Afghanistan"
+    },
+    "JAL":{
+        "City":"Jalapa",
+        "Country":"Veracruz, Mexico"
+    },
+    "JLS":{
+        "City":"Jales",
+        "Country":"Brazil"
+    },
+    "UIT":{
+        "City":"Jaluit Island (Jaluit Atoll)",
+        "Country":"Marshall Islands"
+    },
+    "JMB":{
+        "City":"Jamba",
+        "Country":"Angola"
+    },
+    "DJB":{
+        "City":"Jambi",
+        "Country":"Indonesia"
+    },
+    "JAM":{
+        "City":"Jambol",
+        "Country":"Bulgaria"
+    },
+    "JMS":{
+        "City":"Jamestown (ND)",
+        "Country":"USA"
+    },
+    "JHW":{
+        "City":"Jamestown (NY)",
+        "Country":"USA"
+    },
+    "IXJ":{
+        "City":"Jammu",
+        "Country":"Jammu, India"
+    },
+    "JGA":{
+        "City":"Jamnagar",
+        "Country":"Gujurat, India"
+    },
+    "IXW":{
+        "City":"Jamshedpur",
+        "Country":"India"
+    },
+    "JKR":{
+        "City":"Janakpur",
+        "Country":"Nepal"
+    },
+    "JAD":{
+        "City":"Jandakot",
+        "Country":"WA, Australia"
+    },
+    "JVL":{
+        "City":"Janesville (WI)",
+        "Country":"USA"
+    },
+    "JNA":{
+        "City":"Januaria",
+        "Country":"Minas Gerais, Brazil"
+    },
+    "JQE":{
+        "City":"Jaque",
+        "Country":"Panama"
+    },
+    "JTI":{
+        "City":"Jatai",
+        "Country":"Goi\u00e1s, Brazil"
+    },
+    "JAU":{
+        "City":"Jauja",
+        "Country":"Peru"
+    },
+    "DJJ":{
+        "City":"Jayapura",
+        "Country":"Indonesia"
+    },
+    "JED":{
+        "City":"Jeddah",
+        "Country":"Saudi Arabia"
+    },
+    "JEF":{
+        "City":"Jefferson City (MO)",
+        "Country":"USA"
+    },
+    "JEE":{
+        "City":"Jeremie",
+        "Country":"Haiti"
+    },
+    "XRY":{
+        "City":"Jerez de la Frontera/Cadiz",
+        "Country":"Spain"
+    },
+    "JER":{
+        "City":"Jersey",
+        "Country":"Channel Islands, UK"
+    },
+    "JRS":{
+        "City":"Jerusalem",
+        "Country":"Israel"
+    },
+    "JSR":{
+        "City":"Jessore",
+        "Country":"Bangladesh"
+    },
+    "PYB":{
+        "City":"Jeypore",
+        "Country":"Odisha, India"
+    },
+    "JGS":{
+        "City":"Ji'an",
+        "Country":"Jiangxi, China"
+    },
+    "JMU":{
+        "City":"Jiamusi",
+        "Country":"China"
+    },
+    "JGN":{
+        "City":"Jiayuguan",
+        "Country":"China"
+    },
+    "GJL":{
+        "City":"Jijel",
+        "Country":"Algeria"
+    },
+    "JIJ":{
+        "City":"Jijiga",
+        "Country":"Ethiopia"
+    },
+    "JIL":{
+        "City":"Jilin City",
+        "Country":"Jilin, China"
+    },
+    "JIM":{
+        "City":"Jimma",
+        "Country":"Ethiopia"
+    },
+    "TNA":{
+        "City":"Jinan",
+        "Country":"Shandong, China"
+    },
+    "JDZ":{
+        "City":"Jingdezhen",
+        "Country":"China"
+    },
+    "JHG":{
+        "City":"Jinghong",
+        "Country":"Jiangxi,  China"
+    },
+    "JNG":{
+        "City":"Jining",
+        "Country":"Shandong, China"
+    },
+    "JIN":{
+        "City":"Jinja",
+        "Country":"Uganda"
+    },
+    "JJN":{
+        "City":"Quanzhou",
+        "Country":"Fujian, China"
+    },
+    "BCO":{
+        "City":"Jinka",
+        "Country":"Ethiopia"
+    },
+    "JNZ":{
+        "City":"Jinzhou",
+        "Country":"Liaoning, China"
+    },
+    "JPR":{
+        "City":"Ji-Paran\u00e1",
+        "Country":"Rond\u00f4nia, Brazil"
+    },
+    "JIP":{
+        "City":"Jipijapa",
+        "Country":"Ecuador"
+    },
+    "JIR":{
+        "City":"Jiri",
+        "Country":"Nepal"
+    },
+    "JIU":{
+        "City":"Jiujiang",
+        "Country":"Jiangxi, China"
+    },
+    "JIW":{
+        "City":"Jiwani",
+        "Country":"Pakistan"
+    },
+    "JCB":{
+        "City":"Joacaba",
+        "Country":"Brazil"
+    },
+    "JXA":{
+        "City":"Jixi",
+        "Country":"Heilongjiang, China"
+    },
+    "JPA":{
+        "City":"Joao Pessoa",
+        "Country":"Brazil"
+    },
+    "JDH":{
+        "City":"Jodhpur",
+        "Country":"India"
+    },
+    "JKG":{
+        "City":"J\u00f6nk\u00f6ping (Joenkoeping)",
+        "Country":"Sweden"
+    },
+    "JOE":{
+        "City":"Joensuu",
+        "Country":"Finland"
+    },
+    "JNB":{
+        "City":"Johannesburg",
+        "Country":"Gauteng, South Africa"
+    },
+    "BGM":{
+        "City":"Johnson City/Binghamton (NY)",
+        "Country":"USA"
+    },
+    "JON":{
+        "City":"Johnston Island",
+        "Country":"U.S. Minor Outlying Islands"
+    },
+    "JST":{
+        "City":"Johnstown (PA)",
+        "Country":"USA"
+    },
+    "JHB":{
+        "City":"Johor Bahru",
+        "Country":"Malaysia"
+    },
+    "JOI":{
+        "City":"Joinville",
+        "Country":"Brazil"
+    },
+    "JOT":{
+        "City":"Joliet (IL)",
+        "Country":"USA"
+    },
+    "JOL":{
+        "City":"Jolo",
+        "Country":"Sulu, Philippines"
+    },
+    "JMO":{
+        "City":"Jomsom",
+        "Country":"Nepal"
+    },
+    "JBR":{
+        "City":"Jonesboro (AR)",
+        "Country":"USA"
+    },
+    "JLN":{
+        "City":"Joplin (MO)",
+        "Country":"USA"
+    },
+    "JRH":{
+        "City":"Jorhat",
+        "Country":"India"
+    },
+    "JOS":{
+        "City":"Jos",
+        "Country":"Nigeria"
+    },
+    "JSM":{
+        "City":"Jose De San Martin",
+        "Country":"Argentina"
+    },
+    "AJF":{
+        "City":"Jouf (Al-Jouf)",
+        "Country":"Saudi Arabia"
+    },
+    "JJI":{
+        "City":"Juanjui",
+        "Country":"Peru"
+    },
+    "JUB":{
+        "City":"Juba (capital city)",
+        "Country":"South Sudan"
+    },
+    "JUI":{
+        "City":"Juist (island)",
+        "Country":"Lower Saxony, Germany"
+    },
+    "JDF":{
+        "City":"Juiz De Fora",
+        "Country":"Minas Gerais, Brazil"
+    },
+    "JUJ":{
+        "City":"Jujuy",
+        "Country":"Argentina"
+    },
+    "JCK":{
+        "City":"Julia Creek",
+        "Country":"Australia"
+    },
+    "JUL":{
+        "City":"Juliaca",
+        "Country":"Peru"
+    },
+    "JUM":{
+        "City":"Jumla",
+        "Country":"Nepal"
+    },
+    "JUN":{
+        "City":"Jundah",
+        "Country":"Australia"
+    },
+    "JNU":{
+        "City":"Juneau (AK)",
+        "Country":"USA"
+    },
+    "JNI":{
+        "City":"Junin",
+        "Country":"Argentina"
+    },
+    "JRN":{
+        "City":"Juruena",
+        "Country":"Mato Grosso, Brazil"
+    },
+    "JUT":{
+        "City":"Juticalpa",
+        "Country":"Honduras"
+    },
+    "JWA":{
+        "City":"Jwaneng",
+        "Country":"Botswana"
+    },
+    "JYV":{
+        "City":"Jyv\u00e4skyl\u00e4 (Jyvaskyla)",
+        "Country":"Finland"
+    },
+    "KBL":{
+        "City":"Kabul (capital city)",
+        "Country":"Afghanistan"
+    },
+    "KOJ":{
+        "City":"Kagoshima",
+        "Country":"Kyushu, Japan"
+    },
+    "KCM":{
+        "City":"Kahramanmaras",
+        "Country":"Turkey"
+    },
+    "OGG":{
+        "City":"Kahului (HI)",
+        "Country":"USA"
+    },
+    "KAJ":{
+        "City":"Kajaani",
+        "Country":"Finland"
+    },
+    "KLX":{
+        "City":"Kalamata",
+        "Country":"Greece"
+    },
+    "AZO":{
+        "City":"Kalamazoo/Battle Creek (MI)",
+        "Country":"USA"
+    },
+    "KGI":{
+        "City":"Kalgoorlie",
+        "Country":"WA, Australia"
+    },
+    "KLO":{
+        "City":"Kalibo",
+        "Country":"Boracay, Aklan, Philippines"
+    },
+    "KGD":{
+        "City":"Kaliningrad",
+        "Country":"Russia"
+    },
+    "FCA":{
+        "City":"Kalispell (MT)",
+        "Country":"USA"
+    },
+    "KLR":{
+        "City":"Kalmar",
+        "Country":"Sweden"
+    },
+    "YKA":{
+        "City":"Kamloops (BC)",
+        "Country":"BC, Canada"
+    },
+    "MUE":{
+        "City":"Kamuela (HI)",
+        "Country":"USA"
+    },
+    "KDH":{
+        "City":"Kandahar",
+        "Country":"Afghanistan"
+    },
+    "KAN":{
+        "City":"Kano",
+        "Country":"Nigeria"
+    },
+    "KNU":{
+        "City":"Kanpur",
+        "Country":"Uttar Pradesh, India"
+    },
+    "MCI":{
+        "City":"Kansas City (MO)",
+        "Country":"USA"
+    },
+    "KHH":{
+        "City":"Kaohsiung",
+        "Country":"Taiwan"
+    },
+    "JHM":{
+        "City":"Kapalua, Lahaina (HI)",
+        "Country":"USA"
+    },
+    "KHI":{
+        "City":"Karachi",
+        "Country":"Pakistan"
+    },
+    "FKB":{
+        "City":"Karlsruhe/Baden-Baden",
+        "Country":"Germany"
+    },
+    "KSD":{
+        "City":"Karlstad",
+        "Country":"Sweden"
+    },
+    "AOK":{
+        "City":"Karpathos (island)",
+        "Country":"Greece"
+    },
+    "KTA":{
+        "City":"Karratha",
+        "Country":"WA, Australia"
+    },
+    "KUN":{
+        "City":"Kaunas",
+        "Country":"Lithuania"
+    },
+    "KYS":{
+        "City":"Kayes",
+        "Country":"Mali"
+    },
+    "KRB":{
+        "City":"Karumba",
+        "Country":"Australia"
+    },
+    "KRP":{
+        "City":"Karup",
+        "Country":"Denmark"
+    },
+    "ZKE":{
+        "City":"Kashechewan",
+        "Country":"Ontario, Canada"
+    },
+    "KSL":{
+        "City":"Kassala",
+        "Country":"Sudan"
+    },
+    "KTR":{
+        "City":"Katherine",
+        "Country":"NT, Australia"
+    },
+    "KTM":{
+        "City":"Kathmandu (capital city)",
+        "Country":"Nepal"
+    },
+    "MPA":{
+        "City":"Katima Mulilo/Mpacha",
+        "Country":"Namibia"
+    },
+    "KHJ":{
+        "City":"Kauhajoki",
+        "Country":"Finland"
+    },
+    "MKK":{
+        "City":"Kaunakakai (HI)",
+        "Country":"USA"
+    },
+    "KVA":{
+        "City":"Kavalla",
+        "Country":"Greece"
+    },
+    "ASR":{
+        "City":"Kayseri (province)",
+        "Country":"Turkey"
+    },
+    "KZN":{
+        "City":"Kazan",
+        "Country":"Tatarstan, Russia"
+    },
+    "KMP":{
+        "City":"Keetmanshoop",
+        "Country":"Namibia"
+    },
+    "KEF":{
+        "City":"Reykjavik",
+        "Country":"Iceland"
+    },
+    "YLW":{
+        "City":"Kelowna",
+        "Country":"BC, Canada"
+    },
+    "KEM":{
+        "City":"Kemi/Tornio",
+        "Country":"Finland"
+    },
+    "ENA":{
+        "City":"Kenai (AK)",
+        "Country":"USA"
+    },
+    "MSE":{
+        "City":"Manston/Kent",
+        "Country":"United Kingdom"
+    },
+    "KIR":{
+        "City":"Kerry County",
+        "Country":"Ireland"
+    },
+    "KTN":{
+        "City":"Ketchikan (AK)",
+        "Country":"USA"
+    },
+    "EYW":{
+        "City":"Key West (FL)",
+        "Country":"USA"
+    },
+    "KHV":{
+        "City":"Khabarovsk",
+        "Country":"Russia"
+    },
+    "AHB":{
+        "City":"Khamis Mushayat",
+        "Country":"Saudi Arabia"
+    },
+    "UVL":{
+        "City":"Kharga",
+        "Country":"Egypt"
+    },
+    "HRK":{
+        "City":"Kharkov (Kharkiv)",
+        "Country":"Ukraine"
+    },
+    "KRT":{
+        "City":"Khartoum (capital city)",
+        "Country":"Sudan"
+    },
+    "KDD":{
+        "City":"Khuzdar",
+        "Country":"Pakistan"
+    },
+    "KEL":{
+        "City":"Kiel",
+        "Country":"Germany"
+    },
+    "KBP":{
+        "City":"Kiev (capital city)",
+        "Country":"Ukraine"
+    },
+    "IEV":{
+        "City":"Kiev",
+        "Country":"Ukraine"
+    },
+    "KGL":{
+        "City":"Kigali (capital city)",
+        "Country":"Rwanda"
+    },
+    "JRO":{
+        "City":"Kilimanjaro",
+        "Country":"Tanzania"
+    },
+    "ILE":{
+        "City":"Killeem (TX)",
+        "Country":"USA"
+    },
+    "KIM":{
+        "City":"Kimberley",
+        "Country":"South Africa"
+    },
+    "KNS":{
+        "City":"King Island",
+        "Country":"Australia"
+    },
+    "AKN":{
+        "City":"King Salomon (AK)",
+        "Country":"USA"
+    },
+    "KGC":{
+        "City":"Kingscote",
+        "Country":"Australia"
+    },
+    "KIN":{
+        "City":"Kingston (capital city)",
+        "Country":"Jamaica"
+    },
+    "ISO":{
+        "City":"Kingston (NC)",
+        "Country":"USA"
+    },
+    "SVD":{
+        "City":"St. Vincent",
+        "Country":"St. Vincent"
+    },
+    "FIH":{
+        "City":"Kinshasa (capital city)",
+        "Country":"Congo (DRC)"
+    },
+    "CXI":{
+        "City":"Kiritimati (island)",
+        "Country":"Kiribati"
+    },
+    "KKN":{
+        "City":"Kirkenes",
+        "Country":"Norway"
+    },
+    "KIK":{
+        "City":"Kirkuk",
+        "Country":"Iraq"
+    },
+    "KRN":{
+        "City":"Kiruna",
+        "Country":"Sweden"
+    },
+    "KOI":{
+        "City":"Orkney (islands)",
+        "Country":"United Kingdom"
+    },
+    "FKI":{
+        "City":"Kisangani",
+        "Country":"Congo (DRC)"
+    },
+    "KIH":{
+        "City":"Kish Island",
+        "Country":"Iran"
+    },
+    "KKJ":{
+        "City":"Kitakyushu",
+        "Country":"Kyushu, Japan"
+    },
+    "KTT":{
+        "City":"Kittil\u00e4",
+        "Country":"Finland"
+    },
+    "KIW":{
+        "City":"Kitwe",
+        "Country":"Zambia"
+    },
+    "KLU":{
+        "City":"Klagenfurt",
+        "Country":"Austria"
+    },
+    "LMT":{
+        "City":"Klamath Fall (OR)",
+        "Country":"USA"
+    },
+    "KLW":{
+        "City":"Klawock (AK)",
+        "Country":"USA"
+    },
+    "KLZ":{
+        "City":"Kleinsee (Kleinzee)",
+        "Country":"South Africa"
+    },
+    "NOC":{
+        "City":"Knock",
+        "Country":"Ireland"
+    },
+    "TYS":{
+        "City":"Knoxville (TN)",
+        "Country":"USA"
+    },
+    "UKB":{
+        "City":"Kobe",
+        "Country":"Japan"
+    },
+    "KCZ":{
+        "City":"K\u014dchi (Kochi)",
+        "Country":"Kochi, Japan"
+    },
+    "ADQ":{
+        "City":"Kodiak (AK)",
+        "Country":"USA"
+    },
+    "OHT":{
+        "City":"Kohat",
+        "Country":"Pakistan"
+    },
+    "KOK":{
+        "City":"Kokkola/Pietarsaari",
+        "Country":"Finland"
+    },
+    "KMQ":{
+        "City":"Komatsu",
+        "Country":"Japan"
+    },
+    "KOA":{
+        "City":"Kona (HI)",
+        "Country":"USA"
+    },
+    "KYA":{
+        "City":"Konya",
+        "Country":"Turkey"
+    },
+    "HGO":{
+        "City":"Korhogo",
+        "Country":"Cote d'Ivoire"
+    },
+    "KGS":{
+        "City":"Kos (island)",
+        "Country":"Greece"
+    },
+    "KSA":{
+        "City":"Kosrae",
+        "Country":"Micronesia"
+    },
+    "BKI":{
+        "City":"Kota Kinabalu",
+        "Country":"Malaysia"
+    },
+    "OTZ":{
+        "City":"Kotzbue (AK)",
+        "Country":"USA"
+    },
+    "KWM":{
+        "City":"Kowanyama",
+        "Country":"Australia"
+    },
+    "KRK":{
+        "City":"Krakow (Cracow)",
+        "Country":"Poland"
+    },
+    "KJA":{
+        "City":"Krasnoyarsk",
+        "Country":"Russia"
+    },
+    "KRS":{
+        "City":"Kristiansand",
+        "Country":"Norway"
+    },
+    "KID":{
+        "City":"Kristianstad",
+        "Country":"Sweden"
+    },
+    "KSU":{
+        "City":"Kristiansund",
+        "Country":"Norway"
+    },
+    "KUL":{
+        "City":"Kuala Lumpur (capital city)",
+        "Country":"Malaysia"
+    },
+    "SZB":{
+        "City":"Kuala Lumpur",
+        "Country":"Malaysia"
+    },
+    "KNO":{
+        "City":"Medan",
+        "Country":"Indonesia"
+    },
+    "KUA":{
+        "City":"Kuantan",
+        "Country":"Pahang, Malaysia"
+    },
+    "KCH":{
+        "City":"Kuching",
+        "Country":"Sarawak, Malaysia"
+    },
+    "KMJ":{
+        "City":"Kumamoto",
+        "Country":"Japan"
+    },
+    "KMG":{
+        "City":"Kunming",
+        "Country":"Yunnan, China"
+    },
+    "KNX":{
+        "City":"Kununurra",
+        "Country":"Australia"
+    },
+    "KUO":{
+        "City":"Kuopio",
+        "Country":"Finland"
+    },
+    "KUH":{
+        "City":"Kushiro",
+        "Country":"Japan"
+    },
+    "YVP":{
+        "City":"Kuujjuaq (Fort Chimo)",
+        "Country":"Quebec, Canada"
+    },
+    "YGW":{
+        "City":"Kuujjuarapik",
+        "Country":"Quebec, Canada"
+    },
+    "KAO":{
+        "City":"Kuusamo",
+        "Country":"Finland"
+    },
+    "KWI":{
+        "City":"Kuwait City",
+        "Country":"Kuwait"
+    },
+    "LEK":{
+        "City":"Labe",
+        "Country":"Guinea"
+    },
+    "LBU":{
+        "City":"Labuan",
+        "Country":"Sabah, Malaysia"
+    },
+    "XLB":{
+        "City":"Lac Brochet (MB)",
+        "Country":"Manitoba, Canada"
+    },
+    "LSE":{
+        "City":"La Crosse (WI)",
+        "Country":"USA"
+    },
+    "LAE":{
+        "City":"Lae",
+        "Country":"Papua New Guinea"
+    },
+    "LRH":{
+        "City":"La Rochelle",
+        "Country":"France"
+    },
+    "LAF":{
+        "City":"Lafayette (IN)",
+        "Country":"USA"
+    },
+    "LFT":{
+        "City":"Lafayette (LA)",
+        "Country":"USA"
+    },
+    "LOS":{
+        "City":"Lagos",
+        "Country":"Nigeria"
+    },
+    "LHE":{
+        "City":"Lahore",
+        "Country":"Pakistan"
+    },
+    "SOB":{
+        "City":"Lake Balaton",
+        "Country":"Hungary"
+    },
+    "LCH":{
+        "City":"Lake Charles (LA)",
+        "Country":"USA"
+    },
+    "HII":{
+        "City":"Lake Havasu City, (AZ)",
+        "Country":"USA"
+    },
+    "TVL":{
+        "City":"Lake Tahoe (CA)",
+        "Country":"USA"
+    },
+    "LKL":{
+        "City":"Lakselv",
+        "Country":"Norway"
+    },
+    "LBQ":{
+        "City":"Lambarene",
+        "Country":"Gabon"
+    },
+    "SUF":{
+        "City":"Lamezia Terme",
+        "Country":"Italy"
+    },
+    "LMP":{
+        "City":"Lampedusa (island)",
+        "Country":"Italy"
+    },
+    "LNY":{
+        "City":"Lanai City (HI)",
+        "Country":"USA"
+    },
+    "LNS":{
+        "City":"Lancaster (PA)",
+        "Country":"USA"
+    },
+    "LEQ":{
+        "City":"Land's End",
+        "Country":"United Kingdom"
+    },
+    "LGK":{
+        "City":"Langkawi (islands)",
+        "Country":"Malaysia"
+    },
+    "LAI":{
+        "City":"Lannion",
+        "Country":"France"
+    },
+    "HLA":{
+        "City":"Lanseria",
+        "Country":"South Africa"
+    },
+    "LAN":{
+        "City":"Lansing (MI)",
+        "Country":"USA"
+    },
+    "LPB":{
+        "City":"La Paz (capital city)",
+        "Country":"Bolivia"
+    },
+    "LAP":{
+        "City":"La Paz",
+        "Country":"Mexico"
+    },
+    "LPP":{
+        "City":"Lappeenranta",
+        "Country":"Finland"
+    },
+    "LAR":{
+        "City":"Laramie (WY)",
+        "Country":"USA"
+    },
+    "LRD":{
+        "City":"Laredo (TX)",
+        "Country":"USA"
+    },
+    "LCA":{
+        "City":"Larnaca",
+        "Country":"Cyprus"
+    },
+    "LPA":{
+        "City":"Las Palmas",
+        "Country":"Canary Islands, Spain"
+    },
+    "LAS":{
+        "City":"Las Vegas (NV)",
+        "Country":"USA"
+    },
+    "LBE":{
+        "City":"Latrobe (near Pittsburgh) (PA)",
+        "Country":"USA"
+    },
+    "LST":{
+        "City":"Launceston",
+        "Country":"Australia"
+    },
+    "LVO":{
+        "City":"Laverton",
+        "Country":"WA, Australia"
+    },
+    "LAW":{
+        "City":"Lawton (OK)",
+        "Country":"USA"
+    },
+    "LZC":{
+        "City":"Lazaro Cardenas",
+        "Country":"Mexico"
+    },
+    "YLR":{
+        "City":"Leaf Rapids",
+        "Country":"Manitoba, Canada"
+    },
+    "LEA":{
+        "City":"Learmouth (Exmouth)",
+        "Country":"WA, Australia"
+    },
+    "LEB":{
+        "City":"Lebanon (NH)",
+        "Country":"USA"
+    },
+    "LBA":{
+        "City":"Leeds/Bradford",
+        "Country":"United Kingdom"
+    },
+    "LER":{
+        "City":"Leinster",
+        "Country":"WA, Australia"
+    },
+    "LEJ":{
+        "City":"Leipzig",
+        "Country":"Germany"
+    },
+    "LEY":{
+        "City":"Lelystad",
+        "Country":"Netherlands"
+    },
+    "BJX":{
+        "City":"Leon",
+        "Country":"Mexico"
+    },
+    "LNO":{
+        "City":"Leonora",
+        "Country":"WA, Australia"
+    },
+    "LWK":{
+        "City":"Lerwick/Tingwall (Shetland Islands)",
+        "Country":"United Kingdom"
+    },
+    "LWB":{
+        "City":"Lewisburg (WV)",
+        "Country":"USA"
+    },
+    "LWS":{
+        "City":"Lewiston (ID)",
+        "Country":"USA"
+    },
+    "LWT":{
+        "City":"Lewistown (MT)",
+        "Country":"USA"
+    },
+    "LEX":{
+        "City":"Lexington (KY)",
+        "Country":"USA"
+    },
+    "LXA":{
+        "City":"Lhasa",
+        "Country":"Tibet (China)"
+    },
+    "LBV":{
+        "City":"Libreville (capital city)",
+        "Country":"Gabon"
+    },
+    "LDK":{
+        "City":"Lidkoeping",
+        "Country":"Sweden"
+    },
+    "LGG":{
+        "City":"Liege",
+        "Country":"Belgium"
+    },
+    "LIF":{
+        "City":"Lifou",
+        "Country":"Loyalty Islands, New Caledonia"
+    },
+    "LIH":{
+        "City":"Lihue (HI)",
+        "Country":"USA"
+    },
+    "LIL":{
+        "City":"Lille",
+        "Country":"France"
+    },
+    "LLW":{
+        "City":"Lilongwe (capital city)",
+        "Country":"Malawi"
+    },
+    "LIM":{
+        "City":"Lima (capital city)",
+        "Country":"Peru"
+    },
+    "LIG":{
+        "City":"Limoges",
+        "Country":"France"
+    },
+    "LNK":{
+        "City":"Lincoln (NE)",
+        "Country":"USA"
+    },
+    "LDC":{
+        "City":"Lindeman Island",
+        "Country":"Queensland, Australia"
+    },
+    "LNZ":{
+        "City":"Linz",
+        "Country":"Austria"
+    },
+    "LIQ":{
+        "City":"Lisala",
+        "Country":"Congo (DRC)"
+    },
+    "LIS":{
+        "City":"Lisbon (capital city)",
+        "Country":"Portugal"
+    },
+    "LSY":{
+        "City":"Lismore",
+        "Country":"NSW, Australia"
+    },
+    "LIT":{
+        "City":"Little Rock (AR)",
+        "Country":"USA"
+    },
+    "LPL":{
+        "City":"Liverpool",
+        "Country":"United Kingdom"
+    },
+    "LZR":{
+        "City":"Lizard Island",
+        "Country":"Queensland, Australia"
+    },
+    "LJU":{
+        "City":"Ljubljana (capital city)",
+        "Country":"Slovenia"
+    },
+    "MTS":{
+        "City":"Mbabane (capital city)",
+        "Country":"Swaziland"
+    },
+    "IRG":{
+        "City":"Lockhart River",
+        "Country":"Queensland, Australia"
+    },
+    "LFW":{
+        "City":"Lom\u00e9 (capital city)",
+        "Country":"Togo"
+    },
+    "LON":{
+        "City":"London (capital city)",
+        "Country":"United Kingdom"
+    },
+    "LCY":{
+        "City":"London",
+        "Country":"United Kingdom"
+    },
+    "LGW":{
+        "City":"London",
+        "Country":"United Kingdom"
+    },
+    "LHR":{
+        "City":"London",
+        "Country":"United Kingdom"
+    },
+    "LTN":{
+        "City":"London",
+        "Country":"United Kingdom"
+    },
+    "STN":{
+        "City":"Stansted",
+        "Country":"United Kingdoma"
+    },
+    "SEN":{
+        "City":"Southend",
+        "Country":"United Kingdoma"
+    },
+    "YXU":{
+        "City":"London",
+        "Country":"Ontario, Canada"
+    },
+    "LGB":{
+        "City":"Long Beach (CA)",
+        "Country":"USA"
+    },
+    "LRE":{
+        "City":"Longreach",
+        "Country":"Australia"
+    },
+    "GGG":{
+        "City":"Longview/Kilgore (TX)",
+        "Country":"USA"
+    },
+    "LYR":{
+        "City":"Longyearbyen",
+        "Country":"Svalbard, Norway"
+    },
+    "LTO":{
+        "City":"Loreto",
+        "Country":"Mexico"
+    },
+    "LRT":{
+        "City":"Lorient",
+        "Country":"France"
+    },
+    "LAX":{
+        "City":"Los Angeles (CA)",
+        "Country":"USA"
+    },
+    "SJD":{
+        "City":"San Jose Cabo",
+        "Country":"Mexico"
+    },
+    "LMM":{
+        "City":"Los Mochis",
+        "Country":"Mexico"
+    },
+    "TFN":{
+        "City":"Tenerife",
+        "Country":"Canary Islands, Spain"
+    },
+    "LSZ":{
+        "City":"Losinj (island)",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "LDE":{
+        "City":"Lourdes/Tarbes",
+        "Country":"France"
+    },
+    "SDF":{
+        "City":"Louisville (KY)",
+        "Country":"USA"
+    },
+    "LAD":{
+        "City":"Luanda (capital city)",
+        "Country":"Angola"
+    },
+    "LBB":{
+        "City":"Lubbock (TX)",
+        "Country":"USA"
+    },
+    "LKO":{
+        "City":"Lucknow",
+        "Country":"Uttar Pradesh, India"
+    },
+    "LUD":{
+        "City":"Luederitz",
+        "Country":"Namibia"
+    },
+    "MLA":{
+        "City":"Luqa",
+        "Country":"Malta"
+    },
+    "LUG":{
+        "City":"Lugano",
+        "Country":"Switzerland"
+    },
+    "LLA":{
+        "City":"Lulea (Lule\u00e5)",
+        "Country":"Sweden"
+    },
+    "FBM":{
+        "City":"Lumbumbashi",
+        "Country":"Congo (DRC)"
+    },
+    "LUN":{
+        "City":"Lusaka (capital city)",
+        "Country":"Zambia"
+    },
+    "LUX":{
+        "City":"Luxembourg City (capital city)",
+        "Country":"Luxembourg"
+    },
+    "LUM":{
+        "City":"Mangshi (Luxi)",
+        "Country":"Yunnan, China"
+    },
+    "LXR":{
+        "City":"Luxor",
+        "Country":"Egypt"
+    },
+    "LWO":{
+        "City":"Lviv (Lvov/Lemberg)",
+        "Country":"Ukraine"
+    },
+    "LYX":{
+        "City":"Lydd",
+        "Country":"United Kingdom"
+    },
+    "LYH":{
+        "City":"Lynchburg (VA)",
+        "Country":"USA"
+    },
+    "LYN":{
+        "City":"Lyon",
+        "Country":"France"
+    },
+    "LYS":{
+        "City":"Lyon",
+        "Country":"France"
+    },
+    "MST":{
+        "City":"Maastricht/Aachen",
+        "Country":"Netherlands"
+    },
+    "MEA":{
+        "City":"Maca\u00e9",
+        "Country":"RJ, Brazil"
+    },
+    "MCP":{
+        "City":"Macapa",
+        "Country":"Amap\u00e1, Brazil"
+    },
+    "MFM":{
+        "City":"Macau",
+        "Country":"Macau, China SAR"
+    },
+    "MCZ":{
+        "City":"Maceio",
+        "Country":"Alagoas, Brazil"
+    },
+    "MKY":{
+        "City":"Mackay",
+        "Country":"Australia"
+    },
+    "MCN":{
+        "City":"Macon (GA)",
+        "Country":"USA"
+    },
+    "CEB":{
+        "City":"Mactan Island (Cebu City)",
+        "Country":"Philippines"
+    },
+    "MED":{
+        "City":"Medina (Al-Madinah)",
+        "Country":"Saudi Arabia"
+    },
+    "MSN":{
+        "City":"Madison (WI)",
+        "Country":"USA"
+    },
+    "MAD":{
+        "City":"Madrid (capital city)",
+        "Country":"Spain"
+    },
+    "GDX":{
+        "City":"Magadan",
+        "Country":"Russia"
+    },
+    "SEZ":{
+        "City":"Victoria (Port Victoria)",
+        "Country":"Mah\u00e9, Seychelles"
+    },
+    "MAH":{
+        "City":"Mahon",
+        "Country":"Spain"
+    },
+    "MTL":{
+        "City":"Maitland",
+        "Country":"Australia"
+    },
+    "MJN":{
+        "City":"Mahajanga (Majunga)",
+        "Country":"Madagascar"
+    },
+    "MAJ":{
+        "City":"Majuro (capital city)",
+        "Country":"Marshall Islands"
+    },
+    "UPG":{
+        "City":"Ujung Pandang (Makassar)",
+        "Country":"Sulawesi, Indonesia"
+    },
+    "MZG":{
+        "City":"Makung (Magong)",
+        "Country":"Taiwan"
+    },
+    "SSG":{
+        "City":"Malabo",
+        "Country":"Equatorial Guinea"
+    },
+    "AGP":{
+        "City":"Malaga",
+        "Country":"Spain"
+    },
+    "MLX":{
+        "City":"Malatya",
+        "Country":"Turkey"
+    },
+    "MLE":{
+        "City":"Male (Mal\u00e9)",
+        "Country":"Maldives"
+    },
+    "MYD":{
+        "City":"Malindi",
+        "Country":"Kenya"
+    },
+    "MMA":{
+        "City":"Malm\u00f6 (Malmoe)",
+        "Country":"Sweden"
+    },
+    "MMX":{
+        "City":"Malm\u00f6 (Malmoe)",
+        "Country":"Sweden"
+    },
+    "MJC":{
+        "City":"Man",
+        "Country":"Cote d'Ivoire"
+    },
+    "MGA":{
+        "City":"Managua (capital city)",
+        "Country":"Nicaragua"
+    },
+    "MAO":{
+        "City":"Manaus",
+        "Country":"Amazonas, Brazil"
+    },
+    "MAN":{
+        "City":"Manchester",
+        "Country":"United Kingdom"
+    },
+    "MHT":{
+        "City":"Manchester (NH)",
+        "Country":"USA"
+    },
+    "MDL":{
+        "City":"Mandalay",
+        "Country":"Myanmar"
+    },
+    "MFO":{
+        "City":"Manguna",
+        "Country":"Papua New Guinea"
+    },
+    "XMH":{
+        "City":"Manihi (island)",
+        "Country":"French Polynesia"
+    },
+    "MNL":{
+        "City":"Manila (capital city)",
+        "Country":"Philippines"
+    },
+    "ZLO":{
+        "City":"Manzanillo",
+        "Country":"Mexico"
+    },
+    "NZH":{
+        "City":"Manzhouli",
+        "Country":"Inner Mongolia, China"
+    },
+    "MPM":{
+        "City":"Maputo (capital city)",
+        "Country":"Mozambique"
+    },
+    "MAB":{
+        "City":"Marab\u00e1",
+        "Country":"Par\u00e1, Brazil"
+    },
+    "MAR":{
+        "City":"Maracaibo",
+        "Country":"Venezuela"
+    },
+    "MFQ":{
+        "City":"Maradi",
+        "Country":"Niger"
+    },
+    "MTH":{
+        "City":"Marathon (FL)",
+        "Country":"USA"
+    },
+    "MDQ":{
+        "City":"Mar del Plata",
+        "Country":"Argentina"
+    },
+    "MQM":{
+        "City":"Mardin",
+        "Country":"Turkey"
+    },
+    "MEE":{
+        "City":"Mare",
+        "Country":"New Caledonia"
+    },
+    "MGH":{
+        "City":"Margate",
+        "Country":"South Africa"
+    },
+    "PMV":{
+        "City":"Porlamar, Isla Margarita",
+        "Country":"Venezuela"
+    },
+    "MBX":{
+        "City":"Maribor",
+        "Country":"Slovenia"
+    },
+    "MHQ":{
+        "City":"Mariehamn (Maarianhamina)",
+        "Country":"Finland"
+    },
+    "MVR":{
+        "City":"Maroua",
+        "Country":"Cameroon"
+    },
+    "MQT":{
+        "City":"Marquette (MI)",
+        "Country":"USA"
+    },
+    "RAK":{
+        "City":"Marrakesh",
+        "Country":"Morocco"
+    },
+    "RMF":{
+        "City":"Marsa Alam",
+        "Country":"Egypt"
+    },
+    "MUH":{
+        "City":"Marsa Matrah (Marsa Matruh)",
+        "Country":"Egypt"
+    },
+    "MRS":{
+        "City":"Marseille",
+        "Country":"France"
+    },
+    "MHH":{
+        "City":"Marsh Harbour",
+        "Country":"Bahamas"
+    },
+    "MVY":{
+        "City":"Martha's Vineyard (island) (MA)",
+        "Country":"USA"
+    },
+    "MRB":{
+        "City":"Martinsburg (WV)",
+        "Country":"USA"
+    },
+    "MBH":{
+        "City":"Maryborough",
+        "Country":"Australia"
+    },
+    "MSU":{
+        "City":"Maseru (capital city)",
+        "Country":"Lesotho"
+    },
+    "MCW":{
+        "City":"Mason City (IA)",
+        "Country":"USA"
+    },
+    "MVZ":{
+        "City":"Masvingo",
+        "Country":"Zimbabwe"
+    },
+    "MMJ":{
+        "City":"Matsumoto/ Nagano",
+        "Country":"Japan"
+    },
+    "MYJ":{
+        "City":"Matsuyama",
+        "Country":"Japan"
+    },
+    "MTO":{
+        "City":"Mattoon (IL)",
+        "Country":"USA"
+    },
+    "MUB":{
+        "City":"Maun",
+        "Country":"Botswana"
+    },
+    "MAU":{
+        "City":"Maupiti (island)",
+        "Country":"French Polynesia"
+    },
+    "MRU":{
+        "City":"Mauritius (island)",
+        "Country":"Mauritius"
+    },
+    "MAZ":{
+        "City":"Mayaguez",
+        "Country":"Puerto Rico"
+    },
+    "MZT":{
+        "City":"Mazatlan",
+        "Country":"Mexico"
+    },
+    "MFE":{
+        "City":"McAllen (TX)",
+        "Country":"USA"
+    },
+    "QCA":{
+        "City":"Mecca",
+        "Country":"Saudi Arabia"
+    },
+    "MES":{
+        "City":"Medan",
+        "Country":"Indonesia"
+    },
+    "MDE":{
+        "City":"Medellin",
+        "Country":"Colombia"
+    },
+    "MFR":{
+        "City":"Medford (OR)",
+        "Country":"USA"
+    },
+    "MKR":{
+        "City":"Meekatharra",
+        "Country":"WA, Australia"
+    },
+    "MEL":{
+        "City":"Melbourne",
+        "Country":"Australia"
+    },
+    "MLB":{
+        "City":"Melbourne (FL)",
+        "Country":"USA"
+    },
+    "FMM":{
+        "City":"Memmingen",
+        "Country":"Germany"
+    },
+    "MEM":{
+        "City":"Memphis (TN)",
+        "Country":"USA"
+    },
+    "MDZ":{
+        "City":"Mendoza",
+        "Country":"Argentina"
+    },
+    "MDC":{
+        "City":"Manado",
+        "Country":"Sulawesi, Indonesia"
+    },
+    "MKQ":{
+        "City":"Merauke",
+        "Country":"Papua, Indonesia"
+    },
+    "MCE":{
+        "City":"Merced (CA)",
+        "Country":"USA"
+    },
+    "MID":{
+        "City":"Merida",
+        "Country":"Mexico"
+    },
+    "MEI":{
+        "City":"Meridian (MS)",
+        "Country":"USA"
+    },
+    "MIM":{
+        "City":"Merimbula",
+        "Country":"NSW, Australia"
+    },
+    "MEZ":{
+        "City":"Messina",
+        "Country":"South Africa"
+    },
+    "MTM":{
+        "City":"Metlakatla (AK)",
+        "Country":"USA"
+    },
+    "MZM":{
+        "City":"Metz",
+        "Country":"France"
+    },
+    "ETZ":{
+        "City":"Metz",
+        "Country":"France"
+    },
+    "MXL":{
+        "City":"Mexicali",
+        "Country":"Mexico"
+    },
+    "MEX":{
+        "City":"Mexico City (capital city)",
+        "Country":"Mexico"
+    },
+    "AZP":{
+        "City":"Mexico City",
+        "Country":"Mexico"
+    },
+    "NLU":{
+        "City":"Mexico City",
+        "Country":"Mexico"
+    },
+    "MFU":{
+        "City":"Mfuwe",
+        "Country":"Zambia"
+    },
+    "MIA":{
+        "City":"Miami (FL)",
+        "Country":"USA"
+    },
+    "MWD":{
+        "City":"Mianwali",
+        "Country":"Pakistan"
+    },
+    "MMM":{
+        "City":"Middlemount",
+        "Country":"Queensland, Australia"
+    },
+    "MAF":{
+        "City":"Midland/Odessa (TX)",
+        "Country":"USA"
+    },
+    "MDY":{
+        "City":"Midway Island",
+        "Country":"US Minor Outlying Islands"
+    },
+    "MIK":{
+        "City":"Mikkeli",
+        "Country":"Finland"
+    },
+    "MIL":{
+        "City":"Milan",
+        "Country":"Italy"
+    },
+    "LIN":{
+        "City":"Milan",
+        "Country":"Italy"
+    },
+    "MXP":{
+        "City":"Milan",
+        "Country":"Italy"
+    },
+    "MQL":{
+        "City":"Mildura",
+        "Country":"Victoria, Australia"
+    },
+    "MLS":{
+        "City":"Miles City (MT)",
+        "Country":"USA"
+    },
+    "MFN":{
+        "City":"Milford Sound",
+        "Country":"New Zealand"
+    },
+    "MKE":{
+        "City":"Milwaukee (WI)",
+        "Country":"USA"
+    },
+    "MTT":{
+        "City":"Minatitlan",
+        "Country":"Mexico"
+    },
+    "MRV":{
+        "City":"Mineralnye Vody",
+        "Country":"Russia"
+    },
+    "MSP":{
+        "City":"Saint Paul (MN)",
+        "Country":"USA"
+    },
+    "MOT":{
+        "City":"Minot (ND)",
+        "Country":"USA"
+    },
+    "MSQ":{
+        "City":"Minsk (capital city)",
+        "Country":"Belarus"
+    },
+    "MYY":{
+        "City":"Miri",
+        "Country":"Sarawak, Malaysia"
+    },
+    "MSO":{
+        "City":"Missula (MT)",
+        "Country":"USA"
+    },
+    "MHE":{
+        "City":"Mitchell (SD)",
+        "Country":"USA"
+    },
+    "MMY":{
+        "City":"Miyako Jima (Ryuku Islands)",
+        "Country":"Okinawa, Japan"
+    },
+    "KMI":{
+        "City":"Miyazaki",
+        "Country":"Miyazaki, Japan"
+    },
+    "MBM":{
+        "City":"Mkambati",
+        "Country":"Eastern Cape, South Africa"
+    },
+    "MFF":{
+        "City":"Moanda",
+        "Country":"Gabon"
+    },
+    "MOB":{
+        "City":"Mobile (AL)",
+        "Country":"USA"
+    },
+    "MOD":{
+        "City":"Modesto (CA)",
+        "Country":"USA"
+    },
+    "MJD":{
+        "City":"Moenjodaro",
+        "Country":"Pakistan"
+    },
+    "MGQ":{
+        "City":"Mogadishu (capital city)",
+        "Country":"Somalia"
+    },
+    "OKU":{
+        "City":"Mokuti Lodge",
+        "Country":"Namibia"
+    },
+    "MLI":{
+        "City":"Moline/Quad Cities (IL)",
+        "Country":"USA"
+    },
+    "MBA":{
+        "City":"Mombasa",
+        "Country":"Kenya"
+    },
+    "MCM":{
+        "City":"Monaco",
+        "Country":"Monaco"
+    },
+    "MIR":{
+        "City":"Monastir",
+        "Country":"Tunisia"
+    },
+    "YQM":{
+        "City":"Moncton",
+        "Country":"NB, Canada"
+    },
+    "MLU":{
+        "City":"Monroe (LA)",
+        "Country":"USA"
+    },
+    "ROB":{
+        "City":"Monrovia (capital city)",
+        "Country":"Liberia"
+    },
+    "MLW":{
+        "City":"Monrovia",
+        "Country":"Liberia"
+    },
+    "MBJ":{
+        "City":"Montego Bay",
+        "Country":"Jamaica"
+    },
+    "MRY":{
+        "City":"Monterey (CA)",
+        "Country":"USA"
+    },
+    "MTY":{
+        "City":"Monterrey",
+        "Country":"Nuevo Leon, Mexico"
+    },
+    "NTR":{
+        "City":"Monterrey",
+        "Country":"Nuevo Leon, Mexico"
+    },
+    "MOC":{
+        "City":"Montes Claros",
+        "Country":"Minas Gerais, Brazil"
+    },
+    "MVD":{
+        "City":"Montevideo (capital city)",
+        "Country":"Uruguay"
+    },
+    "MGM":{
+        "City":"Montgomery (AL)",
+        "Country":"USA"
+    },
+    "MPL":{
+        "City":"Montpellier",
+        "Country":"France"
+    },
+    "YMQ":{
+        "City":"Montreal",
+        "Country":"Canada"
+    },
+    "YUL":{
+        "City":"Montreal",
+        "Country":"Canada"
+    },
+    "YMX":{
+        "City":"Montreal",
+        "Country":"Canada"
+    },
+    "MTJ":{
+        "City":"Montrose/Tellruide (CO)",
+        "Country":"USA"
+    },
+    "MOZ":{
+        "City":"Moorea (Mo'orea island)",
+        "Country":"French Polynesia"
+    },
+    "MOV":{
+        "City":"Moranbah",
+        "Country":"Queensland, Australia"
+    },
+    "MRZ":{
+        "City":"Moree",
+        "Country":"NSW, Australia"
+    },
+    "MLM":{
+        "City":"Morelia",
+        "Country":"Michoac\u00e1n, Mexico"
+    },
+    "MGW":{
+        "City":"Morgantown (WV)",
+        "Country":"USA"
+    },
+    "HNA":{
+        "City":"Morioka",
+        "Country":"Honsh\u016b, Japan"
+    },
+    "HAH":{
+        "City":"Moroni (capital city)",
+        "Country":"Comoros"
+    },
+    "YVA":{
+        "City":"Moroni",
+        "Country":"Comoros"
+    },
+    "MYA":{
+        "City":"Moruya",
+        "Country":"NSW, Australia"
+    },
+    "MOW":{
+        "City":"Moscow (capital city)",
+        "Country":"Russia"
+    },
+    "DME":{
+        "City":"Moscow",
+        "Country":"Russia"
+    },
+    "SVO":{
+        "City":"Moscow",
+        "Country":"Russia"
+    },
+    "VKO":{
+        "City":"Moscow",
+        "Country":"Russia"
+    },
+    "MWH":{
+        "City":"Moses Lake (WA)",
+        "Country":"USA"
+    },
+    "RYG":{
+        "City":"Moss",
+        "Country":"Norway"
+    },
+    "MZY":{
+        "City":"Mossel Bay",
+        "Country":"South Africa"
+    },
+    "OMO":{
+        "City":"Mostar",
+        "Country":"Bosnia and Herzegovina"
+    },
+    "OSM":{
+        "City":"Mosul",
+        "Country":"Iraq"
+    },
+    "MJL":{
+        "City":"Mouila",
+        "Country":"Gabon"
+    },
+    "MQQ":{
+        "City":"Moundou",
+        "Country":"Chad"
+    },
+    "GTN":{
+        "City":"Mount Cook",
+        "Country":"New Zealand"
+    },
+    "MGB":{
+        "City":"Mount Gambier",
+        "Country":"Australia"
+    },
+    "MMG":{
+        "City":"Mount Magnet",
+        "Country":"Australia"
+    },
+    "UTT":{
+        "City":"Mthatha (Umtata)",
+        "Country":"South Africa"
+    },
+    "ISA":{
+        "City":"Mt. Isa",
+        "Country":"Queensland, Australia"
+    },
+    "MCL":{
+        "City":"Mt. McKinley (AK)",
+        "Country":"USA"
+    },
+    "MDG":{
+        "City":"Mudanjiang",
+        "Country":"Heilongjiang, China"
+    },
+    "MUC":{
+        "City":"M\u00fcnchen (Munich)",
+        "Country":"Bavaria, Germany"
+    },
+    "FMO":{
+        "City":"Muenster/Osnabrueck",
+        "Country":"NRW, Germany"
+    },
+    "MLH":{
+        "City":"Mulhouse",
+        "Country":"France"
+    },
+    "MUX":{
+        "City":"Multan",
+        "Country":"Pakistan"
+    },
+    "MJV":{
+        "City":"Murcia",
+        "Country":"Spain"
+    },
+    "MMK":{
+        "City":"Murmansk",
+        "Country":"Russia"
+    },
+    "MSR":{
+        "City":"Mus (Mu\u015f)",
+        "Country":"Turkey"
+    },
+    "MCT":{
+        "City":"Muscat (capital city)",
+        "Country":"Oman"
+    },
+    "MSL":{
+        "City":"Muscle Shoals (AL)",
+        "Country":"USA"
+    },
+    "MKG":{
+        "City":"Muskegon (MI)",
+        "Country":"USA"
+    },
+    "MFG":{
+        "City":"Muzaffarabad",
+        "Country":"Pakistan"
+    },
+    "MVB":{
+        "City":"Mvengue",
+        "Country":"Gabon"
+    },
+    "JMK":{
+        "City":"Mykonos (island)",
+        "Country":"Greece"
+    },
+    "MYR":{
+        "City":"Myrtle Beach (SC)",
+        "Country":"USA"
+    },
+    "CRE":{
+        "City":"Myrtle Beach (SC)",
+        "Country":"USA"
+    },
+    "MYQ":{
+        "City":"Mysore (Mysuru)",
+        "Country":"Karnataka, India"
+    },
+    "MJT":{
+        "City":"Mytilene (Lesbos island)",
+        "Country":"Greece"
+    },
+    "MZF":{
+        "City":"Mzamba",
+        "Country":"South Africa"
+    },
+    "NAN":{
+        "City":"Nadi",
+        "Country":"Viti Levu, Fiji"
+    },
+    "NGS":{
+        "City":"Nagasaki",
+        "Country":"Japan"
+    },
+    "NGO":{
+        "City":"Nagoya",
+        "Country":"Japan"
+    },
+    "NAG":{
+        "City":"Nagpur",
+        "Country":"Maharashtra, India"
+    },
+    "OKA":{
+        "City":"Naha",
+        "Country":"Okinawa, Japan"
+    },
+    "NBO":{
+        "City":"Nairobi (capital city)",
+        "Country":"Kenya"
+    },
+    "NAJ":{
+        "City":"Nakhchivan",
+        "Country":"Azerbaijan"
+    },
+    "NAK":{
+        "City":"Nakhon Ratchasima",
+        "Country":"Thailand"
+    },
+    "NST":{
+        "City":"Nakhon Si Thammarat",
+        "Country":"Thailand"
+    },
+    "KHN":{
+        "City":"Nanchang",
+        "Country":"Jiangxi, China"
+    },
+    "ENC":{
+        "City":"Nancy",
+        "Country":"France"
+    },
+    "YSR":{
+        "City":"Nanisivik",
+        "Country":"Nunavut, Canada"
+    },
+    "NNG":{
+        "City":"Nanning",
+        "Country":"Guangxi,  China"
+    },
+    "NTE":{
+        "City":"Nantes",
+        "Country":"France"
+    },
+    "ACK":{
+        "City":"Nantucket (MA)",
+        "Country":"USA"
+    },
+    "NAP":{
+        "City":"Naples (Napoli)",
+        "Country":"Italy"
+    },
+    "APF":{
+        "City":"Naples (FL)",
+        "Country":"USA"
+    },
+    "NRT":{
+        "City":"Tokyo",
+        "Country":"Japan"
+    },
+    "NAA":{
+        "City":"Narrabri",
+        "Country":"NSW, Australia"
+    },
+    "NRA":{
+        "City":"Narrandera",
+        "Country":"NSW, Australia"
+    },
+    "UAK":{
+        "City":"Narsarsuaq",
+        "Country":"Greenland"
+    },
+    "BNA":{
+        "City":"Nashville (TN)",
+        "Country":"USA"
+    },
+    "NAT":{
+        "City":"Natal",
+        "Country":"Brazil"
+    },
+    "SUV":{
+        "City":"Suva (capital city)",
+        "Country":"Fiji"
+    },
+    "WNS":{
+        "City":"Nawabshah",
+        "Country":"Sindh, Pakistan"
+    },
+    "JNX":{
+        "City":"Naxos (island)",
+        "Country":"Greece"
+    },
+    "NYT":{
+        "City":"Naypyidaw (capital city)",
+        "Country":"Myanmar (Burma)"
+    },
+    "NDJ":{
+        "City":"N'Djamena (capital city)",
+        "Country":"Chad"
+    },
+    "NLA":{
+        "City":"N'Dola (Ndola)",
+        "Country":"Zambia"
+    },
+    "NSN":{
+        "City":"Nelson",
+        "Country":"New Zealand"
+    },
+    "NLP":{
+        "City":"Nelspruit",
+        "Country":"South Africa"
+    },
+    "MQP":{
+        "City":"Nelspruit",
+        "Country":"South Africa"
+    },
+    "NEV":{
+        "City":"Nevis",
+        "Country":"Nevis"
+    },
+    "EWN":{
+        "City":"New Bern (NC)",
+        "Country":"USA"
+    },
+    "HVN":{
+        "City":"New Haven (CT)",
+        "Country":"USA"
+    },
+    "MSY":{
+        "City":"New Orleans (LA)",
+        "Country":"USA"
+    },
+    "NQY":{
+        "City":"Newquay",
+        "Country":"United Kingdom"
+    },
+    "NYC":{
+        "City":"New York (NY)",
+        "Country":"USA"
+    },
+    "JFK":{
+        "City":"New York (NY)",
+        "Country":"USA"
+    },
+    "LGA":{
+        "City":"New York (NY)",
+        "Country":"USA"
+    },
+    "EWR":{
+        "City":"New York (NJ)",
+        "Country":"USA"
+    },
+    "SWF":{
+        "City":"Newburgh (NY)",
+        "Country":"USA"
+    },
+    "BEO":{
+        "City":"Newcastle",
+        "Country":"NSW, Australia"
+    },
+    "NTL":{
+        "City":"Newcastle",
+        "Country":"NSW, Australia"
+    },
+    "NCL":{
+        "City":"Newcastle",
+        "Country":"United Kingdom"
+    },
+    "NCS":{
+        "City":"Newcastle",
+        "Country":"KwaZulu-Natal, South Africa"
+    },
+    "ZNE":{
+        "City":"Newman",
+        "Country":"WA, Australia"
+    },
+    "PHF":{
+        "City":"Newport News/Williamsburg (VA)",
+        "Country":"USA"
+    },
+    "NGE":{
+        "City":"N'Gaoundere",
+        "Country":"Cameroon"
+    },
+    "ROR":{
+        "City":"Ngerulmud (capital city)",
+        "Country":"Palau"
+    },
+    "IAG":{
+        "City":"Niagara Falls International",
+        "Country":"USA"
+    },
+    "NIM":{
+        "City":"Niamey (capital city)",
+        "Country":"Niger"
+    },
+    "NCE":{
+        "City":"Nice",
+        "Country":"France"
+    },
+    "NIC":{
+        "City":"Nicosia",
+        "Country":"Cyprus"
+    },
+    "NLV":{
+        "City":"Nikolaev (Mykolaiv)",
+        "Country":"Ukraine"
+    },
+    "KIJ":{
+        "City":"Niigata",
+        "Country":"Japan"
+    },
+    "FNI":{
+        "City":"Nimes",
+        "Country":"France"
+    },
+    "NGB":{
+        "City":"Ningbo",
+        "Country":"Zhejiang, China"
+    },
+    "INI":{
+        "City":"Nis (Ni\u0161)",
+        "Country":"Serbia"
+    },
+    "GOJ":{
+        "City":"Nizhniy Novgorod",
+        "Country":"Russia"
+    },
+    "OLS":{
+        "City":"Nogales (AZ)",
+        "Country":"USA"
+    },
+    "OME":{
+        "City":"Nome (AK)",
+        "Country":"USA"
+    },
+    "NLK":{
+        "City":"Norfolk Island",
+        "Country":"Australia"
+    },
+    "ORF":{
+        "City":"Norfolk/Virginia Beach (VA)",
+        "Country":"USA"
+    },
+    "YVQ":{
+        "City":"Norman Wells",
+        "Country":"NWT, Canada"
+    },
+    "NRK":{
+        "City":"Norrkoeping",
+        "Country":"\u00d6sterg\u00f6tland, Sweden"
+    },
+    "OTH":{
+        "City":"North Bend (OR)",
+        "Country":"USA"
+    },
+    "ELH":{
+        "City":"North Eleuthera",
+        "Country":"Bahamas"
+    },
+    "NWI":{
+        "City":"Norwich",
+        "Country":"United Kingdom"
+    },
+    "NDB":{
+        "City":"Nouadhibou",
+        "Country":"Mauritania"
+    },
+    "NKC":{
+        "City":"Nouakchott (capital city)",
+        "Country":"Mauritania"
+    },
+    "NOU":{
+        "City":"Noumea (administrative capital)",
+        "Country":"New Caledonia"
+    },
+    "GEA":{
+        "City":"Noumea",
+        "Country":"New Caledonia"
+    },
+    "QND":{
+        "City":"Novi Sad",
+        "Country":"Serbia"
+    },
+    "OVB":{
+        "City":"Novosibirsk",
+        "Country":"Russia"
+    },
+    "NUE":{
+        "City":"N\u00fcrnberg (Nuremberg)",
+        "Country":"Germany"
+    },
+    "NLD":{
+        "City":"Nuevo Laredo",
+        "Country":"Mexico"
+    },
+    "TBU":{
+        "City":"Nuku'alofa (capital city)",
+        "Country":"Tonga"
+    },
+    "GOH":{
+        "City":"Nuuk (capital city)",
+        "Country":"Greenland"
+    },
+    "OAK":{
+        "City":"Oakland (CA)",
+        "Country":"USA"
+    },
+    "OAX":{
+        "City":"Oaxaca de Ju\u00e1rez",
+        "Country":"Mexico"
+    },
+    "ODE":{
+        "City":"Odense",
+        "Country":"Denmark"
+    },
+    "ODS":{
+        "City":"Odessa",
+        "Country":"Ukraine"
+    },
+    "ORB":{
+        "City":"\u00d6rebro (Oerebro)",
+        "Country":"Sweden"
+    },
+    "OHD":{
+        "City":"Ohrid",
+        "Country":"Macedonia"
+    },
+    "OIT":{
+        "City":"Oita",
+        "Country":"Kyushu, Japan"
+    },
+    "OKJ":{
+        "City":"Okayama",
+        "Country":"Ch\u016bgoku, Japan"
+    },
+    "OKC":{
+        "City":"Oklahoma City (OK)",
+        "Country":"USA"
+    },
+    "OLB":{
+        "City":"Olbia",
+        "Country":"Sardinia, Italy"
+    },
+    "OLP":{
+        "City":"Olympic Dam",
+        "Country":"SA, Australia"
+    },
+    "OMA":{
+        "City":"Omaha (NE)",
+        "Country":"USA"
+    },
+    "OND":{
+        "City":"Ondangwa",
+        "Country":"Namibia"
+    },
+    "ONT":{
+        "City":"Ontario (CA)",
+        "Country":"USA"
+    },
+    "ORN":{
+        "City":"Oran (Ouahran)",
+        "Country":"Algeria"
+    },
+    "OAG":{
+        "City":"Orange",
+        "Country":"NSW, Australia"
+    },
+    "SNA":{
+        "City":"Santa Ana (CA)",
+        "Country":"USA"
+    },
+    "OMD":{
+        "City":"Oranjemund",
+        "Country":"Karas, Namibia"
+    },
+    "ORL":{
+        "City":"Orlando (FL)",
+        "Country":"USA"
+    },
+    "MCO":{
+        "City":"Orlando (FL)",
+        "Country":"USA"
+    },
+    "ORS":{
+        "City":"Orpheus Island",
+        "Country":"Queensland, Australia"
+    },
+    "OSA":{
+        "City":"Osaka",
+        "Country":"Japan"
+    },
+    "KIX":{
+        "City":"Osaka",
+        "Country":"Japan"
+    },
+    "OSH":{
+        "City":"Oshkosh (WI)",
+        "Country":"USA"
+    },
+    "OSI":{
+        "City":"Osijek",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "OSL":{
+        "City":"Oslo (capital city)",
+        "Country":"Norway"
+    },
+    "FBU":{
+        "City":"Oslo",
+        "Country":"Norway"
+    },
+    "TRF":{
+        "City":"Oslo",
+        "Country":"Norway"
+    },
+    "YOW":{
+        "City":"Ottawa (capital city)",
+        "Country":"Ontario, Canada"
+    },
+    "ODA":{
+        "City":"Ouadda",
+        "Country":"Central African Republic"
+    },
+    "OZZ":{
+        "City":"Ouarzazate",
+        "Country":"Morocco"
+    },
+    "OUH":{
+        "City":"Oudtshoorn",
+        "Country":"Western Cape, South Africa"
+    },
+    "OUA":{
+        "City":"Ouagadougou (capital city)",
+        "Country":"Burkina Faso"
+    },
+    "OUD":{
+        "City":"Oujda",
+        "Country":"Morocco"
+    },
+    "OUL":{
+        "City":"Oulu",
+        "Country":"Finland"
+    },
+    "OUK":{
+        "City":"Out Skerries (Shetland)",
+        "Country":"United Kingdom"
+    },
+    "UVE":{
+        "City":"Ouvea",
+        "Country":"New Caledonia"
+    },
+    "OVD":{
+        "City":"Oviedo",
+        "Country":"Spain"
+    },
+    "OWB":{
+        "City":"Owensboro (KY)",
+        "Country":"USA"
+    },
+    "OXR":{
+        "City":"Oxnard (CA)",
+        "Country":"USA"
+    },
+    "OYE":{
+        "City":"Oyem",
+        "Country":"Gabon"
+    },
+    "PAD":{
+        "City":"Paderborn/Lippstadt",
+        "Country":"Germany"
+    },
+    "PDG":{
+        "City":"Padang",
+        "Country":"West Sumatra, Indonesia"
+    },
+    "PAH":{
+        "City":"Paducah (KY)",
+        "Country":"USA"
+    },
+    "PGA":{
+        "City":"Page/Lake Powell (AZ)",
+        "Country":"USA"
+    },
+    "PPG":{
+        "City":"Pago Pago (capital city)",
+        "Country":"American Samoa"
+    },
+    "PYY":{
+        "City":"Pai",
+        "Country":"Thailand"
+    },
+    "PKB":{
+        "City":"Pakersburg (WV) /Marietta (OH)",
+        "Country":"USA"
+    },
+    "PLQ":{
+        "City":"Palanga",
+        "Country":"Lithuania"
+    },
+    "PMO":{
+        "City":"Palermo",
+        "Country":"Italy"
+    },
+    "PMI":{
+        "City":"Palma de Mallorca",
+        "Country":"Spain"
+    },
+    "PMW":{
+        "City":"Palmas",
+        "Country":"Tocantins, Brazil"
+    },
+    "PMD":{
+        "City":"Palmdale/Lancaster (CA)",
+        "Country":"USA"
+    },
+    "PMR":{
+        "City":"Palmerston North",
+        "Country":"New Zealand"
+    },
+    "PSP":{
+        "City":"Palm Springs (CA)",
+        "Country":"USA"
+    },
+    "PAO":{
+        "City":"Palo Alto (CA)",
+        "Country":"USA"
+    },
+    "PTY":{
+        "City":"Panama City (capital city)",
+        "Country":"Panama"
+    },
+    "PFN":{
+        "City":"Panama City (FL)",
+        "Country":"USA"
+    },
+    "PJG":{
+        "City":"Panjgur",
+        "Country":"Pakistan"
+    },
+    "PNL":{
+        "City":"Pantelleria",
+        "Country":"Italy"
+    },
+    "PGH":{
+        "City":"Pantnagar",
+        "Country":"Uttarakhand, India"
+    },
+    "PPT":{
+        "City":"Papeete (capital city)",
+        "Country":"French Polynesia (Tahiti)"
+    },
+    "PFO":{
+        "City":"Paphos",
+        "Country":"Cyprus"
+    },
+    "PBO":{
+        "City":"Paraburdoo",
+        "Country":"Australia"
+    },
+    "PBM":{
+        "City":"Paramaribo (capital city)",
+        "Country":"Suriname"
+    },
+    "PAR":{
+        "City":"Paris (capital city)",
+        "Country":"France"
+    },
+    "CDG":{
+        "City":"Paris",
+        "Country":"France"
+    },
+    "LBG":{
+        "City":"Paris",
+        "Country":"France"
+    },
+    "ORY":{
+        "City":"Paris",
+        "Country":"France"
+    },
+    "PHB":{
+        "City":"Parnaiba",
+        "Country":"Piaui, Brazil"
+    },
+    "PBH":{
+        "City":"Thimphu (capital city)",
+        "Country":"Bhutan"
+    },
+    "PGL":{
+        "City":"Pascagoula (MS)",
+        "Country":"USA"
+    },
+    "PSC":{
+        "City":"Pasco (WA)",
+        "Country":"USA"
+    },
+    "PSI":{
+        "City":"Pasni",
+        "Country":"Balochistan, Pakistan"
+    },
+    "PAT":{
+        "City":"Patna",
+        "Country":"Bihar, India"
+    },
+    "PYX":{
+        "City":"Pattaya",
+        "Country":"Thailand"
+    },
+    "PUF":{
+        "City":"Pau",
+        "Country":"France"
+    },
+    "PWQ":{
+        "City":"Pavlodar",
+        "Country":"Kazakhstan"
+    },
+    "PDU":{
+        "City":"Paysandu",
+        "Country":"Uruguay"
+    },
+    "PLN":{
+        "City":"Pellston (MI)",
+        "Country":"USA"
+    },
+    "PET":{
+        "City":"Pelotas",
+        "Country":"Brazil"
+    },
+    "PEN":{
+        "City":"Penang",
+        "Country":"Malaysia"
+    },
+    "PDT":{
+        "City":"Pendelton (OR)",
+        "Country":"USA"
+    },
+    "PNS":{
+        "City":"Pensacola (FL)",
+        "Country":"USA"
+    },
+    "PIA":{
+        "City":"Peoria/Bloomington (IL)",
+        "Country":"USA"
+    },
+    "PEI":{
+        "City":"Pereira",
+        "Country":"Colombia"
+    },
+    "PGF":{
+        "City":"Perpignan",
+        "Country":"France"
+    },
+    "PER":{
+        "City":"Perth",
+        "Country":"WA, Australia"
+    },
+    "PEG":{
+        "City":"Perugia",
+        "Country":"Italy"
+    },
+    "PSR":{
+        "City":"Pescara",
+        "Country":"Italy"
+    },
+    "PEW":{
+        "City":"Peshawar",
+        "Country":"Pakistan"
+    },
+    "PSG":{
+        "City":"Petersburg (AK)",
+        "Country":"USA"
+    },
+    "PHW":{
+        "City":"Phalaborwa",
+        "Country":"Limpopo, South Africa"
+    },
+    "PHY":{
+        "City":"Phetchabun",
+        "Country":"Thailand"
+    },
+    "PHL":{
+        "City":"Philadelphia (PA)",
+        "Country":"USA"
+    },
+    "PNH":{
+        "City":"Phnom Penh (capital city)",
+        "Country":"Cambodia"
+    },
+    "PHX":{
+        "City":"Phoenix (AZ)",
+        "Country":"USA"
+    },
+    "DVT":{
+        "City":"Phoenix (AZ)",
+        "Country":"USA"
+    },
+    "AZA":{
+        "City":"Phoenix (AZ)",
+        "Country":"USA"
+    },
+    "HKT":{
+        "City":"Phuket (island)",
+        "Country":"Thailand"
+    },
+    "PDS":{
+        "City":"Piedras Negras",
+        "Country":"Coahuila, Mexico"
+    },
+    "PIR":{
+        "City":"Pierre (SD)",
+        "Country":"USA"
+    },
+    "PZB":{
+        "City":"Pietermaritzburg",
+        "Country":"South Africa"
+    },
+    "PTG":{
+        "City":"Polokwane (Pietersburg)",
+        "Country":"Limpopo, South Africa"
+    },
+    "NTY":{
+        "City":"Pilanesberg/Sun City",
+        "Country":"South Africa"
+    },
+    "PSA":{
+        "City":"Pisa",
+        "Country":"Italy"
+    },
+    "PIT":{
+        "City":"Pittsburgh (PA)",
+        "Country":"USA"
+    },
+    "PLB":{
+        "City":"Plattsburgh (NY)",
+        "Country":"USA"
+    },
+    "PBZ":{
+        "City":"Plettenberg Bay",
+        "Country":"South Africa"
+    },
+    "PDV":{
+        "City":"Plovdiv",
+        "Country":"Bulgaria"
+    },
+    "PIH":{
+        "City":"Pocatello (ID)",
+        "Country":"USA"
+    },
+    "TGD":{
+        "City":"Podgorica (capital city)",
+        "Country":"Montenegro"
+    },
+    "PNI":{
+        "City":"Pohnpei, Kolonia",
+        "Country":"Micronesia"
+    },
+    "PNR":{
+        "City":"Pointe Noire",
+        "Country":"Congo (ROC)"
+    },
+    "PIS":{
+        "City":"Poitiers",
+        "Country":"France"
+    },
+    "PSE":{
+        "City":"Ponce",
+        "Country":"Puerto Rico"
+    },
+    "PDL":{
+        "City":"Ponta Delgada",
+        "Country":"Azores, Portugal"
+    },
+    "PMG":{
+        "City":"Ponta Pora",
+        "Country":"Brazil"
+    },
+    "POR":{
+        "City":"Pori",
+        "Country":"Finland"
+    },
+    "CLM":{
+        "City":"Port Angeles (WA)",
+        "Country":"USA"
+    },
+    "PAP":{
+        "City":"Port au Prince (capital city)",
+        "Country":"Haiti"
+    },
+    "PUG":{
+        "City":"Port Augusta",
+        "Country":"SA, Australia"
+    },
+    "PLZ":{
+        "City":"Port Elizabeth",
+        "Country":"Eastern Cape, South Africa"
+    },
+    "POG":{
+        "City":"Port Gentil",
+        "Country":"Gabon"
+    },
+    "PHC":{
+        "City":"Port Harcourt",
+        "Country":"Nigeria"
+    },
+    "PHE":{
+        "City":"Port Hedland",
+        "Country":"WA, Australia"
+    },
+    "PHN":{
+        "City":"Port Huron (MI)",
+        "Country":"USA"
+    },
+    "PTJ":{
+        "City":"Portland",
+        "Country":"Victoria, Australia"
+    },
+    "PWM":{
+        "City":"Portland (ME)",
+        "Country":"USA"
+    },
+    "PDX":{
+        "City":"Portland (OR)",
+        "Country":"USA"
+    },
+    "PLO":{
+        "City":"Port Lincoln",
+        "Country":"SA, Australia"
+    },
+    "PQQ":{
+        "City":"Port Macquarie",
+        "Country":"NSW, Australia"
+    },
+    "YPN":{
+        "City":"Port Menier (PQ)",
+        "Country":"Quebec, Canada"
+    },
+    "POM":{
+        "City":"Port Moresby (capital city)",
+        "Country":"Papua New Guinea"
+    },
+    "OPO":{
+        "City":"Porto",
+        "Country":"Portugal"
+    },
+    "POA":{
+        "City":"Porto Alegre",
+        "Country":"Brazil"
+    },
+    "POS":{
+        "City":"Trinidad (island)",
+        "Country":"Trinidad and Tobago"
+    },
+    "PXO":{
+        "City":"Porto Santo Island",
+        "Country":"Porto Santo, Portugal"
+    },
+    "PZU":{
+        "City":"Port Sudan",
+        "Country":"Sudan"
+    },
+    "PVH":{
+        "City":"Porto Velho",
+        "Country":"Rodondia, Brazil"
+    },
+    "PSD":{
+        "City":"Port Said",
+        "Country":"Egypt"
+    },
+    "PSM":{
+        "City":"Portsmouth (NH)",
+        "Country":"USA"
+    },
+    "VLI":{
+        "City":"Port Vila (capital city)",
+        "Country":"Vanuatu"
+    },
+    "POU":{
+        "City":"Poughkeepsie (NY)",
+        "Country":"USA"
+    },
+    "POZ":{
+        "City":"Poznan",
+        "Country":"Poland"
+    },
+    "PRG":{
+        "City":"Prague (capital city)",
+        "Country":"Czech Republic"
+    },
+    "RAI":{
+        "City":"Santiago Island",
+        "Country":"Cape Verde"
+    },
+    "PQI":{
+        "City":"Presque Island (ME)",
+        "Country":"USA"
+    },
+    "PRY":{
+        "City":"Pretoria (capital city)",
+        "Country":"South Africa"
+    },
+    "PVK":{
+        "City":"Preveza/Lefkas",
+        "Country":"Greece"
+    },
+    "YXS":{
+        "City":"Prince George",
+        "Country":"BC, Canada"
+    },
+    "YPR":{
+        "City":"Prince Rupert/Digby Island",
+        "Country":"BC,Canada"
+    },
+    "PRN":{
+        "City":"Pristina",
+        "Country":"Serbia"
+    },
+    "PPP":{
+        "City":"Whitsunday Islands",
+        "Country":"Queensland, Australia"
+    },
+    "PVD":{
+        "City":"Providence (RI)",
+        "Country":"USA"
+    },
+    "PLS":{
+        "City":"Providenciales",
+        "Country":"Turks and Caicos Islands"
+    },
+    "SCC":{
+        "City":"Prudhoe Bay (AK)",
+        "Country":"USA"
+    },
+    "PCL":{
+        "City":"Pucallpa",
+        "Country":"Peru"
+    },
+    "PBC":{
+        "City":"Puebla",
+        "Country":"Mexico"
+    },
+    "PUB":{
+        "City":"Pueblo (CO)",
+        "Country":"USA"
+    },
+    "PXM":{
+        "City":"Puerto Escondido",
+        "Country":"Oaxaca, Mexico"
+    },
+    "PEM":{
+        "City":"Puerto Maldonado",
+        "Country":"Peru"
+    },
+    "PZO":{
+        "City":"Puerto Ordaz",
+        "Country":"Venezuela"
+    },
+    "POP":{
+        "City":"Puerto Plata",
+        "Country":"Dominican Republic"
+    },
+    "PPS":{
+        "City":"Puerto Princesa",
+        "Country":"Philippines"
+    },
+    "PSZ":{
+        "City":"Puerto Suarez",
+        "Country":"Bolivia"
+    },
+    "PVR":{
+        "City":"Puerto Vallarta",
+        "Country":"Mexico"
+    },
+    "XPK":{
+        "City":"Pukatawagan",
+        "Country":"Canada"
+    },
+    "PUY":{
+        "City":"Pula",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "PUW":{
+        "City":"Pullman (WA)",
+        "Country":"USA"
+    },
+    "PNQ":{
+        "City":"Pune (Poona)",
+        "Country":"Maharashtra, India"
+    },
+    "PUQ":{
+        "City":"Punta Arenas",
+        "Country":"Chile"
+    },
+    "PUJ":{
+        "City":"Punta Cana",
+        "Country":"Dominican Republic"
+    },
+    "PDP":{
+        "City":"Punta del Este",
+        "Country":"Uruguay"
+    },
+    "PUS":{
+        "City":"Pusan (Busan)",
+        "Country":"South Korea"
+    },
+    "FNJ":{
+        "City":"Pyongyang (capital city)",
+        "Country":"North Korea"
+    },
+    "JQA":{
+        "City":"Qaarsut",
+        "Country":"Greenland"
+    },
+    "LQN":{
+        "City":"Qala i Naw (city)",
+        "Country":"Afghanistan"
+    },
+    "GSR":{
+        "City":"Qardho (Gardo)",
+        "Country":"Somalia"
+    },
+    "GZW":{
+        "City":"Qazvin",
+        "Country":"Iran"
+    },
+    "JIQ":{
+        "City":"Qianjiang",
+        "Country":"Chongqing, China"
+    },
+    "IQM":{
+        "City":"Qiemo",
+        "Country":"Xinjiang, China"
+    },
+    "YVM":{
+        "City":"Qikiqtarjuaq",
+        "Country":"Nunavut, Canada"
+    },
+    "TAO":{
+        "City":"Qingdao",
+        "Country":"Shandong, China"
+    },
+    "XIC":{
+        "City":"Xichang",
+        "Country":"Sichuan, China"
+    },
+    "IQN":{
+        "City":"Qingyang",
+        "Country":"Gansu, China"
+    },
+    "BPE":{
+        "City":"Qinhuangdao",
+        "Country":"Hebei, China"
+    },
+    "SHP":{
+        "City":"Qinhuangdao",
+        "Country":"Hebei, China"
+    },
+    "IHN":{
+        "City":"Qishn",
+        "Country":"Yemen"
+    },
+    "UKT":{
+        "City":"Quakertown (PA)",
+        "Country":"USA"
+    },
+    "XQU":{
+        "City":"Qualicum Beach",
+        "Country":"BC, Canada"
+    },
+    "YQC":{
+        "City":"Quaqtaq",
+        "Country":"Nunavik, Canada"
+    },
+    "YQB":{
+        "City":"Quebec City",
+        "Country":"Canada"
+    },
+    "UEE":{
+        "City":"Queenstown",
+        "Country":"Tasmania, Australia"
+    },
+    "ZQN":{
+        "City":"Queenstown",
+        "Country":"New Zealand"
+    },
+    "UEL":{
+        "City":"Quelimane",
+        "Country":"Mozambique"
+    },
+    "XQP":{
+        "City":"Quepos",
+        "Country":"Costa Rica"
+    },
+    "QRO":{
+        "City":"Queretaro",
+        "Country":"Mexico"
+    },
+    "YQZ":{
+        "City":"Quesnel",
+        "Country":"BC, Canada"
+    },
+    "UET":{
+        "City":"Quetta",
+        "Country":"Balochistan, Pakistan"
+    },
+    "AAZ":{
+        "City":"Quetzaltenango (Xelaj\u00fa)",
+        "Country":"Guatemala"
+    },
+    "UIB":{
+        "City":"Quibdo",
+        "Country":"Colombia"
+    },
+    "AQB":{
+        "City":"Quiche",
+        "Country":"Guatemala"
+    },
+    "UIP":{
+        "City":"Quimper",
+        "Country":"France"
+    },
+    "UIN":{
+        "City":"Quincy (IL)",
+        "Country":"USA"
+    },
+    "KWN":{
+        "City":"Quinhagak (AK)",
+        "Country":"USA"
+    },
+    "UIH":{
+        "City":"Qui Nhon",
+        "Country":"Vietnam"
+    },
+    "UIO":{
+        "City":"Quito (capital city)",
+        "Country":"Ecuador"
+    },
+    "UIQ":{
+        "City":"Quoin Hill",
+        "Country":"Vanuatu"
+    },
+    "JUZ":{
+        "City":"Quzhou",
+        "Country":"Zhejiang, China"
+    },
+    "RBA":{
+        "City":"Rabat",
+        "Country":"Morocco"
+    },
+    "RYK":{
+        "City":"Rahim Yar Khan",
+        "Country":"Punjab, Pakistan"
+    },
+    "RFP":{
+        "City":"Raiatea (island)",
+        "Country":"French Polynesia"
+    },
+    "YOP":{
+        "City":"Rainbow Lake",
+        "Country":"Alberta, Canada"
+    },
+    "RAJ":{
+        "City":"Rajkot",
+        "Country":"India"
+    },
+    "RDU":{
+        "City":"Raleigh/Durham (NC)",
+        "Country":"USA"
+    },
+    "IXR":{
+        "City":"Ranchi",
+        "Country":"Jharkhand, India"
+    },
+    "RGI":{
+        "City":"Rangiroa (island)",
+        "Country":"French Polynesia"
+    },
+    "RGN":{
+        "City":"Yangon (Rangoon)",
+        "Country":"Myanmar"
+    },
+    "RAP":{
+        "City":"Rapid City (SD)",
+        "Country":"USA"
+    },
+    "RAR":{
+        "City":"Rarotonga (island)",
+        "Country":"Cook Island"
+    },
+    "RKT":{
+        "City":"Ras al Khaymah (Ras al Khaimah)",
+        "Country":"United Arab Emirates"
+    },
+    "RAZ":{
+        "City":"Rawala Kot",
+        "Country":"Pakistan"
+    },
+    "UTP":{
+        "City":"Utapao (Pattaya)",
+        "Country":"Thailand"
+    },
+    "RDG":{
+        "City":"Reading (PA)",
+        "Country":"USA"
+    },
+    "REC":{
+        "City":"Recife",
+        "Country":"Brazil"
+    },
+    "RDD":{
+        "City":"Redding (CA)",
+        "Country":"USA"
+    },
+    "RDM":{
+        "City":"Redmond (OR)",
+        "Country":"USA"
+    },
+    "REG":{
+        "City":"Reggio Calabria",
+        "Country":"Italy"
+    },
+    "YQR":{
+        "City":"Regina",
+        "Country":"Saskatchewan, Canada"
+    },
+    "RNS":{
+        "City":"Rennes",
+        "Country":"Brittany, France"
+    },
+    "RNO":{
+        "City":"Reno (NV)",
+        "Country":"USA"
+    },
+    "RES":{
+        "City":"Resistencia",
+        "Country":"Chaco, Argentina"
+    },
+    "YRB":{
+        "City":"Resolute Bay",
+        "Country":"Nunavut, Canada"
+    },
+    "REU":{
+        "City":"Reus",
+        "Country":"Spain"
+    },
+    "REK":{
+        "City":"Reykjavik (capital city)",
+        "Country":"Iceland"
+    },
+    "RKV":{
+        "City":"Reykjavik",
+        "Country":"Iceland"
+    },
+    "REX":{
+        "City":"Reynosa",
+        "Country":"Mexico"
+    },
+    "RHI":{
+        "City":"Rhinelander (WI)",
+        "Country":"USA"
+    },
+    "RHO":{
+        "City":"Rhodes (island)",
+        "Country":"Greece"
+    },
+    "RCB":{
+        "City":"Richards Bay",
+        "Country":"KZN, South Africa"
+    },
+    "RIC":{
+        "City":"Richmond (VA)",
+        "Country":"USA"
+    },
+    "RIX":{
+        "City":"Riga (capital city)",
+        "Country":"Latvia"
+    },
+    "RJK":{
+        "City":"Rijeka",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "RMI":{
+        "City":"Rimini",
+        "Country":"Italy"
+    },
+    "RBR":{
+        "City":"Rio Branco",
+        "Country":"Brazil"
+    },
+    "RIO":{
+        "City":"Rio de Janeiro",
+        "Country":"Brazil"
+    },
+    "GIG":{
+        "City":"Rio de Janeiro",
+        "Country":"Brazil"
+    },
+    "SDU":{
+        "City":"Rio de Janeiro",
+        "Country":"Brazil"
+    },
+    "RGL":{
+        "City":"R\u00edo Gallegos",
+        "Country":"Argentina"
+    },
+    "RGA":{
+        "City":"R\u00edo Grande",
+        "Country":"Argentina"
+    },
+    "RIG \u2013":{
+        "City":"Rio Grande",
+        "Country":"Rio Grande do Sul, Brazil"
+    },
+    "RVY":{
+        "City":"Rivera",
+        "Country":"Uruguay"
+    },
+    "RUH":{
+        "City":"Riyadh (capital city)",
+        "Country":"Saudi Arabia"
+    },
+    "RNE":{
+        "City":"Roanne",
+        "Country":"France"
+    },
+    "ROA":{
+        "City":"Roanoke (VA)",
+        "Country":"USA"
+    },
+    "RZZ":{
+        "City":"Roanoke Rapids (NC)",
+        "Country":"USA"
+    },
+    "RTB":{
+        "City":"Roatan",
+        "Country":"Honduras"
+    },
+    "RST":{
+        "City":"Rochester (MN)",
+        "Country":"USA"
+    },
+    "ROC":{
+        "City":"Rochester (NY)",
+        "Country":"USA"
+    },
+    "RSD":{
+        "City":"Rock Sound",
+        "Country":"Eleuthera, Bahamas"
+    },
+    "RKS":{
+        "City":"Rock Springs (WY)",
+        "Country":"USA"
+    },
+    "RFD":{
+        "City":"Rockford (IL)",
+        "Country":"USA"
+    },
+    "ROK":{
+        "City":"Rockhampton",
+        "Country":"Australia"
+    },
+    "RKD":{
+        "City":"Rockland (ME)",
+        "Country":"USA"
+    },
+    "RWI":{
+        "City":"Rocky Mount - Wilson (NC)",
+        "Country":"USA"
+    },
+    "RDZ":{
+        "City":"Rodez",
+        "Country":"France"
+    },
+    "RRG":{
+        "City":"Rodrigues Island",
+        "Country":"Mauritius"
+    },
+    "RNN":{
+        "City":"Roenne (R\u00f8nne) Bornholm is.",
+        "Country":"Denmark"
+    },
+    "ROM":{
+        "City":"Rome (capital city)",
+        "Country":"Italy"
+    },
+    "CIA":{
+        "City":"Rome",
+        "Country":"Italy"
+    },
+    "FCO":{
+        "City":"Rome",
+        "Country":"Italy"
+    },
+    "RME":{
+        "City":"Rome (NY) Oneida County",
+        "Country":"USA"
+    },
+    "RNB":{
+        "City":"Ronneby",
+        "Country":"Sweden"
+    },
+    "ROS":{
+        "City":"Rosario",
+        "Country":"Argentina"
+    },
+    "DCF":{
+        "City":"Roseau (capital city)",
+        "Country":"Dominica"
+    },
+    "DOM":{
+        "City":"Roseau",
+        "Country":"Dominica"
+    },
+    "RPN":{
+        "City":"Rosh Pina",
+        "Country":"Israel"
+    },
+    "ROV":{
+        "City":"Rostov-on-Don",
+        "Country":"Russia"
+    },
+    "RVI":{
+        "City":"Rostov-on-Don",
+        "Country":"Russia"
+    },
+    "ROW":{
+        "City":"Roswell (NM)",
+        "Country":"USA"
+    },
+    "ROT":{
+        "City":"Rotorua",
+        "Country":"New Zealand"
+    },
+    "RVN":{
+        "City":"Rovaniemi",
+        "Country":"Finland"
+    },
+    "NDU":{
+        "City":"Rundu",
+        "Country":"Namibia"
+    },
+    "ROU":{
+        "City":"Ruse",
+        "Country":"Bulgaria"
+    },
+    "RZN":{
+        "City":"Ryazan",
+        "Country":"Russia"
+    },
+    "SCN":{
+        "City":"Saarbruecken",
+        "Country":"Germany"
+    },
+    "SMF":{
+        "City":"Sacramento (CA)",
+        "Country":"USA"
+    },
+    "SDS":{
+        "City":"Sado Shima (island)",
+        "Country":"Niigata, Japan"
+    },
+    "MBS":{
+        "City":"Saginaw/Bay City/Midland (MI)",
+        "Country":"USA"
+    },
+    "SDT":{
+        "City":"Saidu Sharif",
+        "Country":"Pakistan"
+    },
+    "SBK":{
+        "City":"Saint Brieuc",
+        "Country":"France"
+    },
+    "SKV":{
+        "City":"Saint Catherine",
+        "Country":"Sinai, Egypt"
+    },
+    "RUN":{
+        "City":"Saint Denis (administrative capital)",
+        "Country":"Reunion"
+    },
+    "YSJ":{
+        "City":"Saint John",
+        "Country":"NB, Canada"
+    },
+    "STL":{
+        "City":"St. Louis (MO)",
+        "Country":"USA"
+    },
+    "SUS":{
+        "City":"St. Louis (MO)",
+        "Country":"USA"
+    },
+    "SPN":{
+        "City":"Saipan",
+        "Country":"Northern Mariana Islands"
+    },
+    "SID":{
+        "City":"Sal",
+        "Country":"Cape Verde"
+    },
+    "SLL":{
+        "City":"Salalah",
+        "Country":"Oman"
+    },
+    "SLE":{
+        "City":"Salem (OR)",
+        "Country":"USA"
+    },
+    "SNS":{
+        "City":"Salinas (CA)",
+        "Country":"USA"
+    },
+    "SNC":{
+        "City":"Salinas",
+        "Country":"Ecuador"
+    },
+    "SBY":{
+        "City":"Salisbury (MD)",
+        "Country":"USA"
+    },
+    "SKG":{
+        "City":"Thessaloniki",
+        "Country":"Greece"
+    },
+    "SLC":{
+        "City":"Salt Lake City (UT)",
+        "Country":"USA"
+    },
+    "STY":{
+        "City":"Salto",
+        "Country":"Uruguay"
+    },
+    "SSA":{
+        "City":"Salvador",
+        "Country":"Brazil"
+    },
+    "SZG":{
+        "City":"Salzburg",
+        "Country":"Austria"
+    },
+    "AZS":{
+        "City":"Samana",
+        "Country":"Dominican Republic"
+    },
+    "KUF":{
+        "City":"Samara",
+        "Country":"Russia"
+    },
+    "SKD":{
+        "City":"Samarkand",
+        "Country":"Uzbekistan"
+    },
+    "SMI":{
+        "City":"Samos (island)",
+        "Country":"Greece"
+    },
+    "SZF":{
+        "City":"Samsun",
+        "Country":"Turkey"
+    },
+    "ADZ":{
+        "City":"San Andres (island)",
+        "Country":"Colombia"
+    },
+    "SJT":{
+        "City":"San Angelo (TX)",
+        "Country":"USA"
+    },
+    "SAT":{
+        "City":"San Antonio (TX)",
+        "Country":"USA"
+    },
+    "BRC":{
+        "City":"San Carlos de Bariloche",
+        "Country":"R\u00edo Negro, Argentina"
+    },
+    "SCY":{
+        "City":"San Crist\u00f3bal Island",
+        "Country":"Gal\u00e1pagos, Ecuador"
+    },
+    "SBT":{
+        "City":"San Bernardino (CA)",
+        "Country":"USA"
+    },
+    "SDK":{
+        "City":"Sandakan",
+        "Country":"Malaysia"
+    },
+    "SDN":{
+        "City":"Sandane",
+        "Country":"Norway"
+    },
+    "SAN":{
+        "City":"San Diego (CA)",
+        "Country":"USA"
+    },
+    "SFH":{
+        "City":"San Felipe",
+        "Country":"Baja California, Mexico"
+    },
+    "SFB":{
+        "City":"Sanford (FL)",
+        "Country":"USA"
+    },
+    "SFO":{
+        "City":"San Francisco (CA)",
+        "Country":"USA"
+    },
+    "SJO":{
+        "City":"San Jos\u00e9 (capital city)",
+        "Country":"Costa Rica"
+    },
+    "SYQ":{
+        "City":"San Jos\u00e9",
+        "Country":"Costa Rica"
+    },
+    "SJC":{
+        "City":"San Jose (CA)",
+        "Country":"USA"
+    },
+    "SJI":{
+        "City":"San Jose",
+        "Country":"Mindoro, Philippines"
+    },
+    "SJE":{
+        "City":"San Jos\u00e9 del Guaviare",
+        "Country":"Guaviare, Colombia"
+    },
+    "SJU":{
+        "City":"San Juan (capital city)",
+        "Country":"Puerto Rico"
+    },
+    "SIG":{
+        "City":"San Juan, Miramar",
+        "Country":"Puerto Rico"
+    },
+    "SBP":{
+        "City":"San Luis Obisco (CA)",
+        "Country":"USA"
+    },
+    "SLP":{
+        "City":"San Luis Potosi",
+        "Country":"Mexico"
+    },
+    "SPR":{
+        "City":"San Pedro",
+        "Country":"Belize"
+    },
+    "SPY":{
+        "City":"San Pedro",
+        "Country":"Cote d'Ivoire"
+    },
+    "SAP":{
+        "City":"San Pedro Sula",
+        "Country":"Honduras"
+    },
+    "ZSA":{
+        "City":"San Salvador",
+        "Country":"Bahamas"
+    },
+    "SAL":{
+        "City":"San Salvador (capital city)",
+        "Country":"El Salvador"
+    },
+    "EAS":{
+        "City":"San Sebastian",
+        "Country":"Spain"
+    },
+    "SAH":{
+        "City":"Sanaa (capital city)",
+        "Country":"Yemen"
+    },
+    "YZP":{
+        "City":"Sandspit",
+        "Country":"BC, Canada"
+    },
+    "SBA":{
+        "City":"Santa Barbara (CA)",
+        "Country":"USA"
+    },
+    "SZN":{
+        "City":"Santa Barbara (CA)",
+        "Country":"USA"
+    },
+    "SNU":{
+        "City":"Santa Clara",
+        "Country":"Cuba"
+    },
+    "SPC":{
+        "City":"Santa Cruz de la Palma",
+        "Country":"Canary Islands, Spain"
+    },
+    "SRZ":{
+        "City":"Santa Cruz de la Sierra",
+        "Country":"Bolivia"
+    },
+    "SAF":{
+        "City":"Santa Fe (NM)",
+        "Country":"USA"
+    },
+    "SMA":{
+        "City":"Santa Maria (island)",
+        "Country":"Azores, Portugal"
+    },
+    "SMX":{
+        "City":"Santa Maria (CA)",
+        "Country":"USA"
+    },
+    "SMR":{
+        "City":"Santa Marta",
+        "Country":"Colombia"
+    },
+    "SDR":{
+        "City":"Santander",
+        "Country":"Spain"
+    },
+    "STM":{
+        "City":"Santarem",
+        "Country":"Para, Brazil"
+    },
+    "STS":{
+        "City":"Santa Rosa (CA)",
+        "Country":"USA"
+    },
+    "RSA":{
+        "City":"Santa Rosa",
+        "Country":"Argentina"
+    },
+    "SRB":{
+        "City":"Santa Rosa",
+        "Country":"Bolivia"
+    },
+    "SRA":{
+        "City":"Santa Rosa",
+        "Country":"Brazil"
+    },
+    "SDH":{
+        "City":"Santa Rosa de Copan",
+        "Country":"Honduras"
+    },
+    "SSL":{
+        "City":"Santa Rosalia",
+        "Country":"Colombia"
+    },
+    "SRL":{
+        "City":"Santa Rosalia",
+        "Country":"Mexico"
+    },
+    "SCU":{
+        "City":"Santiago",
+        "Country":"Cuba"
+    },
+    "SCL":{
+        "City":"Santiago de Chile (capital city)",
+        "Country":"Chile"
+    },
+    "SCQ":{
+        "City":"Santiago de Compostela",
+        "Country":"Spain"
+    },
+    "SDE":{
+        "City":"Santiago del Estero",
+        "Country":"Argentina"
+    },
+    "STI":{
+        "City":"Santiago de los Caballeros",
+        "Country":"Dominican Republic"
+    },
+    "SON":{
+        "City":"Santo",
+        "Country":"Vanuatu"
+    },
+    "SDQ":{
+        "City":"Santo Domingo (capital city)",
+        "Country":"Dominican Republic"
+    },
+    "SYX":{
+        "City":"Sanya",
+        "Country":"Hainan, China"
+    },
+    "SLZ":{
+        "City":"Sao Luis",
+        "Country":"Brazil"
+    },
+    "SAO":{
+        "City":"Sao Paulo",
+        "Country":"Brazil"
+    },
+    "CGH":{
+        "City":"Sao Paulo",
+        "Country":"Brazil"
+    },
+    "VCP":{
+        "City":"Sao Paulo",
+        "Country":"Brazil"
+    },
+    "TMS":{
+        "City":"Sao Tome (capital city)",
+        "Country":"Sao Tome & Principe"
+    },
+    "SPK":{
+        "City":"Sapporo",
+        "Country":"Hokkaido, Japan"
+    },
+    "OKD":{
+        "City":"Sapporo",
+        "Country":"Hokkaido, Japan"
+    },
+    "SJJ":{
+        "City":"Sarajevo (capital city)",
+        "Country":"Bosnia and Herzegovina"
+    },
+    "SKX":{
+        "City":"Saransk",
+        "Country":"Russia"
+    },
+    "SRQ":{
+        "City":"Sarasota/Bradenton (FL)",
+        "Country":"USA"
+    },
+    "YXE":{
+        "City":"Saskatoon",
+        "Country":"Saskatchewan, Canada"
+    },
+    "ZSS":{
+        "City":"Sassandra",
+        "Country":"Cote d'Ivoire"
+    },
+    "SUJ":{
+        "City":"Satu Mare",
+        "Country":"Romania"
+    },
+    "SAV":{
+        "City":"Savannah (GA)",
+        "Country":"USA"
+    },
+    "SVL":{
+        "City":"Savonlinna",
+        "Country":"Finland"
+    },
+    "SAU":{
+        "City":"Savu Island",
+        "Country":"Indonesia"
+    },
+    "TAB":{
+        "City":"Tobago",
+        "Country":"Trinidad and Tobago"
+    },
+    "NSO":{
+        "City":"Scone",
+        "Country":"NSW, Australia"
+    },
+    "SCF":{
+        "City":"Scottsdale (AZ)",
+        "Country":"USA"
+    },
+    "SEA":{
+        "City":"Seattle (WA)",
+        "Country":"USA"
+    },
+    "LKE":{
+        "City":"Seattle (WA)",
+        "Country":"USA"
+    },
+    "BFI":{
+        "City":"Seattle (WA)",
+        "Country":"USA"
+    },
+    "SDX":{
+        "City":"Sedona (AZ)",
+        "Country":"USA"
+    },
+    "SEB":{
+        "City":"Sehba",
+        "Country":"Libya"
+    },
+    "SJY":{
+        "City":"Seinaejoki",
+        "Country":"Finland"
+    },
+    "PKW":{
+        "City":"Selebi-Phikwe",
+        "Country":"Botswana"
+    },
+    "SRG":{
+        "City":"Semarang",
+        "Country":"Java, Indonesia"
+    },
+    "SDJ":{
+        "City":"Sendai",
+        "Country":"Miyagi, Japan"
+    },
+    "SEL":{
+        "City":"Seoul",
+        "Country":"South Korea"
+    },
+    "SVQ":{
+        "City":"Seville (Sevilla)",
+        "Country":"Andalusia, Spain"
+    },
+    "SFA":{
+        "City":"Sfax",
+        "Country":"Tunisia"
+    },
+    "ZTM":{
+        "City":"Shamattawa",
+        "Country":"Manitoba, Canada"
+    },
+    "SHA":{
+        "City":"Shanghai",
+        "Country":"China"
+    },
+    "PVG":{
+        "City":"Shanghai",
+        "Country":"China"
+    },
+    "SNN":{
+        "City":"Shannon (Limerick)",
+        "Country":"Ireland"
+    },
+    "SHJ":{
+        "City":"Sharjah",
+        "Country":"UAE"
+    },
+    "SSH":{
+        "City":"Sharm El Sheikh",
+        "Country":"Egypt"
+    },
+    "SZD":{
+        "City":"Sheffield",
+        "Country":"United Kingdom"
+    },
+    "SHD":{
+        "City":"Shenandoah Valley/ Staunton (VA)",
+        "Country":"USA"
+    },
+    "SHE":{
+        "City":"Shenyang",
+        "Country":"Liaoning, China"
+    },
+    "SZX":{
+        "City":"Shenzhen",
+        "Country":"Guangdong, China"
+    },
+    "SHR":{
+        "City":"Sheridan (WY)",
+        "Country":"USA"
+    },
+    "SJW":{
+        "City":"Shijiazhuang",
+        "Country":"Hebei, China"
+    },
+    "SYZ":{
+        "City":"Shiraz",
+        "Country":"Iran"
+    },
+    "SHV":{
+        "City":"Shreveport (La)",
+        "Country":"USA"
+    },
+    "SKT":{
+        "City":"Sialkot",
+        "Country":"Punjab, Pakistan"
+    },
+    "SBZ":{
+        "City":"Sibiu",
+        "Country":"Romania"
+    },
+    "SBW":{
+        "City":"Sibu",
+        "Country":"Sarawak, Malaysia"
+    },
+    "SDY":{
+        "City":"Sidney (MT)",
+        "Country":"USA"
+    },
+    "REP":{
+        "City":"Siem Reap (Angkor Wat)",
+        "Country":"Cambodia"
+    },
+    "SAY":{
+        "City":"Siena",
+        "Country":"Italy"
+    },
+    "KOS":{
+        "City":"Sihanoukville",
+        "Country":"Cambodia"
+    },
+    "SIP":{
+        "City":"Simferopol",
+        "Country":"Crimea, Ukraine"
+    },
+    "MPD":{
+        "City":"Sindhri",
+        "Country":"Pakistan"
+    },
+    "SIN":{
+        "City":"Singapore",
+        "Country":"Singapore"
+    },
+    "QPG":{
+        "City":"Singapore",
+        "Country":"Singapore"
+    },
+    "XSP":{
+        "City":"Singapore",
+        "Country":"Singapore"
+    },
+    "SIX":{
+        "City":"Singleton",
+        "Country":"Australia"
+    },
+    "SUX":{
+        "City":"Sioux City (IA)",
+        "Country":"USA"
+    },
+    "FSD":{
+        "City":"Sioux Falls (SD)",
+        "Country":"USA"
+    },
+    "SIS":{
+        "City":"Sishen",
+        "Country":"South Africa"
+    },
+    "SIT":{
+        "City":"Sitka (AK)",
+        "Country":"USA"
+    },
+    "VAS":{
+        "City":"Sivas",
+        "Country":"Turkey"
+    },
+    "SEW":{
+        "City":"Siwa Oasis",
+        "Country":"Egypt"
+    },
+    "SGY":{
+        "City":"Skagway (AK)",
+        "Country":"USA"
+    },
+    "KDU":{
+        "City":"Skardu",
+        "Country":"Gilgit\u2013Baltistan, Pakistan"
+    },
+    "JSI":{
+        "City":"Skiathos (island)",
+        "Country":"Greece"
+    },
+    "SKP":{
+        "City":"Skopje (capital city)",
+        "Country":"Macedonia"
+    },
+    "SKS":{
+        "City":"Skrydstrup",
+        "Country":"Denmark"
+    },
+    "SZK":{
+        "City":"Skukuza (Kruger Park)",
+        "Country":"Mpumalanga, South Africa"
+    },
+    "SXL":{
+        "City":"Sligo",
+        "Country":"Ireland"
+    },
+    "YYD":{
+        "City":"Smithers",
+        "Country":"BC, Canada"
+    },
+    "SOT":{
+        "City":"Sodankylae",
+        "Country":"Finland"
+    },
+    "SGD":{
+        "City":"Soenderborg",
+        "Country":"Denmark"
+    },
+    "SFJ":{
+        "City":"Soendre Stroemfjord",
+        "Country":"Greenland"
+    },
+    "SOF":{
+        "City":"Sofia (capital city)",
+        "Country":"Bulgaria"
+    },
+    "SOG":{
+        "City":"Sogndal",
+        "Country":"Norway"
+    },
+    "SOU":{
+        "City":"Southampton",
+        "Country":"United Kingdoma"
+    },
+    "SBN":{
+        "City":"South Bend (IN)",
+        "Country":"USA"
+    },
+    "XSI":{
+        "City":"South Indian Lake",
+        "Country":"Manitoba, Canada"
+    },
+    "SPU":{
+        "City":"Split",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "GEG":{
+        "City":"Spokane (WA)",
+        "Country":"USA"
+    },
+    "SBU":{
+        "City":"Springbok",
+        "Country":"South Africa"
+    },
+    "SPI":{
+        "City":"Springfield (IL)",
+        "Country":"USA"
+    },
+    "SGF":{
+        "City":"Springfield (MO)",
+        "Country":"USA"
+    },
+    "SXR":{
+        "City":"Srinagar",
+        "Country":"JK, India"
+    },
+    "YIF":{
+        "City":"St. Augustin",
+        "Country":"Quebec, Canada"
+    },
+    "STX":{
+        "City":"St. Croix",
+        "Country":"U.S. Virgin Islands"
+    },
+    "EBU":{
+        "City":"St. Etienne",
+        "Country":"France"
+    },
+    "SGU":{
+        "City":"St. George (UT)",
+        "Country":"USA"
+    },
+    "YYT":{
+        "City":"St. John's",
+        "Country":"NL, Canada"
+    },
+    "UVF":{
+        "City":"St. Lucia",
+        "Country":"St. Lucia"
+    },
+    "SXM":{
+        "City":"St. Marteen (island)",
+        "Country":"Netherlands Antilles"
+    },
+    "SFG":{
+        "City":"St. Martin (island)",
+        "Country":"Saint Martin, France"
+    },
+    "LED":{
+        "City":"St. Petersburg",
+        "Country":"Russia"
+    },
+    "RVH":{
+        "City":"St. Petersburg",
+        "Country":"Russia"
+    },
+    "FSP":{
+        "City":"St. Pierre (St Pierre and Miquelon)",
+        "Country":"France/Canada"
+    },
+    "STT":{
+        "City":"St. Thomas, Charlotte Amalie",
+        "Country":"Virgin Islands"
+    },
+    "SCE":{
+        "City":"State College/Belefonte (PA)",
+        "Country":"USA"
+    },
+    "SVG":{
+        "City":"Stavanger",
+        "Country":"Norway"
+    },
+    "HDN":{
+        "City":"Steamboat Springs (CO)",
+        "Country":"USA"
+    },
+    "SZZ":{
+        "City":"Szczecin (German: Stettin)",
+        "Country":"Poland"
+    },
+    "STO":{
+        "City":"Stockholm (capital city)",
+        "Country":"Sweden"
+    },
+    "ARN":{
+        "City":"Stockholm",
+        "Country":"Sweden"
+    },
+    "BMA":{
+        "City":"Stockholm",
+        "Country":"Sweden"
+    },
+    "SCK":{
+        "City":"Stockton (CA)",
+        "Country":"USA"
+    },
+    "SYY":{
+        "City":"Stornoway",
+        "Country":"United Kingdoma"
+    },
+    "SXB":{
+        "City":"Strasbourg",
+        "Country":"France"
+    },
+    "KBY":{
+        "City":"Streaky Bay",
+        "Country":"Australia"
+    },
+    "STR":{
+        "City":"Stuttgart",
+        "Country":"Germany"
+    },
+    "SRE":{
+        "City":"Sucre (capital city)",
+        "Country":"Bolivia"
+    },
+    "SUL":{
+        "City":"Sui",
+        "Country":"Balochistan, Pakistan"
+    },
+    "SKZ":{
+        "City":"Sukkur",
+        "Country":"Pakistan"
+    },
+    "LSI":{
+        "City":"Sumburgh (Shetland)",
+        "Country":"United Kingdom"
+    },
+    "SUN":{
+        "City":"Sun Valley (ID)",
+        "Country":"USA"
+    },
+    "SDL":{
+        "City":"Sundsvall",
+        "Country":"Sweden"
+    },
+    "MCY":{
+        "City":"Sunshine Coast",
+        "Country":"Australia"
+    },
+    "SUB":{
+        "City":"Surabaya",
+        "Country":"Indonesia"
+    },
+    "STV":{
+        "City":"Surat",
+        "Country":"Gujarat, India"
+    },
+    "SWP":{
+        "City":"Swakopmund",
+        "Country":"Namibia"
+    },
+    "SYD":{
+        "City":"Sydney",
+        "Country":"Australia"
+    },
+    "ZYL":{
+        "City":"Sylhet",
+        "Country":"Bangladesh"
+    },
+    "SYR":{
+        "City":"Syracuse (NY)",
+        "Country":"USA"
+    },
+    "TCP":{
+        "City":"Taba",
+        "Country":"Egypt"
+    },
+    "TBJ":{
+        "City":"Tabarka",
+        "Country":"Tunisia"
+    },
+    "TBT":{
+        "City":"Tabatinga",
+        "Country":"Brazil"
+    },
+    "TBZ":{
+        "City":"Tabriz",
+        "Country":"Iran"
+    },
+    "TUU":{
+        "City":"Tabuk",
+        "Country":"Saudi Arabia"
+    },
+    "THL":{
+        "City":"Tachilek",
+        "Country":"Myanmar"
+    },
+    "TAC":{
+        "City":"Tacloban City",
+        "Country":"Eastern Visayas, Philippines"
+    },
+    "TIW":{
+        "City":"Tacoma (WA)",
+        "Country":"USA"
+    },
+    "TAG":{
+        "City":"Tagbilaran",
+        "Country":"Bohol, Philippines"
+    },
+    "TIF":{
+        "City":"Taif (Ta\u2019if)",
+        "Country":"Saudi Arabia"
+    },
+    "TNN":{
+        "City":"Tainan City",
+        "Country":"Taiwan"
+    },
+    "TPE":{
+        "City":"Taipei",
+        "Country":"Taiwan"
+    },
+    "TSA":{
+        "City":"Taipei",
+        "Country":"Taiwan"
+    },
+    "TYN":{
+        "City":"Taiyuan",
+        "Country":"Shanxi, PR China"
+    },
+    "TAK":{
+        "City":"Takamatsu",
+        "Country":"Japan"
+    },
+    "TYL":{
+        "City":"Talara",
+        "Country":"Peru"
+    },
+    "TKA":{
+        "City":"Talkeetna (AK)",
+        "Country":"USA"
+    },
+    "TLH":{
+        "City":"Tallahassee (FL)",
+        "Country":"USA"
+    },
+    "TLL":{
+        "City":"Tallinn (capital city)",
+        "Country":"Estonia"
+    },
+    "TML":{
+        "City":"Tamale",
+        "Country":"Ghana"
+    },
+    "TMR":{
+        "City":"Tamanrasset",
+        "Country":"Algeria"
+    },
+    "TNO":{
+        "City":"Tamarindo",
+        "Country":"Costa Rica"
+    },
+    "TPA":{
+        "City":"Tampa (FL)",
+        "Country":"USA"
+    },
+    "TMP":{
+        "City":"Tampere",
+        "Country":"Finland"
+    },
+    "TAM":{
+        "City":"Tampico",
+        "Country":"Mexico"
+    },
+    "TMW":{
+        "City":"Tamworth",
+        "Country":"Australia"
+    },
+    "TNG":{
+        "City":"Tangier",
+        "Country":"Morocco"
+    },
+    "TNJ":{
+        "City":"Tanjung Pinang",
+        "Country":"Riau Islands, Indonesia."
+    },
+    "TRW":{
+        "City":"Tarawa (capital city)",
+        "Country":"Kiribati"
+    },
+    "TRO":{
+        "City":"Taree",
+        "Country":"NSW, Australia"
+    },
+    "TGV":{
+        "City":"Targovishte",
+        "Country":"Bulgaria"
+    },
+    "TGM":{
+        "City":"Targu-Mures",
+        "Country":"Romania"
+    },
+    "TAY":{
+        "City":"Tartu",
+        "Country":"Estonia"
+    },
+    "TAS":{
+        "City":"Tashkent (capital city)",
+        "Country":"Uzbekistan"
+    },
+    "TRG":{
+        "City":"Tauranga",
+        "Country":"New Zealand"
+    },
+    "TWU":{
+        "City":"Tawau",
+        "Country":"Sabah, Malaysia"
+    },
+    "TBS":{
+        "City":"Tbilisi (capital city)",
+        "Country":"Georgia"
+    },
+    "TEU":{
+        "City":"Te Anau",
+        "Country":"New Zealand"
+    },
+    "MME":{
+        "City":"Teesside",
+        "Country":"United Kingdom"
+    },
+    "TGU":{
+        "City":"Tegucigalpa (capital city)",
+        "Country":"Honduras"
+    },
+    "IKA":{
+        "City":"Tehran (capital city)",
+        "Country":"Iran"
+    },
+    "THR":{
+        "City":"Tehran",
+        "Country":"Iran"
+    },
+    "TCN":{
+        "City":"Tehuac\u00e1n",
+        "Country":"Mexico"
+    },
+    "TEQ":{
+        "City":"Tekirdag",
+        "Country":"Turkey"
+    },
+    "TLV":{
+        "City":"Tel Aviv",
+        "Country":"Israel"
+    },
+    "SDV":{
+        "City":"Tel Aviv",
+        "Country":"Israel"
+    },
+    "TEX":{
+        "City":"Telluride (CO)",
+        "Country":"USA"
+    },
+    "TEM":{
+        "City":"Temora",
+        "Country":"NSW, Australia"
+    },
+    "ZCO":{
+        "City":"Temuco",
+        "Country":"Chile"
+    },
+    "TCI":{
+        "City":"Tenerife (island)",
+        "Country":"Canary Islands, Spain"
+    },
+    "TCZ":{
+        "City":"Tengchong",
+        "Country":"Yunnan, China"
+    },
+    "TCA":{
+        "City":"Tennant Creek",
+        "Country":"NT, Australia"
+    },
+    "TPQ":{
+        "City":"Tepic",
+        "Country":"Nayarit, Mexico"
+    },
+    "TER":{
+        "City":"Terceira (island)",
+        "Country":"Azores, Portugal"
+    },
+    "THE":{
+        "City":"Teresina",
+        "Country":"Piau\u00ed, Brazil"
+    },
+    "TMZ":{
+        "City":"Termez (Termes)",
+        "Country":"Uzbekistan"
+    },
+    "TNL":{
+        "City":"Ternopil",
+        "Country":"Ukraine"
+    },
+    "YXT":{
+        "City":"Terrace",
+        "Country":"BC, Canada"
+    },
+    "HUF":{
+        "City":"Terre Haute (IN)",
+        "Country":"USA"
+    },
+    "TEB":{
+        "City":"Teterboro (NJ)",
+        "Country":"USA"
+    },
+    "TTU":{
+        "City":"Tetouan (T\u00e9touan)",
+        "Country":"Morocco"
+    },
+    "TXK":{
+        "City":"Texarkana (AR)",
+        "Country":"USA"
+    },
+    "TEZ":{
+        "City":"Tezpur",
+        "Country":"Assam, India"
+    },
+    "TEI":{
+        "City":"Tezu",
+        "Country":"Arunachal Pradesh, India"
+    },
+    "TCU":{
+        "City":"Thaba'Nchu",
+        "Country":"Free State, South Africa"
+    },
+    "YQD":{
+        "City":"The Pas",
+        "Country":"Manitoba, Canada"
+    },
+    "TVF":{
+        "City":"Thief River Falls (MN)",
+        "Country":"USA"
+    },
+    "JTR":{
+        "City":"Thira (island)",
+        "Country":"Greece"
+    },
+    "TRV":{
+        "City":"Trivandrum (Thiruvananthapuram)",
+        "Country":"Kerala, India"
+    },
+    "TED":{
+        "City":"Thisted",
+        "Country":"Denmark"
+    },
+    "YTH":{
+        "City":"Thompson",
+        "Country":"Manitoba, Canada"
+    },
+    "KTB":{
+        "City":"Thorne Bay (AK)",
+        "Country":"USA"
+    },
+    "YQT":{
+        "City":"Thunder Bay",
+        "Country":"Canada"
+    },
+    "TSN":{
+        "City":"Tianjin",
+        "Country":"China"
+    },
+    "TIJ":{
+        "City":"Tijuana",
+        "Country":"Mexico"
+    },
+    "TIU":{
+        "City":"Timaru",
+        "Country":"New Zealand"
+    },
+    "TOM":{
+        "City":"Timbuktu",
+        "Country":"Mali"
+    },
+    "TIM":{
+        "City":"Timika",
+        "Country":"Papua, Indonesia"
+    },
+    "TSR":{
+        "City":"Timisoara",
+        "Country":"Romania"
+    },
+    "TGI":{
+        "City":"Tingo Mar\u00ed",
+        "Country":"Peru"
+    },
+    "TIQ":{
+        "City":"Tinian (island)",
+        "Country":"Northern Mariana Islands"
+    },
+    "TOD":{
+        "City":"Tioman",
+        "Country":"Indonesia"
+    },
+    "TIA":{
+        "City":"Tirana (capital city)",
+        "Country":"Albania"
+    },
+    "TRE":{
+        "City":"Tiree (island)",
+        "Country":"Scotland, UK"
+    },
+    "TRZ":{
+        "City":"Tiruchirapally",
+        "Country":"Tamil Nadu, India"
+    },
+    "TIR":{
+        "City":"Tirupati",
+        "Country":"Andhra Pradesh, India"
+    },
+    "TIX":{
+        "City":"Titusville (FL)",
+        "Country":"USA"
+    },
+    "TIV":{
+        "City":"Tivat",
+        "Country":"Montenegro"
+    },
+    "TZM":{
+        "City":"Tizim\u00edn",
+        "Country":"Yucatan, Mexico"
+    },
+    "TMM":{
+        "City":"Toamasina",
+        "Country":"Madagascar"
+    },
+    "TOB":{
+        "City":"Tobruk",
+        "Country":"Libya"
+    },
+    "TKS":{
+        "City":"Tokushima",
+        "Country":"Japan"
+    },
+    "TYO":{
+        "City":"Tokyo (capital city)",
+        "Country":"Japan"
+    },
+    "HND":{
+        "City":"Tokyo",
+        "Country":"Japan"
+    },
+    "TOL":{
+        "City":"Toledo (OH)",
+        "Country":"USA"
+    },
+    "TLC":{
+        "City":"Toluca (near Mexico City)",
+        "Country":"Mexico State, Mexico"
+    },
+    "TPR":{
+        "City":"Tom Price",
+        "Country":"WA, Australia"
+    },
+    "TOF":{
+        "City":"Tomsk",
+        "Country":"Russia"
+    },
+    "TNH":{
+        "City":"Tonghua",
+        "Country":"Jilin, China"
+    },
+    "TEN":{
+        "City":"Tongren",
+        "Country":"Guizhou, China"
+    },
+    "TWB":{
+        "City":"Toowoomba",
+        "Country":"Queensland, Australia"
+    },
+    "FOE":{
+        "City":"Topeka (KS)",
+        "Country":"USA"
+    },
+    "YTO":{
+        "City":"Toronto",
+        "Country":"Ontario, Canada"
+    },
+    "YYZ":{
+        "City":"Toronto",
+        "Country":"Canada"
+    },
+    "YKZ":{
+        "City":"Toronto",
+        "Country":"Canada"
+    },
+    "YTZ":{
+        "City":"Toronto",
+        "Country":"Canada"
+    },
+    "TRC":{
+        "City":"Torre\u00f3n",
+        "Country":"Coahuila, Mexico"
+    },
+    "TTQ":{
+        "City":"Tortuguero",
+        "Country":"Costa Rica"
+    },
+    "TOU":{
+        "City":"Touho",
+        "Country":"New Caledonia"
+    },
+    "TLN":{
+        "City":"Toulon",
+        "Country":"France"
+    },
+    "TLS":{
+        "City":"Toulouse",
+        "Country":"France"
+    },
+    "TUF":{
+        "City":"Tours",
+        "Country":"France"
+    },
+    "TSV":{
+        "City":"Townsville",
+        "Country":"QueenslandAustralia"
+    },
+    "TOY":{
+        "City":"Toyama",
+        "Country":"Japan"
+    },
+    "TZX":{
+        "City":"Trabzon",
+        "Country":"Turkey"
+    },
+    "TST":{
+        "City":"Trang",
+        "Country":"Thailand"
+    },
+    "TPS":{
+        "City":"Trapani",
+        "Country":"Sicily, Italy"
+    },
+    "TDX":{
+        "City":"Trat",
+        "Country":"Thailand"
+    },
+    "TVC":{
+        "City":"Traverse City (MI)",
+        "Country":"USA"
+    },
+    "TCB":{
+        "City":"Treasure Cay",
+        "Country":"Bahamas"
+    },
+    "TTN":{
+        "City":"Trenton (NJ)",
+        "Country":"USA"
+    },
+    "TSF":{
+        "City":"Treviso",
+        "Country":"Italy"
+    },
+    "TRS":{
+        "City":"Trieste",
+        "Country":"Italy"
+    },
+    "TRI":{
+        "City":"Tri-Cities (TN/VA)",
+        "Country":"USA"
+    },
+    "TRR":{
+        "City":"Trincomalee",
+        "Country":"Sri Lanka"
+    },
+    "TDD":{
+        "City":"Trinidad",
+        "Country":"Bolivia"
+    },
+    "TIP":{
+        "City":"Tripoli (capital city)",
+        "Country":"Libya"
+    },
+    "TOS":{
+        "City":"Tromsoe (Troms\u00f8)",
+        "Country":"Norway"
+    },
+    "TRD":{
+        "City":"Trondheim",
+        "Country":"Norway"
+    },
+    "QYR":{
+        "City":"Troyes",
+        "Country":"France"
+    },
+    "TKF":{
+        "City":"Truckee (CA)",
+        "Country":"USA"
+    },
+    "TRU":{
+        "City":"Trujillo",
+        "Country":"Peru"
+    },
+    "TSB":{
+        "City":"Tsumeb",
+        "Country":"Namibia"
+    },
+    "TUS":{
+        "City":"Tucson (AZ)",
+        "Country":"USA"
+    },
+    "TUC":{
+        "City":"Tucuman",
+        "Country":"Argentina"
+    },
+    "TUG":{
+        "City":"Tuguegarao",
+        "Country":"Cagayan, Philippines"
+    },
+    "TLR":{
+        "City":"Tulare (CA)",
+        "Country":"USA"
+    },
+    "TUA":{
+        "City":"Tulc\u00e1n",
+        "Country":"Ecuador"
+    },
+    "THA":{
+        "City":"Tullahoma (TN)",
+        "Country":"USA"
+    },
+    "TUP":{
+        "City":"Tupelo (MS)",
+        "Country":"USA"
+    },
+    "TUL":{
+        "City":"Tulsa (OK)",
+        "Country":"USA"
+    },
+    "TBP":{
+        "City":"Tumbes",
+        "Country":"Peru"
+    },
+    "TUN":{
+        "City":"Tunis (capital city)",
+        "Country":"Tunisia"
+    },
+    "TUK":{
+        "City":"Turbat",
+        "Country":"Pakistan"
+    },
+    "TRN":{
+        "City":"Turin",
+        "Country":"Italy"
+    },
+    "TKU":{
+        "City":"Turku",
+        "Country":"Finland"
+    },
+    "TCL":{
+        "City":"Tuscaloosa (AL)",
+        "Country":"USA"
+    },
+    "TGZ":{
+        "City":"Tuxtla Gutierrez",
+        "Country":"Mexico"
+    },
+    "TWF":{
+        "City":"Twin Falls (ID)",
+        "Country":"USA"
+    },
+    "TYR":{
+        "City":"Tyler (TX)",
+        "Country":"USA"
+    },
+    "TJM":{
+        "City":"Tyumen",
+        "Country":"Russia"
+    },
+    "UAH":{
+        "City":"Ua Huka (island)",
+        "Country":"French Polynesia"
+    },
+    "UAP":{
+        "City":"Ua Pou (island)",
+        "Country":"French Polynesia"
+    },
+    "UBJ":{
+        "City":"Ube",
+        "Country":"Yamaguchi, Japan"
+    },
+    "UBA":{
+        "City":"Uberaba",
+        "Country":"Minas Gerais, Brazil"
+    },
+    "UDI":{
+        "City":"Uberlandia",
+        "Country":"Minas Gerais, Brazil"
+    },
+    "UBP":{
+        "City":"Ubon Ratchathani",
+        "Country":"Thailand"
+    },
+    "UDR":{
+        "City":"Udaipur",
+        "Country":"Rajasthan, India"
+    },
+    "UTH":{
+        "City":"Udon Thani",
+        "Country":"Thailand"
+    },
+    "UFA":{
+        "City":"Ufa",
+        "Country":"Bashkortostan, Russia"
+    },
+    "UHE":{
+        "City":"Uherske Hradiste",
+        "Country":"Czech Republic"
+    },
+    "UGO":{
+        "City":"Uige",
+        "Country":"Angola"
+    },
+    "UCT":{
+        "City":"Ukhta",
+        "Country":"Komi, Russia"
+    },
+    "UKI":{
+        "City":"Ukiah (CA)",
+        "Country":"USA"
+    },
+    "ULN":{
+        "City":"Ulaanbaatar (capital city)",
+        "Country":"Mongolia"
+    },
+    "ULO":{
+        "City":"Ulaangom",
+        "Country":"Mongolia"
+    },
+    "HLH":{
+        "City":"Ulanhot",
+        "Country":"Inner Mongolia, China"
+    },
+    "UUD":{
+        "City":"Ulan-Ude",
+        "Country":"Russia"
+    },
+    "ULB":{
+        "City":"Ulei",
+        "Country":"Ambrym, Vanuatu"
+    },
+    "ULG":{
+        "City":"Ulgii (\u00d6lgii)",
+        "Country":"Mongolia"
+    },
+    "USN":{
+        "City":"Ulsan",
+        "Country":"South Korea"
+    },
+    "ULD":{
+        "City":"Ulundi",
+        "Country":"South Africa"
+    },
+    "ULV":{
+        "City":"Ulyanovsk",
+        "Country":"Russia"
+    },
+    "ULY":{
+        "City":"Ulyanovsk",
+        "Country":"Russia"
+    },
+    "UME":{
+        "City":"Umea (Ume\u00e5)",
+        "Country":"Sweden"
+    },
+    "UMT":{
+        "City":"Umiat (AK)",
+        "Country":"USA"
+    },
+    "YUD":{
+        "City":"Umiujaq",
+        "Country":"Canada"
+    },
+    "UNK":{
+        "City":"Unalakleet (AK)",
+        "Country":"USA"
+    },
+    "UCY":{
+        "City":"Union City (TN)",
+        "Country":"USA"
+    },
+    "UNI":{
+        "City":"Union Island",
+        "Country":"Saint Vincent and the Grenadines"
+    },
+    "UNT":{
+        "City":"Unst (Shetland Island)",
+        "Country":"United Kingdom"
+    },
+    "UPL":{
+        "City":"Upala",
+        "Country":"Costa Rica"
+    },
+    "JUV":{
+        "City":"Upernavik",
+        "Country":"Greenland"
+    },
+    "UTN":{
+        "City":"Upington",
+        "Country":"South Africa"
+    },
+    "UPP":{
+        "City":"Upolu Point (HI)",
+        "Country":"USA"
+    },
+    "YBE":{
+        "City":"Uranium City",
+        "Country":"Saskatchewan, Canada"
+    },
+    "URJ":{
+        "City":"Uray",
+        "Country":"Russia"
+    },
+    "UGC":{
+        "City":"Urgench",
+        "Country":"Uzbekistan"
+    },
+    "URM":{
+        "City":"Uriman",
+        "Country":"Venezuela"
+    },
+    "OMH":{
+        "City":"Urmia (Urmieh)",
+        "Country":"Iran"
+    },
+    "UPN":{
+        "City":"Uruapan",
+        "Country":"Mexico"
+    },
+    "URB":{
+        "City":"Urubupunga",
+        "Country":"Brazil"
+    },
+    "URG":{
+        "City":"Uruguaiana",
+        "Country":"Brazil"
+    },
+    "URC":{
+        "City":"Urumqi",
+        "Country":"Xinjiang, China"
+    },
+    "URZ":{
+        "City":"Uruzgan",
+        "Country":"Afghanistan"
+    },
+    "USQ":{
+        "City":"Usak",
+        "Country":"Turkey"
+    },
+    "USH":{
+        "City":"Ushuaia",
+        "Country":"Tierra del Fuego, Argentina"
+    },
+    "UIK":{
+        "City":"Ust-Ilimsk",
+        "Country":"Irkutsk Oblast, Russia"
+    },
+    "UKX":{
+        "City":"Ust-Kut",
+        "Country":"Irkutsk Oblast, Russia"
+    },
+    "UKG":{
+        "City":"Ust-Kuyga",
+        "Country":"Yakutia, Russia"
+    },
+    "UCA":{
+        "City":"Utica (NY)",
+        "Country":"USA"
+    },
+    "UII":{
+        "City":"Utila (island)",
+        "Country":"Honduras"
+    },
+    "UVA":{
+        "City":"Uvalde (TX)",
+        "Country":"USA"
+    },
+    "UMD":{
+        "City":"Uummannaq",
+        "Country":"Greenland"
+    },
+    "UYU":{
+        "City":"Uyuni",
+        "Country":"Potos\u00ed, Bolivia"
+    },
+    "UDJ":{
+        "City":"Uzhgorod",
+        "Country":"Ukraine"
+    },
+    "UZC":{
+        "City":"Uzice",
+        "Country":"Serbia"
+    },
+    "VAA":{
+        "City":"Vaasa",
+        "Country":"Finland"
+    },
+    "VDS":{
+        "City":"Vads\u00f8",
+        "Country":"Norway"
+    },
+    "VXO":{
+        "City":"Vaexjoe (V\u00e4xj\u00f6)",
+        "Country":"Sweden"
+    },
+    "EGE":{
+        "City":"Vail (CO)",
+        "Country":"USA"
+    },
+    "YVO":{
+        "City":"Val d'Or",
+        "Country":"Quebec, Canada"
+    },
+    "VDZ":{
+        "City":"Valdez (AK)",
+        "Country":"USA"
+    },
+    "VLD":{
+        "City":"Valdosta (GA)",
+        "Country":"USA"
+    },
+    "VAF":{
+        "City":"Valence",
+        "Country":"France"
+    },
+    "VLC":{
+        "City":"Valencia",
+        "Country":"Spain"
+    },
+    "VLN":{
+        "City":"Valencia",
+        "Country":"Venezuela"
+    },
+    "VLV":{
+        "City":"Valera",
+        "Country":"Venezuela"
+    },
+    "VLL":{
+        "City":"Valladolid",
+        "Country":"Spain"
+    },
+    "VDP":{
+        "City":"Valle de la Pascua",
+        "Country":"Venezuela"
+    },
+    "VUP":{
+        "City":"Valledupar",
+        "Country":"Colombia"
+    },
+    "VPZ":{
+        "City":"Valparaiso, (IN)",
+        "Country":"USA"
+    },
+    "VAP":{
+        "City":"Valparaiso (Vi\u00f1a del Mar)",
+        "Country":"Chile"
+    },
+    "VDE":{
+        "City":"Valverde (Canary Islands)",
+        "Country":"Spain"
+    },
+    "VAN":{
+        "City":"Van",
+        "Country":"Turkey"
+    },
+    "YVR":{
+        "City":"Vancouver",
+        "Country":"Canada"
+    },
+    "VNY":{
+        "City":"Van Nuys (Los Angeles)",
+        "Country":"USA"
+    },
+    "VRA":{
+        "City":"Varadero",
+        "Country":"Cuba"
+    },
+    "VNS":{
+        "City":"Varanasi",
+        "Country":"Uttar Pradesh, India"
+    },
+    "VAW":{
+        "City":"Vardo (Vard\u00f8)",
+        "Country":"Norway"
+    },
+    "VAG":{
+        "City":"Varginha",
+        "Country":"Brazil"
+    },
+    "VRK":{
+        "City":"Varkaus",
+        "Country":"Finland"
+    },
+    "VAR":{
+        "City":"Varna",
+        "Country":"Bulgaria"
+    },
+    "VST":{
+        "City":"Vasteras (V\u00e4ster\u00e5s)",
+        "Country":"Sweden"
+    },
+    "XCR":{
+        "City":"Vatry",
+        "Country":"France"
+    },
+    "VLU":{
+        "City":"Velikiye Luki (Welikije Luki)",
+        "Country":"Russia"
+    },
+    "VCE":{
+        "City":"Venice",
+        "Country":"Italy"
+    },
+    "VNT":{
+        "City":"Ventspils",
+        "Country":"Latvia"
+    },
+    "VER":{
+        "City":"Veracruz",
+        "Country":"Mexico"
+    },
+    "VEL":{
+        "City":"Vernal (UT)",
+        "Country":"USA"
+    },
+    "VRB":{
+        "City":"Vero Beach/Ft. Pierce (FL)",
+        "Country":"USA"
+    },
+    "VRN":{
+        "City":"Verona",
+        "Country":"Italy"
+    },
+    "VEY":{
+        "City":"Vestmannaeyjar",
+        "Country":"Iceland"
+    },
+    "VIC":{
+        "City":"Vicenza",
+        "Country":"Italy"
+    },
+    "VCH":{
+        "City":"Vichadero",
+        "Country":"Uruguay"
+    },
+    "YYJ":{
+        "City":"Victoria",
+        "Country":"BC, Canada"
+    },
+    "VCT":{
+        "City":"Victoria (TX)",
+        "Country":"USA"
+    },
+    "VFA":{
+        "City":"Victoria Falls",
+        "Country":"Zimbabwe"
+    },
+    "VCV":{
+        "City":"Victorville (CA)",
+        "Country":"USA"
+    },
+    "VID":{
+        "City":"Vidin",
+        "Country":"Bulgaria"
+    },
+    "VDM":{
+        "City":"Viedma",
+        "Country":"R\u00edo Negro, Argentina"
+    },
+    "VIE":{
+        "City":"Wien (Vienna)",
+        "Country":"Austria"
+    },
+    "VTE":{
+        "City":"Vientiane",
+        "Country":"Lao PDR"
+    },
+    "VQS":{
+        "City":"Vieques (island)",
+        "Country":"Puerto Rico"
+    },
+    "VGO":{
+        "City":"Vigo",
+        "Country":"Galicia, Spain"
+    },
+    "VGA":{
+        "City":"Vijayawada",
+        "Country":"Andhra Pradesh, India"
+    },
+    "VNX":{
+        "City":"Vilankulo",
+        "Country":"Mozambique"
+    },
+    "VRL":{
+        "City":"Vila Real",
+        "Country":"Portugal"
+    },
+    "VLG":{
+        "City":"Villa Gesell",
+        "Country":"Argentina"
+    },
+    "VSA":{
+        "City":"Villahermosa",
+        "Country":"Mexico"
+    },
+    "VNO":{
+        "City":"Wilna (Vilnius; capital city)",
+        "Country":"Lithuania"
+    },
+    "VII":{
+        "City":"Vinh",
+        "Country":"Vietnam"
+    },
+    "VRC":{
+        "City":"Virac",
+        "Country":"Catanduanes, Philippines"
+    },
+    "VIJ":{
+        "City":"Virgin Gorda",
+        "Country":"Virgin Islands (UK)"
+    },
+    "VTZ":{
+        "City":"Visakhapatnam",
+        "Country":"Andhra Pradesh, India"
+    },
+    "VIS":{
+        "City":"Visalia (CA)",
+        "Country":"USA"
+    },
+    "VBY":{
+        "City":"Visby",
+        "Country":"Sweden"
+    },
+    "VIX":{
+        "City":"Vitoria",
+        "Country":"Esp\u00edrito Santo, Brazil"
+    },
+    "VDC":{
+        "City":"Vit\u00f3ria da Conquista",
+        "Country":"Bahia, Brazil"
+    },
+    "VIT":{
+        "City":"Vitoria-Gasteiz",
+        "Country":"Spain"
+    },
+    "VVO":{
+        "City":"Vladivostok",
+        "Country":"Russia"
+    },
+    "VOG":{
+        "City":"Volgograd",
+        "Country":"Russia"
+    },
+    "VOL":{
+        "City":"Volos",
+        "Country":"Greece"
+    },
+    "VOZ":{
+        "City":"Voronezh",
+        "Country":"Russia"
+    },
+    "VYD":{
+        "City":"Vryheid",
+        "Country":"KwaZulu-Natal, South Africa"
+    },
+    "YWK":{
+        "City":"Wabush",
+        "Country":"NL, Canada"
+    },
+    "ACT":{
+        "City":"Waco (TX)",
+        "Country":"USA"
+    },
+    "WHF":{
+        "City":"Wadi Halfa",
+        "Country":"Sudan"
+    },
+    "WGA":{
+        "City":"Wagga Wagga",
+        "Country":"NSW, Australia"
+    },
+    "WGP":{
+        "City":"Waingapu",
+        "Country":"Sumba, Indonesia"
+    },
+    "WKJ":{
+        "City":"Wakkanai",
+        "Country":"Hokkaido, Japan"
+    },
+    "ALW":{
+        "City":"Walla Walla (WA)",
+        "Country":"USA"
+    },
+    "WLS":{
+        "City":"Wallis (island)",
+        "Country":"Wallis and Futuna Islands"
+    },
+    "WVB":{
+        "City":"Walvis Bay",
+        "Country":"Erongo, Namibia"
+    },
+    "WKA":{
+        "City":"Wanaka",
+        "Country":"New Zealand"
+    },
+    "WOT":{
+        "City":"Wang-an",
+        "Country":"Penghu Islands, Taiwan"
+    },
+    "WXN":{
+        "City":"Wanzhou (district)",
+        "Country":"Chongqing, China"
+    },
+    "WMB":{
+        "City":"Warrnambool",
+        "Country":"Victoria, Australia"
+    },
+    "WAW":{
+        "City":"Warsaw (capital city)",
+        "Country":"Poland"
+    },
+    "WMI":{
+        "City":"Warsaw",
+        "Country":"Poland"
+    },
+    "WAS":{
+        "City":"Washington D.C. (capital city)",
+        "Country":"USA"
+    },
+    "IAD":{
+        "City":"Washington D.C.",
+        "Country":"USA"
+    },
+    "DCA":{
+        "City":"Washington D.C.",
+        "Country":"USA"
+    },
+    "WAT":{
+        "City":"Waterford",
+        "Country":"Ireland"
+    },
+    "ALO":{
+        "City":"Waterloo (IA)",
+        "Country":"USA"
+    },
+    "YKF":{
+        "City":"Woolwich",
+        "Country":"Ontario, Canada"
+    },
+    "ART":{
+        "City":"Watertown (NY)",
+        "Country":"USA"
+    },
+    "ATY":{
+        "City":"Watertown (SD)",
+        "Country":"USA"
+    },
+    "CWA":{
+        "City":"Wausau/Stevens Point (WI)",
+        "Country":"USA"
+    },
+    "WAY":{
+        "City":"Waynesburg (PA)",
+        "Country":"USA"
+    },
+    "WEF":{
+        "City":"Weifang",
+        "Country":"Shandong, China"
+    },
+    "WEH":{
+        "City":"Weihai",
+        "Country":"Shandong, China"
+    },
+    "WEI":{
+        "City":"Weipa",
+        "Country":"Queensland, Australia"
+    },
+    "WEL":{
+        "City":"Welkom",
+        "Country":"Free State, South Africa"
+    },
+    "WLG":{
+        "City":"Wellington (capital city)",
+        "Country":"New Zealand"
+    },
+    "EAT":{
+        "City":"Wenatchee (WA)",
+        "Country":"USA"
+    },
+    "TKK":{
+        "City":"Weno (island)",
+        "Country":"Micronesia"
+    },
+    "WNZ":{
+        "City":"Wenzhou",
+        "Country":"Zhejiang, China"
+    },
+    "GWT":{
+        "City":"Westerland",
+        "Country":"Germany"
+    },
+    "PBI":{
+        "City":"West Palm Beach (FL)",
+        "Country":"USA"
+    },
+    "WSZ":{
+        "City":"Westport",
+        "Country":"New Zealand"
+    },
+    "WYS":{
+        "City":"West Yellowstone (MT)",
+        "Country":"USA"
+    },
+    "WHK":{
+        "City":"Whakatane",
+        "Country":"New Zealand"
+    },
+    "YXN":{
+        "City":"Whale Cove",
+        "Country":"Nunavut, Canada"
+    },
+    "WAG":{
+        "City":"Whanganui",
+        "Country":"New Zealand"
+    },
+    "WRE":{
+        "City":"Whangarei",
+        "Country":"New Zealand"
+    },
+    "HPN":{
+        "City":"White Plains (NY)",
+        "Country":"USA"
+    },
+    "YXY":{
+        "City":"Whitehorse",
+        "Country":"Yukon, Canada"
+    },
+    "WTR":{
+        "City":"Whiteriver (AZ)",
+        "Country":"USA"
+    },
+    "WYA":{
+        "City":"Whyalla",
+        "Country":"SA, Australia"
+    },
+    "SPS":{
+        "City":"Wichita Falls (TX)",
+        "Country":"USA"
+    },
+    "ICT":{
+        "City":"Wichita (KS)",
+        "Country":"USA"
+    },
+    "WIC":{
+        "City":"Wick",
+        "Country":"Scotland, UK"
+    },
+    "WIE":{
+        "City":"Wiesbaden",
+        "Country":"Hessen, Germany"
+    },
+    "AVP":{
+        "City":"Wilkes Barre-Scranton (PA)",
+        "Country":"USA"
+    },
+    "YWL":{
+        "City":"Williams Lake",
+        "Country":"BC, Canada"
+    },
+    "IPT":{
+        "City":"Williamsport (PA)",
+        "Country":"USA"
+    },
+    "ISN":{
+        "City":"Williston (ND)",
+        "Country":"USA"
+    },
+    "ILM":{
+        "City":"Wilmington (NC)",
+        "Country":"USA"
+    },
+    "WUN":{
+        "City":"Wiluna",
+        "Country":"WA, Australia"
+    },
+    "WGO":{
+        "City":"Winchester (VA)",
+        "Country":"USA"
+    },
+    "WDH":{
+        "City":"Windhoek",
+        "Country":"Namibia"
+    },
+    "ERS":{
+        "City":"Windhoek",
+        "Country":"Namibia"
+    },
+    "YQG":{
+        "City":"Windsor",
+        "Country":"Ontario, Canada"
+    },
+    "WLD":{
+        "City":"Winfield (KS)",
+        "Country":"USA"
+    },
+    "WMC":{
+        "City":"Winnemucca (NV)",
+        "Country":"USA"
+    },
+    "YWG":{
+        "City":"Winnipeg",
+        "Country":"Manitoba, Canada"
+    },
+    "OLF":{
+        "City":"Wolf Point (MT)",
+        "Country":"USA"
+    },
+    "WOL":{
+        "City":"Wollongong",
+        "Country":"NSW, Australia"
+    },
+    "WJU":{
+        "City":"Wonju",
+        "Country":"Gangwon, South Korea"
+    },
+    "WWR":{
+        "City":"Woodward (OK)",
+        "Country":"USA"
+    },
+    "ORH":{
+        "City":"Worcester (MA)",
+        "Country":"USA"
+    },
+    "WRL":{
+        "City":"Worland (WY)",
+        "Country":"USA"
+    },
+    "WRG":{
+        "City":"Wrangell (AK)",
+        "Country":"USA"
+    },
+    "YWY":{
+        "City":"Wrigley",
+        "Country":"NWT, Canada"
+    },
+    "WRO":{
+        "City":"Wroclaw (Wroc\u0142aw)",
+        "Country":"Poland"
+    },
+    "WUA":{
+        "City":"Wuhai",
+        "Country":"Inner Mongolia, China"
+    },
+    "WUH":{
+        "City":"Wuhan",
+        "Country":"Hubei, China"
+    },
+    "WUX":{
+        "City":"Wuxi, Suzhou",
+        "Country":"Jiangsu, China"
+    },
+    "WUZ":{
+        "City":"Wuzhou",
+        "Country":"Guangxi, China"
+    },
+    "WYN":{
+        "City":"Wyndham",
+        "Country":"WA, Australia"
+    },
+    "XGN":{
+        "City":"Xangongo",
+        "Country":"Cunene, Angola"
+    },
+    "XMN":{
+        "City":"Xiamen",
+        "Country":"Fujian, China"
+    },
+    "XFN":{
+        "City":"Xiangyang",
+        "Country":"Hubei, China"
+    },
+    "XIY":{
+        "City":"Xi'an - Xianyang",
+        "Country":"Shaanxi, China"
+    },
+    "XKH":{
+        "City":"Xieng Khouang (Phonsavan)",
+        "Country":"Laos"
+    },
+    "XIL":{
+        "City":"Xilinhot",
+        "Country":"Inner Mongolia, China"
+    },
+    "XIG":{
+        "City":"Xinguara",
+        "Country":"Par\u00e1, Brazil"
+    },
+    "XNT":{
+        "City":"Xingtai",
+        "Country":"Hebei, China"
+    },
+    "XNN":{
+        "City":"Xining",
+        "Country":"Qinghai, China"
+    },
+    "XUZ":{
+        "City":"Xuzhou",
+        "Country":"Jiangsu, China"
+    },
+    "YKM":{
+        "City":"Yakima (WA)",
+        "Country":"USA"
+    },
+    "YAK":{
+        "City":"Yakutat (AK)",
+        "Country":"USA"
+    },
+    "YKS":{
+        "City":"Yakutsk",
+        "Country":"Russia"
+    },
+    "GAJ":{
+        "City":"Yamagata",
+        "Country":"Japan"
+    },
+    "ASK":{
+        "City":"Yamoussoukro (capital city)",
+        "Country":"C\u00f4te d'Ivoire"
+    },
+    "YNB":{
+        "City":"Yanbu (Yenbo)",
+        "Country":"Saudi Arabia"
+    },
+    "YNZ":{
+        "City":"Yancheng",
+        "Country":"Jiangsu, China"
+    },
+    "YTY":{
+        "City":"Yangzhou",
+        "Country":"Jiangsu, China"
+    },
+    "YNJ":{
+        "City":"Yanji",
+        "Country":"Jilin, China"
+    },
+    "YKN":{
+        "City":"Yankton (SD)",
+        "Country":"USA"
+    },
+    "YNT":{
+        "City":"Yantai",
+        "Country":"Shandong, China"
+    },
+    "YAO":{
+        "City":"Yaounde",
+        "Country":"Cameroon"
+    },
+    "NSI":{
+        "City":"Yaounde",
+        "Country":"Cameroon"
+    },
+    "YAP":{
+        "City":"Yap (island)",
+        "Country":"Micronesia"
+    },
+    "YQI":{
+        "City":"Yarmouth",
+        "Country":"Nova Scotia, Canada"
+    },
+    "YAS":{
+        "City":"Yasawa (island)",
+        "Country":"Fiji"
+    },
+    "YZF":{
+        "City":"Yellowknife",
+        "Country":"NWT, Canada"
+    },
+    "YEI":{
+        "City":"Yenisehir (Bursa)",
+        "Country":"Turkey"
+    },
+    "YBP":{
+        "City":"Yibin",
+        "Country":"Sichuan, China"
+    },
+    "YIH":{
+        "City":"Yichang",
+        "Country":"Hubei, China"
+    },
+    "YIC":{
+        "City":"Yichun",
+        "Country":"Jiangxi, China"
+    },
+    "INC":{
+        "City":"Yinchuan",
+        "Country":"Ningxia, China"
+    },
+    "YIN":{
+        "City":"Yining",
+        "Country":"Xinjiang, China"
+    },
+    "YIW":{
+        "City":"Yiwu",
+        "Country":"Zhejiang, China"
+    },
+    "JOG":{
+        "City":"Yogyakarta",
+        "Country":"Java, Indonesia"
+    },
+    "YOK":{
+        "City":"Yokohama",
+        "Country":"Japan"
+    },
+    "YOL":{
+        "City":"Yola",
+        "Country":"Nigeria"
+    },
+    "YGJ":{
+        "City":"Yonago",
+        "Country":"Tottori, Japan"
+    },
+    "YNG":{
+        "City":"Youngstown (OH)",
+        "Country":"USA"
+    },
+    "YUM":{
+        "City":"Yuma (AZ)",
+        "Country":"USA"
+    },
+    "YCU":{
+        "City":"Yuncheng",
+        "Country":"Shanxi, China"
+    },
+    "YMS":{
+        "City":"Yurimaguas",
+        "Country":"Loreto, Peru"
+    },
+    "YUS":{
+        "City":"Yushu",
+        "Country":"Qinghai, China"
+    },
+    "UUS":{
+        "City":"Yuzno-Sakhalinsk",
+        "Country":"Sakhalin, Russia"
+    },
+    "ZBK":{
+        "City":"Zabljak",
+        "Country":"Montenegro"
+    },
+    "ZCL":{
+        "City":"Zacatecas",
+        "Country":"Mexico"
+    },
+    "ZAD":{
+        "City":"Zadar",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "ZAG":{
+        "City":"Zagreb (capital city)",
+        "Country":"Croatia (Hrvatska)"
+    },
+    "ZAH":{
+        "City":"Zahedan",
+        "Country":"Iran"
+    },
+    "ZTH":{
+        "City":"Zakynthos (island)",
+        "Country":"Greece"
+    },
+    "ZAM":{
+        "City":"Zamboanga City",
+        "Country":"Mindanao, Philippines"
+    },
+    "ZNZ":{
+        "City":"Zanzibar City",
+        "Country":"Tanzania"
+    },
+    "ZTU":{
+        "City":"Zaqatala",
+        "Country":"Azerbaijan"
+    },
+    "ZAZ":{
+        "City":"Zaragoza",
+        "Country":"Spain"
+    },
+    "ZAJ":{
+        "City":"Zaranj",
+        "Country":"Afghanistan"
+    },
+    "ZAR":{
+        "City":"Zaria",
+        "Country":"Kaduna, Nigeria"
+    },
+    "ZQZ":{
+        "City":"Zhangjiakou",
+        "Country":"Hebei, China"
+    },
+    "YZY":{
+        "City":"Zhangye",
+        "Country":"Gansu, China"
+    },
+    "ZHA":{
+        "City":"Zhanjiang",
+        "Country":"Guangdong, China"
+    },
+    "ZAT":{
+        "City":"Zhaotong",
+        "Country":"Yunnan, China"
+    },
+    "PZH":{
+        "City":"Zhob",
+        "Country":"Balochistan, Pakistan"
+    },
+    "ZHY":{
+        "City":"Zhongwei",
+        "Country":"Ningxia, China"
+    },
+    "HSN":{
+        "City":"Zhoushan",
+        "Country":"Zhejiang, China"
+    },
+    "ZUH":{
+        "City":"Zhuhai",
+        "Country":"Guangdong, China"
+    },
+    "ZTR":{
+        "City":"Zhytomyr",
+        "Country":"Ukraine"
+    },
+    "ZIG":{
+        "City":"Ziguinchor",
+        "Country":"Senegal"
+    },
+    "ZND":{
+        "City":"Zinder",
+        "Country":"Niger"
+    },
+    "ZER":{
+        "City":"Ziro (Zero)",
+        "Country":"Arunachal Pradesh, India"
+    },
+    "OUZ":{
+        "City":"Zouerate",
+        "Country":"Mauritania"
+    },
+    "ZYI":{
+        "City":"Zunyi",
+        "Country":"Guizhou, China"
+    },
+    "ZRH":{
+        "City":"Zurich (Z\u00fcrich)",
+        "Country":"Switzerland"
+    }
+}

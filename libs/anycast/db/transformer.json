@@ -1,0 +1,10 @@
+{
+    "IATA":{
+        "PR China": "CN",
+        "Singapore": "SG",
+        "Japan": "JP",
+        "Hong Kong": "HK",
+        "USA": "US",
+        "Zhejiang, China": "CN"
+    }
+}

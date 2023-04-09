@@ -1,0 +1,82 @@
+AMX#Amsterdam, NL
+AMZ#Amsterdam, NL 
+ANK#Ankara, TR 
+ASH#Ashburn, US 
+ASU#Asuncion, PY 
+BAH#Manama, BH 
+BEI#Beijing, CN 
+BKK#Bangkok, TH 
+BNX#Brussels, BE 
+BTS#Bratislava, SK 
+CBB#Cochabamba, BO 
+CCP#Concepción, CL 
+CHI#Chicago, US 
+CMX#Malmo, SE 
+COL#Colombo, LK 
+CPH#Malmo, SE 
+DBI#Dubai, AE 
+DEX#Frankfurt, DE 
+ECX#Manta, EC 
+EZE#Buenos Aires, AR 
+FIX#Helsinki, FI 
+FMT#Fremont, US 
+GBG#Göteborg, SE 
+GOT#Gothenburg, SE 
+GUA#Guatemala, GT 
+GVA#Geneve, CH 
+GYE#Guayaquil, EC 
+HKX#Hong Kong, HK 
+JAK#Jakarta, ID 
+JBT#Johannesburg, ZA 
+JNB#Johannesburg, ZA 
+JPP#Tokyo, JP 
+KAT#Kathmandu, NP 
+KUL#Kuala Lumpur, MY 
+LAB#Stockholm, SE 
+LJU#Ljubljana, SI 
+LNX#London, GB 
+LON#London, UK 
+LUL#Lulea, SE 
+LUX#Luxembourg, LU 
+MEX#Mexico City, MX 
+MIA#Miami, US 
+MIX#Milan, IT 
+MLN#Milan, IT 
+MNL#Manila, PH 
+MNP#Minneapolis, US 
+MTV#Montevideo, UY 
+MTY#Monterrey, MX 
+NIX#Oslo, NO 
+OSL#Oslo, NO 
+PAR#Paris, FR 
+PIX#San Francisco, US 
+PNH#Phnom Penhs, KH 
+PRT#Perth, AU 
+QTR#Doha, QA 
+RIG#Riga, LV 
+RIX#Riga, LV 
+RKV#Reykjavik, IS 
+ROX#Bucharest, RO 
+RWX#Kigali, RW 
+SAO#Sao Paolo, BR 
+SDL#Sundsvall, SE 
+SHE#Shenyang, CN 
+SIN#Singapore, SG 
+SOX#Belgrade, RS 
+SPB#Sankt Petersburg, RU 
+STC#Stockholm, SE 
+STH#Stockholm, SE 
+STU#Stockholm, SE 
+SUB#Stockholm, SE 
+TAI#Taipei, TW 
+THI#Thimphu, BT 
+THR#Shiraz, IR 
+TLL#Tallinn, EE 
+TOK#Tokyo, JP 
+UKX#Kiev, UA 
+ULA#Ulaanbaatar, MN 
+VUX#Vanuatu, FJ 
+WAS#Washington, US 
+WEL#Wellington, NZ 
+WIE#Wien, AT 
+YYC#Calgary, CA 
