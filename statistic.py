@@ -60,7 +60,7 @@ def getLocation(filepath):
     print("Processing file: {}".format(filepath))
 
     # read data
-    res = {}
+    res = []
     with open(filepath, "r") as f:
         data = json.load(f)
     chaos = data["chaos"]
@@ -74,20 +74,22 @@ def getLocation(filepath):
         loc_code = recog_code(name, id)
         loc_name = recog_name(name, id)
         if loc_code != None:
-            res[name] = {
-                "loc_code": loc_code,
-                "loc_name": loc_name,
-                "time": infos["time"],
-                "using_traceroute": False,
-                "ttl_gap": '',
-                "paths": paths_all[ROOTS[name]]
-            }
+            res.append([
+                name,               # dst ip
+                loc_code,           # loc_code
+                loc_name,           # loc_name
+                False,              # using traceroute
+                '',                 # ttl gap
+                infos["time"],      # time
+                None                # paths
+            ])
         else:
             unparsed.append(name)
     # print(json.dumps(res, indent=4, separators=(',', ':')))
+    # save all chaos loc and traceroute loc for root server
+    unparsed = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"]    
 
     # read recursive info
-    
     for name in RECUR + unparsed:
         if len(name) == 1: ip = ROOTS[name]
         else: ip = name
@@ -103,14 +105,15 @@ def getLocation(filepath):
                 addr = get_addr(path[str(ttl)])
                 if addr not in addrs:
                     addrs.add(addr)
-                    res[name] = {
-                        "loc_code": code,
-                        "loc_name": addr,
-                        "time": infos["time"],
-                        "using_traceroute": True,
-                        "ttl_gap": str(dst_ttl) + '->' + str(ttl),
-                        "paths": paths_all[ip]
-                    }
+                    res.append([
+                        name,               # dst ip
+                        code,               # loc_code
+                        addr,               # loc_name
+                        True,               # using traceroute
+                        str(dst_ttl) + '->' + str(ttl), # ttl gap
+                        infos["time"],      # time
+                        paths_all[ip]       # paths
+                    ])
                 break
     return res
 
@@ -123,56 +126,62 @@ def main():
         files = os.listdir(os.path.join(DIRNAME, city))
         for file in files:
             res = getLocation(os.path.join(DIRNAME, city, file))
-            for dst in list(res.keys()):
-                row = [CITY_CNNAME[city], dst, res[dst]["loc_code"], res[dst]["loc_name"],  res[dst]["using_traceroute"], res[dst]["ttl_gap"], res[dst]["time"], res[dst]["paths"]]
+            for record in res:
+                row = [CITY_CNNAME[city]] + record
                 rows.append(row)
 
-    trans = set()
-    csv_rows = []
+    trans = set()       # record IATA code without corresponding ISO-3166-1 code
     for row in rows:
         if row[2] != None and len(row[2]) > 5 and row[2][:5] == "IATA:":
             trans.add(row[2][5:])
-        csv_rows.append(row[:-1])
-        # print(row[:-1])
     print(trans)
+
+    # save result.csv
+    csv_rows = []
+    for row in rows:
+        csv_rows.append(row[:-1])
 
     with open("result.csv", "w", encoding='gbk') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(headers)
         writer.writerows(csv_rows) 
 
+    # save result_agg.csv and draw_data.json
     csv_rows_agg = {}
     draw_data = {}
-    csv_rows_appeared = {}
+    addr_key_set = {}
     for row in rows:
         print(row[:-1])
-        key = str(row[0]) + str(row[1]) + str(row[2]) + str(row[3])
-        if len(row[5]) > 0:
+        key = str(row[0]) + str(row[1]) + str(row[2]) + str(row[3]) + str(row[4])   # row[4] for save all chaos record
+        if len(row[5]) > 0:                 # traceroute location
             dst_ttl, loc_ttl = row[5].split('->')
             gap = int(dst_ttl) - int(loc_ttl)
-            if key not in csv_rows_appeared:
-                csv_rows_appeared[key] = gap
-            elif csv_rows_appeared[key] > gap:
-                csv_rows_appeared[key] = gap
+            if gap > 1:
+                continue
+            elif key not in addr_key_set:
+                addr_key_set[key] = gap
+            elif addr_key_set[key] > gap:
+                addr_key_set[key] = gap
             else:
                 continue
-        elif key in csv_rows_appeared:
+        elif key in addr_key_set:           # chaos location
             continue
-        else:
-            csv_rows_appeared[key] = 100000
+        else:                               # chaos location
+            addr_key_set[key] = 100000
             
         csv_rows_agg[key] = row[:-1]
-        draw_data[key] = {
-            "city": row[0],
-            "dst_target": row[1],
-            "dst_loc_code": row[2],
-            "dst_loc_name": row[3],
-            "using_traceroute": row[4],
-            "ttl_gap": row[5],
-            "time": row[6],
-            "paths": row[7],
-            "infos": get_ip_infos(row[7])
-        }
+        if row[-1] != None:             # the record has traceroute path
+            draw_data[key] = {
+                "city": row[0],
+                "dst_target": row[1],
+                "dst_loc_code": row[2],
+                "dst_loc_name": row[3],
+                "using_traceroute": row[4],
+                "ttl_gap": row[5],
+                "time": row[6],
+                "paths": row[7],
+                "infos": get_ip_infos(row[7])
+            }
 
     csv_rows_agg = list(csv_rows_agg.values())
     draw_data = list(draw_data.values())
@@ -182,7 +191,10 @@ def main():
         writer.writerow(headers)
         writer.writerows(csv_rows_agg)
 
-    print(len(draw_data))
+    print('csv_rows:' + len(csv_rows))
+    print('csv_rows_agg:' + len(csv_rows_agg))
+    print('draw_data:' + len(draw_data))
+    
 
     with open("draw_data.json", 'w', encoding='utf-8') as f:
         f.write(json.dumps(draw_data, ensure_ascii=False))
