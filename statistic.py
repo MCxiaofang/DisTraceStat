@@ -191,13 +191,13 @@ def main():
         writer.writerow(headers)
         writer.writerows(csv_rows_agg)
 
-    print('csv_rows:' + len(csv_rows))
-    print('csv_rows_agg:' + len(csv_rows_agg))
-    print('draw_data:' + len(draw_data))
-    
 
     with open("draw_data.json", 'w', encoding='utf-8') as f:
         f.write(json.dumps(draw_data, ensure_ascii=False))
 
+    print('csv_rows:' + str(len(csv_rows)))
+    print('csv_rows_agg:' + str(len(csv_rows_agg)))
+    print('draw_data:' + str(len(draw_data)))
+    
 if __name__ == "__main__":
     main()
