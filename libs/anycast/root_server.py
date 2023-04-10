@@ -79,7 +79,10 @@ def recog_I(identifier):
 
     city = DB['NETNOD_ID'][code]['city']
     cnt = DB['UN_LOCODE'][DB['NETNOD_ID'][code]['cnt_code']]['name']
-    return cnt + ' ' + city
+    if city == cnt:
+        return city
+    else:
+        return cnt + ' ' + city
 
 
 def recog_J(identifier: str) -> str:
@@ -110,7 +113,10 @@ def recog_L(identifier):
     cnt = DB['UN_LOCODE'][code[0].upper()]['name']
     city = DB['L_YAML'][code[0] + '-' + code[1]]['town']
 
-    return f'{cnt} {city}'
+    if city == cnt:
+        return city
+    else:
+        return f'{cnt} {city}'
 
 
 def recog_M(identifier):
@@ -125,7 +131,10 @@ def recog_IATA_CODE(code):
         return f'not found {code}'
 
     info = DB['IATA_CODE'][code]
-    return f"{info['Country']} {info['City']}"
+    if info['Country'] == info['City']:
+        return info['Country']
+    else:
+        return f"{info['Country']} {info['City']}"
 
 
 def get_one_id(info):

@@ -180,7 +180,7 @@ def recog_K(identifier):
     City = DB['UN_LOCODE'][code[0].upper()]['city'][code[1].upper()]
 
     if City == Country:
-        return City
+        return Country
     else:
         return f"{Country} {City}"
 
@@ -229,7 +229,7 @@ def recog_IATA_CODE(code):
         return f'not found {code}'
 
     info = DB['IATA_CODE'][code]
-    if info['Country'] == info['Country']:
+    if info['Country'] == info['City']:
         return info['Country']
     else:
         return f"{info['Country']} {info['City']}"
